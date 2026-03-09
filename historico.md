@@ -2,7 +2,15 @@
 
 Este arquivo registra cronologicamente todas as alterações, criações de arquivos e decisões significativas do projeto.
 
-## [2026-03-09]
+- **2026-03-09 11:20**: [MOD] `roadmap_tecnico.md`, `implementation_plan.md`, `historico.md` - Atualização maciça detalhando os exatos próximos passos do Frontend (Foco na tela PDV/Vendas e Camada Mock API) e fixo do problema de Document Drift através da promessa de uma revisão periódica de governança na transição de tarefas.
+
+- **2026-03-09 11:10**: [NEW] `ProductForm.tsx`, `CustomerForm.tsx`, `src/__tests__/` - Criação do Cadastro de Produtos e Clientes, com as devidas integrações de rota nas telas de listagem. Instalação e configuração completa do suite de testes automatizados com Vitest, happy-dom e React Testing Library (fundação do Test-First). Renderizados 6 testes de integração/UI com sucesso.
+
+- **2026-03-09 10:55**: [FIX] `badge.tsx`, `Inventory.tsx`, `Orders.tsx`, `Dashboard.tsx` - Correção dos Badges de status. Implementação de variantes nativas (`success`, `warning`, `info`) para garantir que as cores semânticas (Verde, Laranja, Azul, Vermelho) sejam aplicadas corretamente sem sobreposição.
+
+- **2026-03-09 10:27**: [MOD] `task.md`, `implementation_plan.md` - Pivot estratégico para **Frontend-First**. Prioridade total na UI e Mock Data antes do backend.
+
+- **2026-03-09 10:22**: [NEW] `README.md`, `.gitignore`, `git init` - Inicialização do repositório Git e primeiro commit conectado ao GitHub (`webappERP.git`).
 
 - **2026-03-09 10:17**: [MOD] `segurancaIA.md` - Adição da regra de Imutabilidade de Histórico e atualização da stack base (Python/React).
 
