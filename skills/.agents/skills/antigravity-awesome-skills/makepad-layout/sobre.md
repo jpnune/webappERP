@@ -1,0 +1,1 @@
+Sistema de layout do Makepad: flexibilidade, dimensionamento (Fit/Fill) e alinhamento preciso de componentes visuais.

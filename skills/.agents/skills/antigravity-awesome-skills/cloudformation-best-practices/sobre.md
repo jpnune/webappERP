@@ -1,0 +1,1 @@
+Otimização de templates CloudFormation, 'nested stacks' e detecção de desvios em infraestrutura AWS.

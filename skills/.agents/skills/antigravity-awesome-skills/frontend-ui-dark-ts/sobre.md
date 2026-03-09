@@ -1,0 +1,1 @@
+Construção de aplicações React com tema escuro (Dark Mode), glassmorphism e animações Framer Motion via Tailwind CSS.

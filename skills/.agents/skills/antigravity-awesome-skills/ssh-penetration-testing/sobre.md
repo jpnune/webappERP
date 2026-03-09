@@ -1,0 +1,1 @@
+Testes de intrusão em serviços SSH: enumeração de configurações, testes de força bruta de credenciais e exploração de vulnerabilidades.

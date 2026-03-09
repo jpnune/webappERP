@@ -1,0 +1,1 @@
+Integração e boas práticas de uso da ferramenta de gestão de projetos Linear.

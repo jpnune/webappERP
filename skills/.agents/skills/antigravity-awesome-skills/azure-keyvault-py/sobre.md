@@ -1,0 +1,1 @@
+Segurança de dados em Python: gestão centralizada de segredos, chaves e certificados em instâncias do Azure Key Vault.

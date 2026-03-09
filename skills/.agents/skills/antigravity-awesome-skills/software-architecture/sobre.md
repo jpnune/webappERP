@@ -1,0 +1,1 @@
+Guia de arquitetura de software focada em qualidade: design, análise e revisão de código em todo o ciclo de vida do desenvolvimento.

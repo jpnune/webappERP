@@ -1,0 +1,1 @@
+Implementação do padrão CQRS: separação de modelos de leitura e escrita para arquiteturas escaláveis e eficientes.

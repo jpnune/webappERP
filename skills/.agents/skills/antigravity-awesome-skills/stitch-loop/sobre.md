@@ -1,0 +1,1 @@
+Ciclo de construção iterativa de sites com Stitch: padrão de passagem autônoma de tarefas entre agentes para desenvolvimento web.

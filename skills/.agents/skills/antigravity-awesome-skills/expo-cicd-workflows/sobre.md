@@ -1,0 +1,1 @@
+Auxílio na escrita de arquivos YAML para workflows de CI/CD em projetos Expo e EAS Build.

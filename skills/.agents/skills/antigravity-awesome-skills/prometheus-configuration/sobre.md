@@ -1,0 +1,1 @@
+Configuração do Prometheus para monitoramento: coleta e armazenamento de métricas de infraestrutura e aplicações em escala.

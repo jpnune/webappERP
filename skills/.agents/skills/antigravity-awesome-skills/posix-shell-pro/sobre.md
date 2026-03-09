@@ -1,0 +1,1 @@
+Especialista em scripts shell POSIX estritos: garantia de portabilidade máxima em sistemas Unix e distribuições Linux minimalistas.

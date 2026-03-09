@@ -1,0 +1,1 @@
+SDK Go da DBOS para construção de aplicações tolerantes a falhas com workflows duráveis e filas de tarefas resilientes.

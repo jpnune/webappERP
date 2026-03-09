@@ -1,0 +1,1 @@
+Automação no Twitter/X via MCP: busca de usuários, criação de posts e gestão de mídia de forma automatizada via Composio.

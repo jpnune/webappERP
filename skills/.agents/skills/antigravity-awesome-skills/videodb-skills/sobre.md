@@ -1,0 +1,1 @@
+Manipulação de mídia via VideoDB SDK: upload, streaming, busca e geração inteligente de conteúdo audiovisual.

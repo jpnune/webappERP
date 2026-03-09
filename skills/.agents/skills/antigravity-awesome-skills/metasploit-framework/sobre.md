@@ -1,0 +1,1 @@
+Uso técnico do framework Metasploit para testes de intrusão: exploração de falhas com msfconsole e geração de payloads.

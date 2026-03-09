@@ -1,0 +1,1 @@
+Doutrina de design mobile-first: interações por toque, performance móvel, convenções de plataforma e comportamento offline.

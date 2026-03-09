@@ -1,0 +1,1 @@
+Domínio do gestor uv: gestão ultra-rápida de dependências Python, ambientes virtuais e workflows modernos de projeto.

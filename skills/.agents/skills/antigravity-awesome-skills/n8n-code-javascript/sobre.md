@@ -1,0 +1,1 @@
+Escrita de código JavaScript em nós do n8n: manipulação de dados via $input/$json e requisições HTTP avançadas.

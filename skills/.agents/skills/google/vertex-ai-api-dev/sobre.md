@@ -1,0 +1,1 @@
+Uso da API Gemini no ambiente empresarial do Google Cloud Vertex AI, incluindo predição em lote e gerenciamento de modelos.

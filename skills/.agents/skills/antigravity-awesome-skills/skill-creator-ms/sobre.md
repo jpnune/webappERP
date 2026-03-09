@@ -1,0 +1,1 @@
+Guia para criação de skills para agentes de IA: foco no uso de SDKs da Azure e serviços Microsoft Foundry com padrões de excelência.

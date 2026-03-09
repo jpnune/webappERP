@@ -1,0 +1,1 @@
+Especialista em desenvolvimento de agentes robustos utilizando as versões mais recentes do LangChain e LangGraph.

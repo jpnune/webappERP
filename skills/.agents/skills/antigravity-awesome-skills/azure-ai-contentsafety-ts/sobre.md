@@ -1,0 +1,1 @@
+Análise de segurança de conteúdo em JavaScript/TypeScript para moderação de conteúdo gerado por usuário em aplicações web.

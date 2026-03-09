@@ -1,0 +1,1 @@
+Escrita de JavaScript moderno (ES6+): foco em padrões assíncronos, loop de eventos do Node.js e compatibilidade de navegadores.

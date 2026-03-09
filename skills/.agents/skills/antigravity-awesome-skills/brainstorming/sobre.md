@@ -1,0 +1,1 @@
+Transforma ideias vagas em designs validados através de raciocínio estruturado e colaboração antes da implementação de features.

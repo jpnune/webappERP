@@ -1,0 +1,1 @@
+Consultoria técnica para aquisição de energia (eletricidade e gás), otimização de tarifas e gestão de custos multi-instalações.

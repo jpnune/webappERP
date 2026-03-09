@@ -1,0 +1,1 @@
+Padrões de teste E2E com Playwright e Cypress para construção de suítes de teste confiáveis e rápidas.

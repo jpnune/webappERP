@@ -1,0 +1,1 @@
+Habilita análise de código ultra-granular para construir contexto arquitetural profundo antes de buscar vulnerabilidades ou bugs.

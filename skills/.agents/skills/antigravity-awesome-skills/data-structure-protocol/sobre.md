@@ -1,0 +1,1 @@
+Fornece memória estrutural persistente aos agentes para navegação inteligente em dependências e APIs públicas.

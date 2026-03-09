@@ -1,0 +1,1 @@
+Gestão de tráfego pago (Ads): campanhas no Google, Meta, LinkedIn e Twitter/X focadas em geração de leads e vendas.

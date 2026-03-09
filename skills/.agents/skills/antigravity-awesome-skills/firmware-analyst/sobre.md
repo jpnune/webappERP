@@ -1,0 +1,1 @@
+Analista especialista em firmware: segurança de sistemas embarcados, IoT e engenharia reversa de hardware.

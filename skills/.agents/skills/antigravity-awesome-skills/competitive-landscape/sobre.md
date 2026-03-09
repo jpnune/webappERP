@@ -1,0 +1,1 @@
+Análise de cenário competitivo: identificação de diferenciais, posicionamento de mercado e aplicação das Cinco Forças de Porter.

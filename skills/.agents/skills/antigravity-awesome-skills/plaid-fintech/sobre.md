@@ -1,0 +1,1 @@
+Integração com API Plaid: fluxos de tokens, sincronização de transações, verificação de identidade e conformidade Fintech.

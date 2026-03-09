@@ -1,0 +1,1 @@
+Criação, edição e gestão de documentos do Google Docs via APIs automatizadas.

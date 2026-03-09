@@ -1,0 +1,1 @@
+Iluminação em Three.js: tipos de luz, configuração de sombras reais e iluminação baseada em imagem (IBL).

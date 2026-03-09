@@ -1,0 +1,1 @@
+Artesanato de código segundo 'Uncle Bob': aplicação dos princípios de Clean Code e arquitetura limpa em revisões e refatorações.

@@ -1,0 +1,1 @@
+Auditoria e conformidade de acessibilidade (WCAG). Identifica barreiras e guia o design inclusivo e compatibilidade com tecnologias assistivas.

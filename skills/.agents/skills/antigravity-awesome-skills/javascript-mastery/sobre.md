@@ -1,0 +1,1 @@
+Referência completa de JavaScript: do domínio de closures e protótipos a padrões assíncronos avançados e programação funcional.

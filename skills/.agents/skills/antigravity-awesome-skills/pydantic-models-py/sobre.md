@@ -1,0 +1,1 @@
+Criação de modelos Pydantic: padrões multi-modelo (Base, Create, Update, Response) para validação rigorosa de dados em Python.

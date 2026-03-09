@@ -1,0 +1,1 @@
+Tratamento de casos de borda (edge cases) técnicos: foco em robustez de software e tratamento de situações atípicas em sistemas.

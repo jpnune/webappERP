@@ -1,0 +1,1 @@
+Workflow de implantação em Kubernetes: gestão de Helm Charts, malha de serviços (service mesh) e configurações robustas de K8s.

@@ -1,0 +1,1 @@
+Envio de logs customizados para o Log Analytics do Azure em aplicações Java, via regras de coleta de dados (DCR).

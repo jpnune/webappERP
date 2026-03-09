@@ -1,0 +1,1 @@
+Desenvolvimento de aplicações Web3: contratos inteligentes, protocolos DeFi, plataformas de NFT e DAOs prontas para produção.

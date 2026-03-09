@@ -1,0 +1,1 @@
+Engenheiro de observabilidade: construção de sistemas de monitoramento, logging e rastreamento com foco em SLIs/SLOs.

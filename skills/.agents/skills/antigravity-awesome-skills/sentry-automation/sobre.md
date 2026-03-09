@@ -1,0 +1,1 @@
+Automação no Sentry via MCP: gestão de erros/eventos, configuração de alertas e monitoramento de saúde de projetos via Composio.

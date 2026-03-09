@@ -1,0 +1,1 @@
+Gerenciamento de agendadores de tarefas duráveis no plano de recursos do Azure via SDK .NET.

@@ -1,0 +1,1 @@
+Revisão diferencial focada em segurança: análise de raio de impacto de mudanças (PRs/commits) e cobertura de testes.

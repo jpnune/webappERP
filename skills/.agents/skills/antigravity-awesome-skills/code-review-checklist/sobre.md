@@ -1,0 +1,1 @@
+Checklist abrangente para revisões de código, cobrindo funcionalidade, segurança, performance e manutenabilidade.

@@ -1,0 +1,1 @@
+Arquiteto especialista em Event Sourcing e CQRS: design de projetores, orquestração de sagas e consistência eventual.

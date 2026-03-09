@@ -1,0 +1,1 @@
+Desenvolvimento de plugins para WordPress: arquitetura robusta baseada em hooks e criação de interfaces administrativas seguras.

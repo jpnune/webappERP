@@ -1,0 +1,1 @@
+Pipeline de análise RNA-seq de célula única com Scanpy: controle de qualidade, normalização e redução de dimensionalidade.

@@ -1,0 +1,1 @@
+Biblioteca curada de prompts de alta qualidade: templates específicos por tarefa e técnicas de refinamento de instruções.

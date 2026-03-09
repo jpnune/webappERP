@@ -1,0 +1,1 @@
+Execução de pesquisas profundas e autônomas com o Google Gemini Deep Research: análises de mercado, revisões técnicas e due diligence.

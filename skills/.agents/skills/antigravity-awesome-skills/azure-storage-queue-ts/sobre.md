@@ -1,0 +1,1 @@
+Operações com filas de mensagens do Azure (Queue Storage) em Node.js: envio, recebimento e exclusão de mensagens.

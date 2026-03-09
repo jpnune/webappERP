@@ -1,0 +1,1 @@
+Renderização de fontes e tipografia no Makepad: layout de texto de alta performance e suporte a glifos complexos.

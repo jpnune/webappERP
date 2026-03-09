@@ -1,0 +1,1 @@
+Testes de vulnerabilidade de 'directory traversal': exploração de falhas LFI e leitura de arquivos arbitrários em aplicações web.

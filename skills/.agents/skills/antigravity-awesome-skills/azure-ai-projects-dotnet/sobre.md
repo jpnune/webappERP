@@ -1,0 +1,1 @@
+SDK de alto nível para projetos Azure AI Foundry, integrando agentes, conexões, datasets e avaliações em .NET.

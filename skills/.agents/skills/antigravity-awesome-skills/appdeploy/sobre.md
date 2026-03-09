@@ -1,0 +1,1 @@
+Deploy de aplicações web com backend, banco de dados e armazenamento. Gera URLs públicas para sites e apps via API HTTP.

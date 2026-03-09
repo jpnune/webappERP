@@ -1,0 +1,1 @@
+Diretrizes para criação de rotas de API no Expo Router com hospedagem EAS (Expo Application Services).

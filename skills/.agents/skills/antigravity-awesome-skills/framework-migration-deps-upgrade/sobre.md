@@ -1,0 +1,1 @@
+Gestão de upgrade de dependências: atualização incremental e segura com caminhos de migração claros e baixo risco.

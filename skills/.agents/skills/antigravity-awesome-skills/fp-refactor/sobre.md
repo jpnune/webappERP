@@ -1,0 +1,1 @@
+Guia de refatoração de código TypeScript imperativo para padrões funcionais utilizando a biblioteca fp-ts.

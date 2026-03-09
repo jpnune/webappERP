@@ -1,0 +1,1 @@
+Especialista em ferramentas virais: criação de geradores de nomes, quizzes e calculadoras focadas em mecânicas de compartilhamento social.

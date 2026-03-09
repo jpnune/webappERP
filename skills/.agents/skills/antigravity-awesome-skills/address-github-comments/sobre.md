@@ -1,0 +1,1 @@
+Auxilia a responder revisões e comentários de issues em Pull Requests abertos no GitHub usando a interface CLI.

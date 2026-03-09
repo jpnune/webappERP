@@ -1,0 +1,1 @@
+Guia mestre para uso eficiente do Claude Code, incluindo estratégias de 'thinking' e técnicas de depuração.

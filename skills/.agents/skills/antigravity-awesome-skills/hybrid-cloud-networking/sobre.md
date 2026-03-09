@@ -1,0 +1,1 @@
+Configuração de conectividade segura entre infraestrutura local e nuvem usando VPN e conexões dedicadas de alta performance.

@@ -1,0 +1,1 @@
+Guia especialista em Unreal Engine 5 C++: gestão de memória UObject, padrões de performance e melhores práticas de motor de jogo.

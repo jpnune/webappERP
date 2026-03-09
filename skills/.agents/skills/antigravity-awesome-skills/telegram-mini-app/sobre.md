@@ -1,0 +1,1 @@
+Especialista em Telegram Mini Apps (TWA): desenvolvimento de web apps rodando dentro do Telegram com experiência nativa e integração TON.

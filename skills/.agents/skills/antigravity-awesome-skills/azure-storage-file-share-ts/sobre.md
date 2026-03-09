@@ -1,0 +1,1 @@
+Operações em compartilhamentos de arquivos Azure (SMB) usando o SDK de JavaScript/TypeScript.

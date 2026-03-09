@@ -1,0 +1,1 @@
+Princípios de implantação em produção: estratégias de rollback, fluxos seguros e verificação funcional pós-deploy.

@@ -1,0 +1,1 @@
+Gerenciamento de organizações MongoDB Atlas como recursos nativos do Azure via plano de controle ARM (.NET).

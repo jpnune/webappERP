@@ -1,0 +1,1 @@
+Analisador de constituição física segundo a Medicina Tradicional Chinesa: sugestões de bem-estar personalizadas baseadas em dados de saúde.

@@ -1,0 +1,1 @@
+Ambiente de experimentação para superpoderes do Claude: teste de capacidades avançadas de codificação e automação.

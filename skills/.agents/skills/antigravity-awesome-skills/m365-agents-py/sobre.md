@@ -1,0 +1,1 @@
+Desenvolvimento de agentes para ecossistema Microsoft 365 com Python, incluindo roteamento de aplicações e autenticação MSAL.

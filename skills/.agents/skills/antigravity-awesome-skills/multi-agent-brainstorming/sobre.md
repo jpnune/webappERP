@@ -1,0 +1,1 @@
+Brainstorming multi-agente: simulação de revisão por pares para validar designs e identificar falhas de suposição antes da implementação.

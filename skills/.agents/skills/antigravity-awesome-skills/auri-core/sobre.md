@@ -1,0 +1,1 @@
+Núcleo do projeto Auri: assistente de voz inteligente integrando Alexa e Claude. Visão de produto, roadmap e estratégia GTM.

@@ -1,0 +1,1 @@
+Padrões de segurança de memória em C++ e Rust: uso de RAII, ponteiros inteligentes e gestão segura de recursos de hardware.

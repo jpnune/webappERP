@@ -1,0 +1,1 @@
+Design de pipelines CI/CD multi-estágio com portões de aprovação, verificações de segurança e orquestração de deploy.

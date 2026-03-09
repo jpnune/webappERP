@@ -1,0 +1,1 @@
+Acesso à API REST do PubMed: consultas avançadas Boolean/MeSH para pesquisa científica e gestão de citações biomédicas.

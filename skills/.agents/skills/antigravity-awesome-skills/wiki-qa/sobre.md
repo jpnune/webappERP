@@ -1,0 +1,1 @@
+Assistente de perguntas técnicas sobre o repositório: resposta baseada em análise dos arquivos fonte e navegação inteligente pelo código.

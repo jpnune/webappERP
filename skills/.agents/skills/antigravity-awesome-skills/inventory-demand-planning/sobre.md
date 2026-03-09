@@ -1,0 +1,1 @@
+Consultoria técnica em planejamento de inventário e demanda: previsão, reposição crítica e estimativa promocional para varejo.

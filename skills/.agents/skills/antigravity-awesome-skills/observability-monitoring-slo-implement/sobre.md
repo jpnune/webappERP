@@ -1,0 +1,1 @@
+Implementação de SLOs (Objetivos de Nível de Serviço): definição de padrões de confiabilidade e práticas baseadas em orçamento de erros.

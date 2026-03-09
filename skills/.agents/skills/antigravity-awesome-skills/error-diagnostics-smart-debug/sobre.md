@@ -1,0 +1,1 @@
+Estratégias inteligentes de diagnóstico técnico para resolução acelerada de problemas em ambientes de produção.

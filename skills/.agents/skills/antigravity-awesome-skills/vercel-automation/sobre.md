@@ -1,0 +1,1 @@
+Automação na plataforma Vercel via MCP: gestão de implantações, domínios e variáveis de ambiente em larga escala via Composio.

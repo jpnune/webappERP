@@ -1,0 +1,1 @@
+Padrões universais de codificação e melhores práticas para desenvolvimento com TypeScript, JavaScript, React e Node.js.

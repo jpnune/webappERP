@@ -1,0 +1,1 @@
+Otimização de Inventário no Odoo: valorização de estoque (FIFO/AVCO), regras de reabastecimento e rotas complexas.

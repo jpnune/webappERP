@@ -1,0 +1,1 @@
+Engenheiro de bancos de dados vetoriais: implementação de busca semântica com Pinecone, Weaviate e pgvector para RAG.

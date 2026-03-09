@@ -1,0 +1,1 @@
+Gerenciamento de múltiplos agentes locais via sessões tmux (iniciar/parar/monitorar) com agendamento amigável via cron.

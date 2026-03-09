@@ -1,0 +1,1 @@
+Especialista em desenvolvimento Flutter com Dart 3: criação de widgets avançados e deploy multi-plataforma.

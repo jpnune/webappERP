@@ -1,0 +1,1 @@
+Criação de ferramentas pessoais customizadas: foco em resolver problemas próprios primeiro para validar utilidade e escala.

@@ -1,0 +1,1 @@
+Framework de métricas para startups: análise de CAC, LTV, economia unitária (unit economics) e métricas vitais para SaaS.

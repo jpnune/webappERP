@@ -1,0 +1,1 @@
+Automação no Trello via MCP: criação de cartões, gestão de quadros e atribuição de membros de forma programática via Composio.

@@ -1,0 +1,1 @@
+SDK de agentes persistentes para Java do Azure AI: criação e gestão de threads e ferramentas para agentes autônomos.

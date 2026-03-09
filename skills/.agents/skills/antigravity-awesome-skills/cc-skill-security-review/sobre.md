@@ -1,0 +1,1 @@
+Revisão de segurança em implementações de autenticação, pagamentos e manuseio de segredos com checklist abrangente.

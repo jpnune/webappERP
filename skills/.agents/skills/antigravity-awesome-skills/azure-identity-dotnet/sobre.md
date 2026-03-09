@@ -1,0 +1,1 @@
+Biblioteca de autenticação .NET para serviços Azure usando Microsoft Entra ID (anteriormente Azure AD) com DefaultAzureCredential.

@@ -1,0 +1,1 @@
+Auxílio na migração de módulos customizados do Odoo entre versões: atualização de APIs, métodos depreciados e views.

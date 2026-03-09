@@ -1,0 +1,1 @@
+Especialista em Vendas e CRM no Odoo: funil de vendas, templates de cotação corporativa, precificação e previsão.

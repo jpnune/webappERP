@@ -1,0 +1,1 @@
+Resumo de trabalho anual para SR&ED: agrupamento de links de commits e projetos no Notion para documentação de pesquisa e desenvolvimento.

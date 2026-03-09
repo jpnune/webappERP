@@ -1,0 +1,1 @@
+Biblioteca de visualização de dados de baixo nível para Python: controle total sobre cada elemento gráfico para publicações científicas.

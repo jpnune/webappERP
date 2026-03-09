@@ -1,0 +1,1 @@
+Limpeza de base de código focada em refatoração para padrões de design modernos e redução de complexidade.

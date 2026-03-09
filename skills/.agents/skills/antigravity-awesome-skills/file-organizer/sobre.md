@@ -1,0 +1,1 @@
+Organização inteligente de arquivos: detecção de duplicatas e sugestões de estruturas de diretórios baseadas no contexto.

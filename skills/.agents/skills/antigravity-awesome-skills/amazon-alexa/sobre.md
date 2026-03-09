@@ -1,0 +1,1 @@
+Integração completa para criação de skills inteligentes na Amazon Alexa, usando Claude como cérebro e ecossistema AWS (Lambda, DynamoDB).

@@ -1,0 +1,1 @@
+Sistema de memória hierárquica para agentes: reduz custos de tokens através de sub-contextos específicos por diretório.

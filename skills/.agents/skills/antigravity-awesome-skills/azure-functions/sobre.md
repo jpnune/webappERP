@@ -1,0 +1,1 @@
+Padrões especialistas para Azure Functions: modelo de trabalhador isolado, Durable Functions e otimização de tempo de inicialização (cold start).

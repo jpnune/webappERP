@@ -1,0 +1,1 @@
+Agente de manutenção de contexto entre sessões: salva resumos e decisões para continuidade fluida do trabalho.

@@ -1,0 +1,1 @@
+Framework para tomada de decisões arquiteturais: análise de requisitos, avaliação de trade-offs e documentação de ADRs.

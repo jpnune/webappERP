@@ -1,0 +1,1 @@
+Consultoria em Manufatura Odoo: listas de materiais (BoM), centros de trabalho, roteamento e planejamento MRP.

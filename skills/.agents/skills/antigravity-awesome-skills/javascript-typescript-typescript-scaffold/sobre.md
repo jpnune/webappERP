@@ -1,0 +1,1 @@
+Arquiteto de projetos TypeScript: geração de scaffolds completos com pnpm, Vite e ferramentas de build modernas.

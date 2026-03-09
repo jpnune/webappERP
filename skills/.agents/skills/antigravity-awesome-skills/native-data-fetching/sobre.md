@@ -1,0 +1,1 @@
+Busca de dados nativa: implementação de fetch API, React Query e SWR com foco em cache, tratamento de erros e suporte offline.

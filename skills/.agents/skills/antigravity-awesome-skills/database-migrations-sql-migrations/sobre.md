@@ -1,0 +1,1 @@
+Migrações SQL seguras para PostgreSQL e MySQL com foco total na integridade dos dados e planos de contingência.

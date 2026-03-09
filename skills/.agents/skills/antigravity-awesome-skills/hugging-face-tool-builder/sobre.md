@@ -1,0 +1,1 @@
+Criação de scripts reutilizáveis que utilizam dados da API do Hugging Face para tarefas automatizadas e repetitivas.

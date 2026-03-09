@@ -1,0 +1,1 @@
+Indexação e percepção de vídeo/áudio: busca por timestamps, transcrição, edição de timelines e geração de alertas em tempo real.

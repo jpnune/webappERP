@@ -1,0 +1,1 @@
+Automação no Monday.com via MCP: gestão de quadros, colunas, itens e atualizações de workflow via Composio.

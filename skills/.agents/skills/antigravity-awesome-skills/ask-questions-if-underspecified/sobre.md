@@ -1,0 +1,1 @@
+Skill para clarificação de requisitos. Garante que as perguntas certas sejam feitas antes de iniciar a implementação se houver dúvidas sérias.

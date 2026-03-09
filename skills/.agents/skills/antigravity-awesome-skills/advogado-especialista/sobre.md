@@ -1,0 +1,1 @@
+Especialista em diversas áreas do Direito brasileiro: família, trabalho, tributário, consumidor, empresarial e cível.

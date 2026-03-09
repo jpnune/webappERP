@@ -1,0 +1,1 @@
+Fase vermelha do TDD: geração de testes que falham para definir comportamentos esperados e casos de borda.

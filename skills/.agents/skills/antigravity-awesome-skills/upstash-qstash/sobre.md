@@ -1,0 +1,1 @@
+Especialista em Upstash QStash: filas de mensagens e tarefas agendadas em ambientes serverless via HTTP.

@@ -1,0 +1,1 @@
+Geração de Business Case para investidores: documento estruturado com solução, mercado, finanças e estratégia de crescimento.

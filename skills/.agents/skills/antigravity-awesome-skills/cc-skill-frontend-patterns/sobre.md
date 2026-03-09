@@ -1,0 +1,1 @@
+Padrões de desenvolvimento frontend: gestão de estado em React, Next.js e otimização de performance de interface.

@@ -1,0 +1,1 @@
+Fluxo abrangente de QA e testes: cobertura desde testes unitários e de integração até automação E2E de navegador para garantia de qualidade.

@@ -1,0 +1,1 @@
+Escrita de código C++ idiomático e moderno, utilizando RAII, ponteiros inteligentes e algoritmos STL de alta performance.

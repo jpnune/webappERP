@@ -1,0 +1,1 @@
+Aplicação dos princípios de 'Código Limpo' de Robert C. Martin para garantir legibilidade e manutenabilidade do software.

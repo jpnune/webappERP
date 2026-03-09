@@ -1,0 +1,1 @@
+Otimização de Pull Requests: geração de descrições ricas, automação de revisões e facilitação da aprovação de código.

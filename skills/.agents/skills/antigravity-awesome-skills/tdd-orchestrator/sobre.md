@@ -1,0 +1,1 @@
+Orquestrador mestre de TDD: especialista no ciclo red-green-refactor e coordenação de workflows multi-agente orientados a testes.

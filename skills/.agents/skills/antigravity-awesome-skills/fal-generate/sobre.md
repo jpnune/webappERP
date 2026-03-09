@@ -1,0 +1,1 @@
+Geração de imagens e vídeos de alta qualidade através de modelos de inteligência artificial da fal.ai.

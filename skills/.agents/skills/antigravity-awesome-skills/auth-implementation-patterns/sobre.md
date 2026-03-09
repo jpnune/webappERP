@@ -1,0 +1,1 @@
+Padrões de autenticação e autorização modernos: JWT, OAuth2, gestão de sessões e RBAC para sistemas seguros e escaláveis.

@@ -1,0 +1,1 @@
+Especialista em experiências 3D para web usando Three.js, React Three Fiber, Spline e WebGL. Perfeito para configuradores de produtos e sites imersivos.

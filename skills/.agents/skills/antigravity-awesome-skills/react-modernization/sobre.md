@@ -1,0 +1,1 @@
+Modernização de aplicações React: upgrade de versões, migração de componentes de classe para hooks e adoção de recursos concorrentes.

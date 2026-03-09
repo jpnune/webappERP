@@ -1,0 +1,1 @@
+Configuração de autenticação em aplicações Node.js e web para os serviços de nuvem da Microsoft via SDK Azure Identity.

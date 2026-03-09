@@ -1,0 +1,1 @@
+Padrões de interação e UX das diretrizes de interface humana da Apple.

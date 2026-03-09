@@ -1,0 +1,1 @@
+Arquiteto de Software Sênior: design de sistemas escaláveis e sustentáveis utilizando as stacks mais modernas (React/Node/Go/Python).

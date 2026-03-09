@@ -1,0 +1,1 @@
+SDK Java para Azure Cosmos DB, suportando distribuição global, multi-modelo NoSQL e padrões de programação reativa.

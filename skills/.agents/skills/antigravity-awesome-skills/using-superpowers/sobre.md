@@ -1,0 +1,1 @@
+Guia de ativação de superpoderes do Claude: protocolo inicial para descoberta e uso efetivo de todas as ferramentas disponíveis.

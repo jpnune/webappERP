@@ -1,0 +1,1 @@
+Implementação de validação de qualidade de dados com Great Expectations, testes dbt e contratos de dados.

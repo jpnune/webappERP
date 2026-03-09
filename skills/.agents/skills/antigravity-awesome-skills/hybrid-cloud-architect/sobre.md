@@ -1,0 +1,1 @@
+Arquiteto de nuvem híbrida: design de soluções complexas integrando AWS/Azure/GCP com nuvens privadas (OpenStack/VMware).

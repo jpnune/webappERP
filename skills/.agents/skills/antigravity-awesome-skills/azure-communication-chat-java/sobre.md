@@ -1,0 +1,1 @@
+Criação de apps de chat em tempo real com o SDK Java do Azure. Gerencia threads de mensagens, recibos de leitura e notificações de digitação.

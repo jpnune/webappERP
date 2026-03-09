@@ -1,0 +1,1 @@
+Armazenamento e recuperação segura de segredos, senhas e chaves de API no Azure Key Vault usando Rust.

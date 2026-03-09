@@ -1,0 +1,1 @@
+Ferramental Vizcom para design de produto: transformação de esboços (sketches) em renderizações 3D de alta fidelidade via IA.

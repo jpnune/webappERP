@@ -1,0 +1,1 @@
+Especialista em inteligência de suporte: análise de sentimento, automação de tickets e experiências omnichannel.

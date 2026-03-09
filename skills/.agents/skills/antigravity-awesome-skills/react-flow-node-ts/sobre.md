@@ -1,0 +1,1 @@
+Criação de componentes de nó para React Flow: integração com TypeScript, handles customizados e gestão de estado via Zustand.

@@ -1,0 +1,1 @@
+Automação de tarefas do Gmail: gestão de e-mails, buscas estruturadas e fluxos de comunicação via MCP.

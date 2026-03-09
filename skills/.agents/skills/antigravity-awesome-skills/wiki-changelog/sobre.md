@@ -1,0 +1,1 @@
+Geração automática de changelogs: análise do histórico de commits do git para categorizar e documentar mudanças recentes no código.

@@ -1,0 +1,1 @@
+Scripting de sistema operacional e shell: resolução de problemas e automação em Linux, macOS e Windows (Bash/PowerShell).

@@ -1,0 +1,1 @@
+Desenvolvimento de APIs externas customizadas para Moodle LMS: gestão de cursos, usuários e operações de plugins via Web Services.

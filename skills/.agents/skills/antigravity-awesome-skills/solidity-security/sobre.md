@@ -1,0 +1,1 @@
+Segurança em contratos inteligentes Solidity: prevenção de vulnerabilidades comuns e implementação de padrões de segurança em blockchain.

@@ -1,0 +1,1 @@
+Construção de frameworks de avaliação para sistemas de agentes inteligentes para medir acurácia e performance.

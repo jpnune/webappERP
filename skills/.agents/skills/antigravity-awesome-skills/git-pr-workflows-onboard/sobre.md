@@ -1,0 +1,1 @@
+Arquiteto de transferência de conhecimento e integração técnica acelerada para times remotos.

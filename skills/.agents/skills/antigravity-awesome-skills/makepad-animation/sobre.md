@@ -1,0 +1,1 @@
+Padrões de animação no framework Makepad: estados de transição, detecção de hover e efeitos dinâmicos em Rust.

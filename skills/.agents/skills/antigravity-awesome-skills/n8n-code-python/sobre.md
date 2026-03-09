@@ -1,0 +1,1 @@
+Escrita de código Python em nós Code do n8n: uso da biblioteca padrão e manipulação estruturada de dados no workflow.

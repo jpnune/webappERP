@@ -1,0 +1,1 @@
+Geração de imagens via Google Gemini: criação fluida de conteúdos visuais para documentação, ativos de design e placeholders de interface.

@@ -1,0 +1,1 @@
+Guia para conclusão de branches de desenvolvimento: integração de trabalho, passagem de testes e opções de merge/PR.

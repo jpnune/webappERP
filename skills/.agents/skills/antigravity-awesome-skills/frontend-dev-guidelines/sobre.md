@@ -1,0 +1,1 @@
+Padrões de desenvolvimento frontend modernos (React + TS): arquitetura baseada em funcionalidades e fetching eficiente.

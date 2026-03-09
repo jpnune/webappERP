@@ -1,0 +1,1 @@
+Referência rápida para TaskEither: chamadas de API assíncronas e operações baseadas em Promises que podem falhar.

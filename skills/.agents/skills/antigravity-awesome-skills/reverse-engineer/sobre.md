@@ -1,0 +1,1 @@
+Especialista em Engenharia Reversa: análise binária, desassemblagem e decompilação utilizando ferramentas como Ghidra e IDA Pro.

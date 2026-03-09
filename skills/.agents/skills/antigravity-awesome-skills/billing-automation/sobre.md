@@ -1,0 +1,1 @@
+Construção de sistemas de faturamento automatizado para assinaturas recorrentes, faturas e gestão de cobrança (dunning).

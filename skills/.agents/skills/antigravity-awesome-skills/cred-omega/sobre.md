@@ -1,0 +1,1 @@
+Gestão total de credenciais corporativas: descoberta e proteção de todas as chaves de API, segredos e tokens.

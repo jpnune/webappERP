@@ -1,0 +1,1 @@
+Especialista em 'mocking' de APIs para desenvolvimento e testes, simulando comportamentos reais de serviços para permitir desenvolvimento em paralelo.

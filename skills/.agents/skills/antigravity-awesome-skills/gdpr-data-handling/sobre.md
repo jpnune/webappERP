@@ -1,0 +1,1 @@
+Implementação de conformidade GDPR: gestão de consentimento, direitos dos titulares e privacidade por design.

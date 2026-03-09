@@ -1,0 +1,1 @@
+Cria designs visuais bonitos em documentos .png e .pdf. Use para pôsteres, artes estáticas e peças de design original.

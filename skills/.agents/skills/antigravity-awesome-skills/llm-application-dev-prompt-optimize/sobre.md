@@ -1,0 +1,1 @@
+Engenharia de prompts avançada: técnicas de Chain-of-Thought e otimização específica para cada modelo (GPT/Claude/Gemini).

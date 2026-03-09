@@ -1,0 +1,1 @@
+Converte notas e logs de erro em issues bem estruturadas no GitHub utilizando Markdown elegante.

@@ -1,0 +1,1 @@
+Automação no Figma via MCP: gestão de arquivos, componentes, design tokens e exportação de ativos via Composio.

@@ -1,0 +1,1 @@
+Automação de tarefas no Kit (antigo ConvertKit): gestão de assinantes, automações de e-mail e tags via MCP.

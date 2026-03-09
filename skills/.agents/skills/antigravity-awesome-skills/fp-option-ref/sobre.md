@@ -1,0 +1,1 @@
+Referência para o tipo Option (fp-ts): gestão de valores nulos ou opcionais sem verificações manuais de null/undefined.

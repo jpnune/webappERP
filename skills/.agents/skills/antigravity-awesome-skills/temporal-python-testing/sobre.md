@@ -1,0 +1,1 @@
+Testes de workflows Temporal com pytest: estratégias de salto no tempo (time-skipping) e simulação de estados complexos.

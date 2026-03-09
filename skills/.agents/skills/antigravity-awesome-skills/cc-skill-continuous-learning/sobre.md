@@ -1,0 +1,1 @@
+Capacidade de aprendizado contínuo para evolução de habilidades de desenvolvimento baseada no Claude Code.

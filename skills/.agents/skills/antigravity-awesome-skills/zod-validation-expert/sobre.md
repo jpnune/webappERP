@@ -1,0 +1,1 @@
+Especialista em Zod: validação de esquemas focada em TypeScript, com suporte a inferência de tipo e integração com React Hook Form.

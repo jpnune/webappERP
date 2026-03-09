@@ -1,0 +1,1 @@
+Restauração eficiente de estados de contexto para continuidade de tarefas em agentes inteligentes.

@@ -1,0 +1,1 @@
+Desenvolvimento multi-plataforma: implantação consistente de funcionalidades em Web, Mobile e Desktop via arquitetura API-first.

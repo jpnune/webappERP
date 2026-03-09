@@ -1,0 +1,1 @@
+Criação, edição e análise de documentos profissionais em formato DOCX, com suporte a comentários e controle de alterações.

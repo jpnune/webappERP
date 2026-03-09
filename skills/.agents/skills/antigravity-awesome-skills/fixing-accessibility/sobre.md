@@ -1,0 +1,1 @@
+Auditoria e correção de acessibilidade HTML: etiquetas ARIA, navegação por teclado e conformidade com WCAG.

@@ -1,0 +1,1 @@
+Analista Quantitativo: construção de modelos financeiros, backtest de estratégias e análise estatística de dados de mercado.

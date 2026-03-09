@@ -1,0 +1,1 @@
+Engenharia de escrita de skills: criação e refinamento de instruções para assistentes de Inteligência Artificial.

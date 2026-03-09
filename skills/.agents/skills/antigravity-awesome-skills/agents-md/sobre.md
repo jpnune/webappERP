@@ -1,0 +1,1 @@
+Criação e manutenção de arquivos AGENTS.md e CLAUDE.md seguindo boas práticas para manter instruções de agentes concisas e eficazes.

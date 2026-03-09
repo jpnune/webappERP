@@ -1,0 +1,1 @@
+Mestre em scripting Bash defensivo para automação de produção e utilitários de sistema, focando em portabilidade e segurança.

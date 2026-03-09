@@ -1,0 +1,1 @@
+Guia de decisão de tipos no fp-ts: ajuda na escolha entre Option, Either e Task para diferentes cenários de uso.

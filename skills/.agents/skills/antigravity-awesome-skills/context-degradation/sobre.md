@@ -1,0 +1,1 @@
+Diagnóstico de degradação de contexto: corrige problemas de 'perda no meio' e falhas de atenção em agentes de IA.

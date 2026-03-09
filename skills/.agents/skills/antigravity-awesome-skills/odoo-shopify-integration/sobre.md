@@ -1,0 +1,1 @@
+Conexão de Odoo com Shopify: sincronização de produtos, inventário, pedidos e clientes via API externa.

@@ -1,0 +1,1 @@
+Inteligência de design UI/UX: catálogo vasto de estilos, paletas e tipografia para diversas stacks modernas (React, SwiftUI, Flutter, etc.).

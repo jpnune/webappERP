@@ -1,0 +1,1 @@
+Orquestrações de workflows de design: roteamento de ideias via brainstorming e revisão de agentes para prontidão de execução.

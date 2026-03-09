@@ -1,0 +1,1 @@
+Fluxo GitOps com ArgoCD e Flux: implantações declarativas e automáticas em Kubernetes com reconciliação contínua.

@@ -1,0 +1,1 @@
+Auditoria de performance em Django: detecção de consultas N+1, otimização de queries e ajuste fino do ORM.

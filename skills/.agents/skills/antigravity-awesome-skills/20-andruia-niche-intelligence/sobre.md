@@ -1,0 +1,1 @@
+Estrategista de inteligência de domínio. Analisa nichos específicos para aplicar regulamentações e padrões técnicos únicos do setor do projeto.

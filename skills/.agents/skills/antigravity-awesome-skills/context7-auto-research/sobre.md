@@ -1,0 +1,1 @@
+Busca automática das documentações mais recentes de bibliotecas e frameworks via API Context7.

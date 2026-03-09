@@ -1,0 +1,1 @@
+Integração de cenas 3D interativas do Spline.design em projetos web: controle via runtime API em aplicações React.

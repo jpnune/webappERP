@@ -1,0 +1,1 @@
+Orquestração do ciclo completo de desenvolvimento de funcionalidades backend, desde o levantamento de requisitos até o deploy.

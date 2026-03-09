@@ -1,0 +1,1 @@
+Constrói endpoints de APIs REST prontos para produção com validação, tratamento de erros, autenticação e documentação técnica.

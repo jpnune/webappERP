@@ -1,0 +1,1 @@
+Guia para construção de interfaces nativas bonitas com Expo Router, cobrindo navegação, animações e padrões mobile.

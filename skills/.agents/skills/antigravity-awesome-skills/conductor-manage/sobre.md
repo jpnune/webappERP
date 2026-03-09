@@ -1,0 +1,1 @@
+Gestão do ciclo de vida de trilhas de trabalho: arquivamento, restauração e limpeza de sessões de desenvolvimento.

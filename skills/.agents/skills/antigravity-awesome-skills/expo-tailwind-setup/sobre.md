@@ -1,0 +1,1 @@
+Configuração do Tailwind CSS v4 com NativeWind v5 em projetos Expo para estilização universal de apps.

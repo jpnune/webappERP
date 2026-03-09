@@ -1,0 +1,1 @@
+Criação de dashboards Grafana para visualização em tempo real de métricas de sistema e aplicação.

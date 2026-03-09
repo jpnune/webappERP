@@ -1,0 +1,1 @@
+Sintaxe de expressões no n8n: validação e correção de expressões {{ }} e acesso a variáveis do workflow.

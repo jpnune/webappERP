@@ -1,0 +1,1 @@
+Boas práticas de performance para React e Next.js (via Vercel): diretrizes para refatoração de código e otimização de renderização.

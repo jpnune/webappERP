@@ -1,0 +1,1 @@
+Ferramental para estilizar artefatos (slides, docs, páginas) com temas pré-definidos ou gerados sob demanda.

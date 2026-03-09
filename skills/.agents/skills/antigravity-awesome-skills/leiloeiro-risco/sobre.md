@@ -1,0 +1,1 @@
+Análise de risco estruturada em leilões: score de 36 pontos e teste de estresse em múltiplos cenários econômicos.

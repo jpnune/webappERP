@@ -1,0 +1,1 @@
+Princípios do Tailwind CSS v4: arquitetura baseada em tokens, consultas de container e padrões modernos de configuração CSS-first.

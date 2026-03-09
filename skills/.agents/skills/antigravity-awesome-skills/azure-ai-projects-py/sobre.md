@@ -1,0 +1,1 @@
+Construção de aplicações de IA usando o SDK Python de Projetos Azure AI, focando em definições de agentes e monitoramento.

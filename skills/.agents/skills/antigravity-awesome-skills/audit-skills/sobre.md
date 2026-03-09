@@ -1,0 +1,1 @@
+Auditor de segurança especializado em Skills de IA. Realiza análise estática para identificar padrões maliciosos, vazamentos de dados e riscos de estabilidade.

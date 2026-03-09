@@ -1,0 +1,1 @@
+Manipulação completa de planilhas (.xlsx, .csv). Edição de dados, fórmulas, limpeza de tabelas e conversão de formatos tabulares.

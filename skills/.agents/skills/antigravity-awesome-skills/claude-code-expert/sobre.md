@@ -1,0 +1,1 @@
+Especialista profundo em Claude Code (CLI da Anthropic): atalhos, hooks, MCPs e workflows avançados de produtividade.

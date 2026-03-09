@@ -1,0 +1,1 @@
+Guia das principais vulnerabilidades web: identificação de falhas de segurança comuns e categorias de riscos (OWASP Top 10).

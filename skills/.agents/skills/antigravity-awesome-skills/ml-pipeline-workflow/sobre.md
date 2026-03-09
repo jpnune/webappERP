@@ -1,0 +1,1 @@
+Workflows de pipeline de ML ponta a ponta: da preparação de dados ao deploy em produção e práticas de MLOps.

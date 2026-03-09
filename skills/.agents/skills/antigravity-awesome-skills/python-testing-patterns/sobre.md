@@ -1,0 +1,1 @@
+Estratégias de testes em Python: uso de pytest, fixtures e mocks para implementação rigorosa de TDD.

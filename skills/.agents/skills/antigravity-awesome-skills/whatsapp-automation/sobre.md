@@ -1,0 +1,1 @@
+Automação no WhatsApp via MCP: envio de mensagens, gestão de contatos e templates oficiais via ferramenta Composio.

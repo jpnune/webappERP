@@ -1,0 +1,1 @@
+Escritor de conteúdo otimizado para SEO: criação de textos engajadores e abrangentes baseados em briefings estratégicos de palavras-chave.

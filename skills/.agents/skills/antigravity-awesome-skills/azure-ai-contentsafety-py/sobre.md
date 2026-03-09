@@ -1,0 +1,1 @@
+SDK Python do Azure AI para Segurança de Conteúdo, focando na classificação de severidade de conteúdos prejudiciais em mídia.

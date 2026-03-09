@@ -1,0 +1,1 @@
+Analisador de dados de sono: avaliação de qualidade, identificação de padrões e sugestões personalizadas de higiene do sono.

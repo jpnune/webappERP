@@ -1,0 +1,1 @@
+Automação de documentos Coda via MCP: gestão de tabelas, fórmulas, permissões e publicação de docs.

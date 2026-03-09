@@ -1,0 +1,1 @@
+Desenvolvimento de temas WordPress: hierarquia de templates, tipos de post customizados e suporte especializado para o editor de blocos.

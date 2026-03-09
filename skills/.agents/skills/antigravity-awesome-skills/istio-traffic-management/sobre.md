@@ -1,0 +1,1 @@
+Gestão de tráfego com Istio: configuração de roteamento, balanceamento de carga, circuit breakers e deploys canário.

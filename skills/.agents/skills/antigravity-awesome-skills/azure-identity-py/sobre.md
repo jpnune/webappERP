@@ -1,0 +1,1 @@
+Autenticação simplificada para serviços Azure em Python, focada em gestão de tokens e identidades de serviço.

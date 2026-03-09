@@ -1,0 +1,1 @@
+Raspagem de dados do X (Twitter): busca de tweets, extração de seguidores e monitoramento de métricas de engajamento via MCP.

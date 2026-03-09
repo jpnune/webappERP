@@ -1,0 +1,1 @@
+Automação de marketing no Brevo (Sendinblue): gestão de campanhas de e-mail e monitoramento de performance.

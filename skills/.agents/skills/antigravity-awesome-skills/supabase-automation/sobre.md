@@ -1,0 +1,1 @@
+Automação no Supabase via MCP: consultas a banco de dados, gestão de armazenamento, edge functions e execução SQL via Composio.

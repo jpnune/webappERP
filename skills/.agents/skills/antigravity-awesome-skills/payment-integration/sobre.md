@@ -1,0 +1,1 @@
+Integração de pagamentos (Stripe/PayPal): fluxo de checkout, assinaturas, webhooks e conformidade com padrões de segurança PCI.

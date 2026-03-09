@@ -1,0 +1,1 @@
+Identificação e priorização de dívida técnica, analisando o impacto no projeto e criando planos de ação para correção.

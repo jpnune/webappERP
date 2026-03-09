@@ -1,0 +1,1 @@
+Aplicação de guias de estilo e identidade visual da comunidade em documentos e artefatos de design.

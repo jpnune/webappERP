@@ -1,0 +1,1 @@
+Deploy e infraestrutura: Docker, CI/CD com GitHub Actions, AWS Lambda, Terraform e monitoramento de sistemas.

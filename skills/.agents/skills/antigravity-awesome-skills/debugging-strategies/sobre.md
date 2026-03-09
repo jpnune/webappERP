@@ -1,0 +1,1 @@
+Técnicas sistemáticas de depuração e análise de causa raiz usando ferramentas de profiling para rastrear bugs de forma eficiente.

@@ -1,0 +1,1 @@
+Monitoramento de performance de aplicações e observabilidade no Azure usando o SDK .NET para gestão de recursos.

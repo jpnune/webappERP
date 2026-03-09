@@ -1,0 +1,1 @@
+Habilidades focadas em pesquisa científica e análise avançada de dados acadêmicos.

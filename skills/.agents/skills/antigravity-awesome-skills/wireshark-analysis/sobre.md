@@ -1,0 +1,1 @@
+Análise de tráfego de rede com Wireshark: captura de pacotes para diagnóstico, filtragem PCAP e análise de fluxos TCP/UDP.

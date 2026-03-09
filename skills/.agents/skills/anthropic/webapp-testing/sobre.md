@@ -1,0 +1,1 @@
+Toolkit de testes para aplicações web locais usando Playwright. Inclui verificação de logs, screenshots e depuração de UI.

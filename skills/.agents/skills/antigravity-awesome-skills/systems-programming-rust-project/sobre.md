@@ -1,0 +1,1 @@
+Arquiteto de sistemas em Rust: geração de estruturas de projeto prontas para produção com organização modular e testes rigorosos.

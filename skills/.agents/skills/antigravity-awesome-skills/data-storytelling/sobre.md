@@ -1,0 +1,1 @@
+Transforma dados brutos em narrativas persuasivas através de visualizações impactantes e estrutura analítica.

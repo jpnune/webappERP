@@ -1,0 +1,1 @@
+Geração de podcasts via IA: criação de narrativas em áudio utilizando modelos de voz avançados da Azure OpenAI.

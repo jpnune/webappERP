@@ -1,0 +1,1 @@
+Auditor de riscos na cadeia de suprimentos: identificação de dependências críticas vulneráveis a ataques de sequestro ou exploração.

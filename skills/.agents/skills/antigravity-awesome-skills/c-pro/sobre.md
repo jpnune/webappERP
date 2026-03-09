@@ -1,0 +1,1 @@
+Escrita de código C eficiente com gestão manual de memória, ponteiros e otimização de baixo nível.

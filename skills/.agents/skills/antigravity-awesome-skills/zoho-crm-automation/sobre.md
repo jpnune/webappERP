@@ -1,0 +1,1 @@
+Automação no Zoho CRM via MCP: gestão de leads, contatos e conversões de vendas de forma programática via Composio.

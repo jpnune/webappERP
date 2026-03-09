@@ -1,0 +1,1 @@
+Limpeza automatizada de recursos AWS não utilizados para redução direta de custos na nuvem.

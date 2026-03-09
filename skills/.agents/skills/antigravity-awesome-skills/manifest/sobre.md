@@ -1,0 +1,1 @@
+Configuração do plugin de observabilidade Manifest para agentes: gestão de telemetria e análise de execução.

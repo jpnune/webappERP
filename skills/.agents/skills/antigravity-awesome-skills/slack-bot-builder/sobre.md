@@ -1,0 +1,1 @@
+Construção de bots para Slack: uso do framework Bolt (Python/JS/Java) com Block Kit para interfaces ricas e comandos de barra.

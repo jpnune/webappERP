@@ -1,0 +1,1 @@
+Automação no Pipedrive CRM via MCP: gestão de negócios, contatos, atividades e funis de venda via Composio.

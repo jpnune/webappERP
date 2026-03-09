@@ -1,0 +1,1 @@
+Modelagem de estados mentais de agentes e arquitetura BDI (Belief-Desire-Intention) para agentes cognitivos e IA neuro-simbólica.

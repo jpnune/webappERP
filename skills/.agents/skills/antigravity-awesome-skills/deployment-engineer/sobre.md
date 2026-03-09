@@ -1,0 +1,1 @@
+Engenheiro de implantação especialista em pipelines CI/CD modernos, workflows GitOps e automação avançada de entrega.

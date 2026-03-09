@@ -1,0 +1,1 @@
+Implementação de segurança e autenticação para aplicações Java usando identidades gerenciadas e Entra ID do Azure.

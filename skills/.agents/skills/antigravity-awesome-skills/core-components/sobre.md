@@ -1,0 +1,1 @@
+Biblioteca de componentes centrais e padrões de design system (design tokens) para construção de interfaces.

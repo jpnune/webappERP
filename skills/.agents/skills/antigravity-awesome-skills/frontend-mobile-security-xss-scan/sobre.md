@@ -1,0 +1,1 @@
+Segurança frontend focada em XSS: detecção de pontos de injeção em React, Vue e JavaScript puro.

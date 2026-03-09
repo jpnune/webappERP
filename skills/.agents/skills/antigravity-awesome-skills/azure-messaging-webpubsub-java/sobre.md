@@ -1,0 +1,1 @@
+Mensagens em tempo real via WebSocket em Java, incluindo notificações push e atualizações ao vivo com Azure Web PubSub.

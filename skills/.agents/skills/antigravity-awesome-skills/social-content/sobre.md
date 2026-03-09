@@ -1,0 +1,1 @@
+Criação e agendamento de conteúdo para redes sociais (LinkedIn/X/Instagram/TikTok): otimização de posts para engajamento e alcance.

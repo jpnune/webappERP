@@ -1,0 +1,1 @@
+Monitoramento de reputação de marca: rastreia avaliações, sentimentos e menções no Google Maps, Booking.com, TripAdvisor e redes sociais.

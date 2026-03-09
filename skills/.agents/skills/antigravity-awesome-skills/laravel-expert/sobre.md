@@ -1,0 +1,1 @@
+Engenheiro Laravel Sênior: arquitetura limpa, segurança e performance em soluções idiomáticas para o ecossistema PHP moderno.

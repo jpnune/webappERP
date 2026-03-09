@@ -1,0 +1,1 @@
+Análise de projetos e síntese de sistemas de design semântico em arquivos DESIGN.md para documentação visual.

@@ -1,0 +1,1 @@
+Melhoria iterativa de qualidade de skills: ciclos automatizados de revisão e correção de descrições e regras para atingir padrões de elite.

@@ -1,0 +1,1 @@
+Refatoração de código seguindo princípios SOLID e Clean Code para melhorar manutenabilidade e testabilidade.

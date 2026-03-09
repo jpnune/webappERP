@@ -1,0 +1,1 @@
+Geração de leads B2B/B2C através de extração de dados do Google Maps, redes sociais e busca orgânica para construção de listas de prospecção.

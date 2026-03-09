@@ -1,0 +1,1 @@
+Exibição de status do projeto: trilhas ativas, tarefas pendentes e próximas ações recomendadas.

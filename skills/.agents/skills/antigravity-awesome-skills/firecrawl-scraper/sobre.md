@@ -1,0 +1,1 @@
+Scraping profundo de web: crawling de sites, capturas de tela e extração de dados de PDFs via API Firecrawl.

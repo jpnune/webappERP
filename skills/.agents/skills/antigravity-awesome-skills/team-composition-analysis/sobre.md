@@ -1,0 +1,1 @@
+Análise de composição de equipe: planejamento de estrutura, necessidades de contratação e design de organogramas estratégicos.

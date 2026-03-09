@@ -1,0 +1,1 @@
+Recursos para escrita de comunicações internas, como relatórios de status, newsletters da empresa e FAQs.

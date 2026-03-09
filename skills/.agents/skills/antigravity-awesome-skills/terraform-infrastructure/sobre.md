@@ -1,0 +1,1 @@
+Workflow de Infraestrutura como Código (IaC) com Terraform: provisionamento de recursos em nuvem e gestão de infraestrutura em escala.

@@ -1,0 +1,1 @@
+Uso do SDK v2 de Azure Machine Learning para Python: gestão de workspaces, modelos, datasets e pipelines de ML.

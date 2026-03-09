@@ -1,0 +1,1 @@
+Desenvolvimento com modelos Gemini, suporte multimodal, chamada de funções e saídas estruturadas em diversas linguagens (Python, JS, Go, Java).

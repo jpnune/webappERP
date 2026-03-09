@@ -1,0 +1,1 @@
+Encontra e avalia influenciadores para parcerias de marca, verificando autenticidade e rastreando a performance de colaborações.

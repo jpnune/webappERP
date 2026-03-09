@@ -1,0 +1,1 @@
+Domínio de Go 1.21+: padrões modernos, concorrência avançada e microsserviços prontos para produção.

@@ -1,0 +1,1 @@
+Padrões de produção para apps de IA: pipelines RAG, arquiteturas de agentes e monitoramento de LLMOps.

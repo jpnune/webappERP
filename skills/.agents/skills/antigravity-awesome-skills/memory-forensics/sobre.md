@@ -1,0 +1,1 @@
+Técnicas de análise forense de memória RAM: aquisição de dados e extração de artefatos para investigação de incidentes.

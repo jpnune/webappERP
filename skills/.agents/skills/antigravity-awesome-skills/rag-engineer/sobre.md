@@ -1,0 +1,1 @@
+Especialista em sistemas RAG (Retrieval-Augmented Generation): modelos de embedding, bancos vetoriais e otimização de busca.

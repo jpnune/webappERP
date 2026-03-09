@@ -1,0 +1,1 @@
+Verificação de commits de correção: garante que os problemas auditados foram resolvidos sem introduzir novos bugs.

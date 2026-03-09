@@ -1,0 +1,1 @@
+Recursos para redação de comunicações internas corporativas, seguindo formatos e tons de voz institucionais específicos.

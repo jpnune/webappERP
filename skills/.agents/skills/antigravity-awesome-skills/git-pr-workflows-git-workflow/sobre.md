@@ -1,0 +1,1 @@
+Orquestração completa de workflow git: da criação do PR à prontidão de deploy seguindo padrões modernos.

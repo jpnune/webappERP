@@ -1,0 +1,1 @@
+Automação de geração de changelogs a partir de commits e PRs, seguindo o padrão 'Keep a Changelog'.

@@ -1,0 +1,1 @@
+Operações CRUD, consultas e gestão de containers em bancos de dados NoSQL Azure Cosmos DB usando Python.

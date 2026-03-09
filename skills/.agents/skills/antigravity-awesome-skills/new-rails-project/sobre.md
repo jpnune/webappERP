@@ -1,0 +1,1 @@
+Criação e estruturação inicial de novos projetos utilizando o framework Ruby on Rails.

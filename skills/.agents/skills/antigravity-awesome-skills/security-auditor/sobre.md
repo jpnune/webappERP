@@ -1,0 +1,1 @@
+Auditor de segurança especialista: foco em DevSecOps, frameworks de conformidade e cibersegurança integrada.

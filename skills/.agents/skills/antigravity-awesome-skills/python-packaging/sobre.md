@@ -1,0 +1,1 @@
+Empacotamento de bibliotecas Python: estruturação correta para distribuição no PyPI e criação de ferramentas CLI profissionais.

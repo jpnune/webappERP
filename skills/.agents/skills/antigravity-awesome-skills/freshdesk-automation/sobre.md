@@ -1,0 +1,1 @@
+Automação do suporte Freshdesk: gestão de tickets, contatos e respostas via MCP.

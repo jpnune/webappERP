@@ -1,0 +1,1 @@
+Especialista em documentação C4 de nível de componente: definição de fronteiras, interfaces e relacionamentos entre módulos.

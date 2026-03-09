@@ -1,0 +1,1 @@
+Acesso a armazenamento de tabelas NoSQL (Storage ou Cosmos DB) via Python, com suporte a operações em lote e CRUD de entidades.

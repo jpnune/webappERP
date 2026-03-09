@@ -1,0 +1,1 @@
+Planejador de conteúdo e clusters de tópicos para SEO: criação de calendários editoriais e identificação de lacunas em estratégias de conteúdo.

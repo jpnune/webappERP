@@ -1,0 +1,1 @@
+Automação de armazenamento em nuvem no Box: upload/download, busca e gestão de metadados via MCP.

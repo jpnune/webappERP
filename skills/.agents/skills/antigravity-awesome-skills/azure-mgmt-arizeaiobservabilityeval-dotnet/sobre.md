@@ -1,0 +1,1 @@
+Integração de monitoramento e avaliação de IA com Arize AI através do plano de gerenciamento do Azure (SDK .NET).

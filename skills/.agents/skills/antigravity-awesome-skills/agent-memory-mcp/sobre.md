@@ -1,0 +1,1 @@
+Sistema híbrido de memória para agentes de IA, provendo gestão de conhecimento persistente e pesquisável para arquitetura e decisões.

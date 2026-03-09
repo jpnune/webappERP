@@ -1,0 +1,1 @@
+Criação de referências técnicas e documentação de API: listagem exaustiva de parâmetros e manuais navegáveis.

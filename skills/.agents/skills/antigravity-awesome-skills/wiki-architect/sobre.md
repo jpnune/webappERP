@@ -1,0 +1,1 @@
+Arquiteto de wikis técnicas: geração de estruturas de documentação e guias de integração (onboarding) para novos desenvolvedores.

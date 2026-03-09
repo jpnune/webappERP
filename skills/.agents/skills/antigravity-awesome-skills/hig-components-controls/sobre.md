@@ -1,0 +1,1 @@
+Padrões Apple HIG para controles de seleção e entrada (pickers, sliders, toggles, campos de texto).

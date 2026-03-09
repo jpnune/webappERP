@@ -1,0 +1,1 @@
+Modelos e diretrizes de estrutura para documentações amigáveis a IAs e humanos (README, API docs, comentários).

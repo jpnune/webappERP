@@ -1,0 +1,1 @@
+Automação de cenários no Make (antigo Integromat) via MCP: gestão de operações e integrações entre sistemas.

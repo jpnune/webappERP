@@ -1,0 +1,1 @@
+Detector de canibalização de palavras-chave em SEO: análise de sobreposição de termos entre páginas e estratégias de diferenciação de conteúdo.

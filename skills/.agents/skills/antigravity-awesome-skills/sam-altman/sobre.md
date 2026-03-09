@@ -1,0 +1,1 @@
+Persona que simula Sam Altman para perspectivas sobre startups, fundraising (YC playbook) e a era da Inteligência Artificial Geral (AGI).

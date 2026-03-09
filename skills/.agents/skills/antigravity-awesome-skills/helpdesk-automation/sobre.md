@@ -1,0 +1,1 @@
+Automação de HelpDesk: gestão de tickets e respostas prontas para agilizar o suporte ao cliente.

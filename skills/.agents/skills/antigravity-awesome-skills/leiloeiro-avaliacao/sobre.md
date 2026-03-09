@@ -1,0 +1,1 @@
+Avaliação técnica de imóveis em leilão seguindo as normas ABNT: análise de valor de mercado e margem de segurança financeira.

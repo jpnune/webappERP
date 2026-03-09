@@ -1,0 +1,1 @@
+Escrita de textos focados em conversão para landing pages e e-mails, com rigor técnico e sem alucinações.

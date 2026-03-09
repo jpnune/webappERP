@@ -1,0 +1,1 @@
+Especialista em segurança de dependências: varredura de vulnerabilidades, conformidade de licenças e proteção da cadeia de suprimentos.

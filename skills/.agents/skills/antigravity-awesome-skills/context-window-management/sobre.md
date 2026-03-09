@@ -1,0 +1,1 @@
+Gestão de janelas de contexto: estratégias de poda, roteamento e resumo para evitar 'context rot'.

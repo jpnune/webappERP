@@ -1,0 +1,1 @@
+Manipulação de apresentações PowerPoint (.pptx). Criação de slides, extração de texto, edição de templates e notas de orador.

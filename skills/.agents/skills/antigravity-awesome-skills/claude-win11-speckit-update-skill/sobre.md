@@ -1,0 +1,1 @@
+Habilidade de gerenciamento e automação de sistemas no Windows 11.

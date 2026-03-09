@@ -1,0 +1,1 @@
+Criação de visualizações interativas com Plotly: gráficos para dashboards e apresentações com suporte a zoom e interação dinâmica.

@@ -1,0 +1,1 @@
+Biblioteca .NET para arquiteturas orientadas a eventos usando Azure Event Grid, suportando padrões pub/sub e CloudEvents.

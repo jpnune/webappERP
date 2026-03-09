@@ -1,0 +1,1 @@
+Desenvolvimento, depuração e implantação de 'Actors' da Apify: programas serverless para web scraping, automação e processamento de dados.

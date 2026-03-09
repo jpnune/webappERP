@@ -1,0 +1,1 @@
+Criação e atualização profissional de arquivos README.md: documentação técnica estruturada para apresentação de projetos.

@@ -1,0 +1,1 @@
+Criação de novas trilhas de trabalho com especificações detalhadas e plano de implementação faseado.

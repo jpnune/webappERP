@@ -1,0 +1,1 @@
+Utilitários comuns para serviços de comunicação do Azure em Java, focando em autenticação e gestão de tokens compartilhados.

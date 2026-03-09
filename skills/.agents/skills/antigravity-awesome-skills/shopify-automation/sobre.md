@@ -1,0 +1,1 @@
+Automação no Shopify via MCP: gestão de produtos, pedidos, inventário e coleções de forma programática via Composio.

@@ -1,0 +1,1 @@
+Padrões de tratamento de erro em diversas linguagens: exceções, tipos Result e degradação suave de funcionalidade.

@@ -1,0 +1,1 @@
+Assistente de saúde para análise de informações médicas, rastreio de sintomas e guias de bem-estar.

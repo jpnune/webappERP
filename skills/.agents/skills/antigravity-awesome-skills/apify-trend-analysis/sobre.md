@@ -1,0 +1,1 @@
+Descoberta e rastreio de tendências emergentes no Google Trends e redes sociais para informar estratégias de conteúdo.

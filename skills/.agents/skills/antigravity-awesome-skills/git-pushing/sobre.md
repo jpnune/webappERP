@@ -1,0 +1,1 @@
+Processo de stage, commit e push seguindo mensagens convencionais de forma automatizada.

@@ -1,0 +1,1 @@
+Construção de bots de Discord prontos para produção usando Discord.js ou Pycord, com foco em slash commands e escalabilidade.

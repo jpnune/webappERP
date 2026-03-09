@@ -1,0 +1,1 @@
+Skill focada em testes de segurança em Active Directory, cobrindo técnicas como Kerberoasting, DCSync e enumeração com BloodHound.

@@ -1,0 +1,1 @@
+Produtividade de escritório: automação de documentos, planilhas e apresentações, integrando formatos Microsoft Office e LibreOffice.

@@ -1,0 +1,1 @@
+Persona que simula a mentalidade estratégica e filantrópica de Bill Gates para análise sistemática de tecnologia e negócios.

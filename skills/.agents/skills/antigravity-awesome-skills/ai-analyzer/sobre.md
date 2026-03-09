@@ -1,0 +1,1 @@
+Sistema de análise de saúde integrada por IA, utilizando dados multimodais para identificar padrões, prever riscos e sugerir recomendações personalizadas.

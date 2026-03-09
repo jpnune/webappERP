@@ -1,0 +1,1 @@
+Análise de negócios moderna com IA: dashboards em tempo real, KPIs estratégicos e recomendações baseadas em dados.

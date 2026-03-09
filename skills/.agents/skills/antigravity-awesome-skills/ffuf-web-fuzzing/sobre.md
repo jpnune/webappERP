@@ -1,0 +1,1 @@
+Guia especialista para fuzzing web com ffuf: requisições autenticadas, calibração automática e análise de resultados em testes de intrusão.

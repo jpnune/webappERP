@@ -1,0 +1,1 @@
+Comunicações via Twilio: implementação de SMS, chamadas de voz e WhatsApp API para notificações e sistemas de verificação 2FA.

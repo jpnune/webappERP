@@ -1,0 +1,1 @@
+Otimização de prompts para qualquer modelo: focado em aumentar a qualidade da resposta e reduzir o consumo de tokens.

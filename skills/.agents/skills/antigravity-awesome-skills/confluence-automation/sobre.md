@@ -1,0 +1,1 @@
+Automação no Confluence via MCP: criação de páginas, busca de conteúdo e gestão de espaços documentais.

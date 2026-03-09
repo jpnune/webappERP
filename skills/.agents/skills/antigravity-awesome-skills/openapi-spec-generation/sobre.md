@@ -1,0 +1,1 @@
+Geração e manutenção de especificações OpenAPI 3.1: criação de documentação de API e garantia de conformidade de contrato.

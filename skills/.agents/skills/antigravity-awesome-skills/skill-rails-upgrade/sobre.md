@@ -1,0 +1,1 @@
+Avaliador de upgrade de aplicações Rails: análise técnica para migração segura entre versões do framework Ruby on Rails.

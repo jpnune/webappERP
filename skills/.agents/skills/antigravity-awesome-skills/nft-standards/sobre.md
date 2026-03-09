@@ -1,0 +1,1 @@
+Implementação de padrões NFT (ERC-721, ERC-1155): gestão de metadados, estratégias de minting e integração com marketplaces.

@@ -1,0 +1,1 @@
+Scanner de segurança de skills: auditoria contra injeção de prompt e scripts maliciosos em arquivos SKILL.md antes da instalação.

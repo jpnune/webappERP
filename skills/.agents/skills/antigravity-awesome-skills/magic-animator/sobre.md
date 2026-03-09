@@ -1,0 +1,1 @@
+Ferramenta de animação via IA para logos, interfaces e ativos de redes sociais de forma automática.

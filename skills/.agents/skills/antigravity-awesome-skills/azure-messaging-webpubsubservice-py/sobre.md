@@ -1,0 +1,1 @@
+Desenvolvimento de apps com mensagens bidirecionais em tempo real usando o SDK Python do Azure Web PubSub.

@@ -1,0 +1,1 @@
+Aumento de resolução e melhoria de qualidade de imagens e vídeos usando algoritmos de IA ('upscaling').

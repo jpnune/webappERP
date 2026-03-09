@@ -1,0 +1,1 @@
+Busca ativa por 'Featured Snippets': formatação de conteúdo para qualificação em posições de destaque (posição zero) e recursos de SERP.

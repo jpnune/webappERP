@@ -1,0 +1,1 @@
+Pós-processamento em Three.js: implementação de efeitos de Bloom, Depth of Field (DOF) e filtros de cor via EffectComposer.

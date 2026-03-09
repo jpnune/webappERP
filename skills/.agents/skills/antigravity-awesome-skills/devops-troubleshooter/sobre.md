@@ -1,0 +1,1 @@
+Especialista em resolução de incidentes DevOps: resposta rápida, depuração avançada e observabilidade moderna.

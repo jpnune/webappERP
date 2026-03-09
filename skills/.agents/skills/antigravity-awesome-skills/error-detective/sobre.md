@@ -1,0 +1,1 @@
+Busca ativa de padrões de erro, stack traces e anomalias em logs para identificar causas raízes em sistemas heterogêneos.

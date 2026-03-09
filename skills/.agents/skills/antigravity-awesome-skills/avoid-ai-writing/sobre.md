@@ -1,0 +1,1 @@
+Auditoria e reescrita de conteúdo para remover padrões de escrita robóticos de IA, humanizando o texto com tabelas de substituição testadas.

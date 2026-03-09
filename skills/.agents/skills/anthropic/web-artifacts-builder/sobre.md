@@ -1,0 +1,1 @@
+Conjunto de ferramentas para criar artefatos HTML complexos e multi-componentes usando React, Tailwind e shadcn/ui.

@@ -1,0 +1,1 @@
+Automação de Calendário Outlook: gestão de eventos, convidados e horários de reuniões via MCP.

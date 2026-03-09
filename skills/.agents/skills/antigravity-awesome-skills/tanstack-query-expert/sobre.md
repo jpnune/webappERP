@@ -1,0 +1,1 @@
+Especialista em TanStack Query (React Query): gestão de estado assíncrono, cache, mutações e atualizações otimistas robustas.

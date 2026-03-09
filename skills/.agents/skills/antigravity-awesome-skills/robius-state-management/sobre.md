@@ -1,0 +1,1 @@
+Gestão de estado em Robius: padrões de persistência, troca de temas e serialização de estado via Serde.

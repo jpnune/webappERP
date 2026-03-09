@@ -1,0 +1,1 @@
+Ferramentas e metodologias de Red Team: caça a bugs (bug bounty), reconhecimento automatizado e enumeração de vulnerabilidades.

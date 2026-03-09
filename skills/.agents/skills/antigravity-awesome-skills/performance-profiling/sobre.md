@@ -1,0 +1,1 @@
+Princípios de profiling de performance: técnicas de medição, análise de 'hot spots' e estratégias de otimização estrutural.

@@ -1,0 +1,1 @@
+Diagnóstico especialista de erros: foco em depuração de sistemas distribuídos e observabilidade avançada.

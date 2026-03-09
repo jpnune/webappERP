@@ -1,0 +1,1 @@
+Administração de capacidades e recursos do Microsoft Fabric (plataforma de dados) via SDK .NET.

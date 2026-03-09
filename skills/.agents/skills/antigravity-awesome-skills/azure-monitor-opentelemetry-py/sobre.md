@@ -1,0 +1,1 @@
+Configuração simplificada da distribuição OpenTelemetry do Azure para Python em apenas uma linha para Application Insights.

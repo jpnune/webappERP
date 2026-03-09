@@ -1,0 +1,1 @@
+Padrões para desenvolvimento de apps Shopify: uso de Remix, App Bridge, GraphQL Admin API e componentes Polaris para apps em escala.

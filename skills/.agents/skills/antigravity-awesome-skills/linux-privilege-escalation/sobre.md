@@ -1,0 +1,1 @@
+Testes de escalonamento de privilégios em Linux: identificação de vetores de exploração e configurações incorretas de sudo e SUID.

@@ -1,0 +1,1 @@
+Orquestrador principal para construção de aplicações full-stack a partir de pedidos em linguagem natural, selecionando a tech stack ideal.

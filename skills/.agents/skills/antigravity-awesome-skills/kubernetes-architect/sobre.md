@@ -1,0 +1,1 @@
+Arquiteto de Kubernetes: foco em infraestrutura cloud-native, workflows GitOps avançados (ArgoCD/Flux) e orquestração corporativa.

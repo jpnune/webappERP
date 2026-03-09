@@ -1,0 +1,1 @@
+Administração de instâncias de Bancos de Dados MySQL (Servidor Flexível) do Azure via .NET.

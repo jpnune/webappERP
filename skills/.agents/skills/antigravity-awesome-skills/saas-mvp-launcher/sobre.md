@@ -1,0 +1,1 @@
+Planejamento e lançamento de MVPs para SaaS: roadmap estruturado cobrindo stack técnica, pagamentos e checklist de lançamento.

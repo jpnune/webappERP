@@ -1,0 +1,1 @@
+Guia especialista em padrões de engenharia de prompts: melhores práticas para depurar o comportamento de agentes de IA.

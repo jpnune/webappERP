@@ -1,0 +1,1 @@
+SDK para construção de agentes no Microsoft 365 e Teams utilizando C# e ASP.NET Core.

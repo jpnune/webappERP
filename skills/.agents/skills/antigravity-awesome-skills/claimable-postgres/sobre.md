@@ -1,0 +1,1 @@
+Provisionamento instantâneo de bancos de dados Postgres temporários via Neon (pg.new) para prototipagem rápida e testes.

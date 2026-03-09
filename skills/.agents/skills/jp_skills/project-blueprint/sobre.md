@@ -1,0 +1,1 @@
+Skill essencial para início de projetos. Impõe a criação de PRD, Roadmap, Análise de Risco, Arquitetura e Log de Implementação imutável com foco em Test-First.

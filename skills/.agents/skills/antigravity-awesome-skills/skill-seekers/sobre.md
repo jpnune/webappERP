@@ -1,0 +1,1 @@
+Conversor automático de documentação: transformação de sites, repositórios GitHub e PDFs em skills funcionais para IA em poucos minutos.

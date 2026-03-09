@@ -1,0 +1,1 @@
+Automação de relatórios e gestão de propriedades do Google Analytics via MCP.

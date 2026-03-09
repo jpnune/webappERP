@@ -1,0 +1,1 @@
+Automação do Microsoft Teams via MCP: envio de mensagens, gestão de canais, reuniões e buscas estruturadas via Composio.

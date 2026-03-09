@@ -1,0 +1,1 @@
+Suporte multi-plataforma no Makepad: gestão de drivers gráficos (Metal/D3D11/OpenGL) em diferentes sistemas operacionais.

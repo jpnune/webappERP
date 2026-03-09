@@ -1,0 +1,1 @@
+Especialista em Service Mesh: arquitetura de rede nativa em nuvem utilizando Istio, Linkerd e gestão de tráfego entre clusters.

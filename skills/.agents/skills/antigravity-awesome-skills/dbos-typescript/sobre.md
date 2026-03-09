@@ -1,0 +1,1 @@
+SDK de TypeScript para DBOS: criação de aplicações resilientes com estados de workflow persistentes.

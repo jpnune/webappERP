@@ -1,0 +1,1 @@
+Especialista em análise avançada, machine learning e modelagem estatística para inteligência de negócios.

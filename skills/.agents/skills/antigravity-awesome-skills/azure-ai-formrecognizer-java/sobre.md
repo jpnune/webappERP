@@ -1,0 +1,1 @@
+Análise de formulários e documentos usando o SDK Java do Azure Form Recognizer para extração de pares chave-valor.

@@ -1,0 +1,1 @@
+Desenvolvimento de agentes baseados em containers no Azure AI Foundry usando o SDK de Azure AI Projects.

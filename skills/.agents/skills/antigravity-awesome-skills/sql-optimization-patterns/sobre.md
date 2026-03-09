@@ -1,0 +1,1 @@
+Padrões de otimização de consultas SQL: estratégias de indexação e análise profunda de EXPLAIN para eliminação de queries lentas.

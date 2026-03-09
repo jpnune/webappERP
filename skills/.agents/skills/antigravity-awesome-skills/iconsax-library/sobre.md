@@ -1,0 +1,1 @@
+Biblioteca extensa de ícones e geração de ícones via IA para projetos de interface de usuário (UI) premium.

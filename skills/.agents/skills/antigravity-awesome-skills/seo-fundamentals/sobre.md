@@ -1,0 +1,1 @@
+Fundamentos essenciais de SEO: princípios de E-E-A-T, Core Web Vitals, bases técnicas e qualidade de conteúdo para motores de busca modernos.

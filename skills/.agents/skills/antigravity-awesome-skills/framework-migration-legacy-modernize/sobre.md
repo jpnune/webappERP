@@ -1,0 +1,1 @@
+Modernização de sistemas legados usando o padrão 'Strangler Fig': substituição gradual com continuidade operacional.

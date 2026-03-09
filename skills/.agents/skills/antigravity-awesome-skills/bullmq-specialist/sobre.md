@@ -1,0 +1,1 @@
+Especialista em BullMQ para filas de tarefas baseadas em Redis e processamento assíncrono em Node.js/TypeScript.

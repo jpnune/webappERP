@@ -1,0 +1,1 @@
+Criação de arte algorítmica usando p5.js com aleatoriedade controlada e exploração de parâmetros interativos. Ideal para arte generativa, campos de fluxo e sistemas de partículas.

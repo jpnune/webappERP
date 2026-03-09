@@ -1,0 +1,1 @@
+Desenvolvimento de aplicações usando a API do Claude ou SDK da Anthropic. Ideal para integrações diretas com modelos Claude.

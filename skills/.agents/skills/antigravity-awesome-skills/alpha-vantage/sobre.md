@@ -1,0 +1,1 @@
+Integração para obtenção de dados do mercado financeiro e indicadores econômicos via API Alpha Vantage.

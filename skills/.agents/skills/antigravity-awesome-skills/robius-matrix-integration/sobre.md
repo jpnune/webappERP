@@ -1,0 +1,1 @@
+Integração do Matrix SDK com Makepad: sincronização de timeline de chat e gestão de salas de chat em apps Robius.

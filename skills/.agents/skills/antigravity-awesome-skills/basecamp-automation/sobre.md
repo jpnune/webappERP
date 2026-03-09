@@ -1,0 +1,1 @@
+Gestão de projetos e tarefas no Basecamp: automação de mensagens, listas de afazeres e organização de pessoas via Composio.

@@ -1,0 +1,1 @@
+Pesquisa técnica atualizada: extração de dados dos últimos 30 dias em Reddit, X e Web para se tornar especialista em novos tópicos.

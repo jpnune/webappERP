@@ -1,0 +1,1 @@
+Consultoria em logística reversa: autorização de devoluções, inspeção, detecção de fraude e gestão de garantias.

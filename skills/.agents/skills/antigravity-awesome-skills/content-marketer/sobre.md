@@ -1,0 +1,1 @@
+Estrategista de marketing de conteúdo: criação omnicanal, otimização de busca e marketing de performance baseado em dados.

@@ -1,0 +1,1 @@
+Desenvolvimento de extensões para Chrome e Firefox (Manifest V3), cobrindo arquitetura, scripts de conteúdo e monetização.

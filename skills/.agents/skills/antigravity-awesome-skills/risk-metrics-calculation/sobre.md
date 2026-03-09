@@ -1,0 +1,1 @@
+Cálculo de métricas de risco financeiro: VaR, CVaR, Sharpe, Sortino e análise profunda de 'drawdown'.

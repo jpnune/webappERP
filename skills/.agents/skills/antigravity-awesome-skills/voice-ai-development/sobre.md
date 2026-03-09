@@ -1,0 +1,1 @@
+Desenvolvimento de Voice AI: uso da API de Tempo Real da OpenAI, Deepgram para transcrição e ElevenLabs para síntese realista.

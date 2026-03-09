@@ -1,0 +1,1 @@
+Especialista em NestJS: arquitetura modular, injeção de dependência, guards, interceptors e integração com TypeORM/Mongoose.

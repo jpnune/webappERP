@@ -1,0 +1,1 @@
+Depuração sistemática de bugs: análise rigorosa de falhas de teste e comportamentos inesperados antes de propor qualquer correção.

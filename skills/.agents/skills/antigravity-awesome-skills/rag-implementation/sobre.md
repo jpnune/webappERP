@@ -1,0 +1,1 @@
+Workflow de implementação de RAG: seleção de embeddings, configuração de banco vetorial e estratégias de fragmentação (chunking).

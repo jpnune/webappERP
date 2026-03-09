@@ -1,0 +1,1 @@
+Uso de Git Worktrees: isolamento de tarefas em espaços de trabalho independentes sem trocar de branch no diretório principal.

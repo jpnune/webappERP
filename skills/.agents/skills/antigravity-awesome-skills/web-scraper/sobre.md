@@ -1,0 +1,1 @@
+Raspagem de dados web inteligente: extração estruturada de tabelas e listas com suporte a paginação e exportação para CSV/JSON.

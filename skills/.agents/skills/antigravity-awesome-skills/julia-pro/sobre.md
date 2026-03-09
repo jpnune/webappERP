@@ -1,0 +1,1 @@
+Domínio da linguagem Julia 1.10+: otimização de performance, 'multiple dispatch' e práticas de computação científica em produção.

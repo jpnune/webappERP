@@ -1,0 +1,1 @@
+Auditoria de segurança em Laravel: análise de vulnerabilidades seguindo padrões OWASP e boas práticas específicas do framework.

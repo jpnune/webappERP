@@ -1,0 +1,1 @@
+Gestão de APIs de plataforma: monitoramento de uso, precificação e gerenciamento de modelos de IA.

@@ -1,0 +1,1 @@
+Estratégias de automação de navegador para testes e extração de dados (scraping), focando em seletores confiáveis e esperas inteligentes.

@@ -1,0 +1,1 @@
+Gestão de eventos e ações no ecossistema Robius: tratamento de ações customizadas e interações de variáveis em código Rust.

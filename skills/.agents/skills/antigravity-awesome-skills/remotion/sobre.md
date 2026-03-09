@@ -1,0 +1,1 @@
+Geração programática de vídeos via código: criação de vídeos de walkthrough com transições suaves e sobreposição de texto em React.

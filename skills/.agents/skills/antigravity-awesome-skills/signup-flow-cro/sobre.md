@@ -1,0 +1,1 @@
+Otimização de fluxos de cadastro (signup): redução de fricção no registro de usuários e ativação de trials para melhor conversão.

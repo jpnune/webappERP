@@ -1,0 +1,1 @@
+Domínio do Django 5.x: views assíncronas, DRF (Django Rest Framework), Celery e canais para aplicações escaláveis.

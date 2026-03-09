@@ -1,0 +1,1 @@
+Pesquisa multi-agente: execução de pesquisas paralelas com até 10 agentes simultâneos para coleta profunda de informações.

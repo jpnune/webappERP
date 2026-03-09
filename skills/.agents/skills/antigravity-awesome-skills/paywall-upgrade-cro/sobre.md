@@ -1,0 +1,1 @@
+Otimização de paywalls e telas de upgrade: design de modais de upsell e bloqueios de funcionalidades para aumentar conversão.

@@ -1,0 +1,1 @@
+Configuração e uso do ShellCheck: análise estática para qualidade e portabilidade de scripts shell em infraestruturas complexas.

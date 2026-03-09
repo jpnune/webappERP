@@ -1,0 +1,1 @@
+Criação de branches Git seguindo as convenções de nomenclatura do projeto de forma automatizada.

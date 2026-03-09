@@ -1,0 +1,1 @@
+Criação de regras customizadas do Semgrep: detecção precisa de padrões de bugs e vulnerabilidades de segurança específicas do contexto.

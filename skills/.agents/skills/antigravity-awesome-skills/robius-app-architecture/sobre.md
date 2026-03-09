@@ -1,0 +1,1 @@
+Padrões de arquitetura de aplicações Robius (Rust): orquestração assíncrona via Tokio e estrutura de tarefas de worker.

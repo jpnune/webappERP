@@ -1,0 +1,1 @@
+Especialista em codificação segura para backend, focando em validação de entradas, autenticação e auditoria de segurança proativa.

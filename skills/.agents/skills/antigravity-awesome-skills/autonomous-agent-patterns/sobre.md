@@ -1,0 +1,1 @@
+Padrões de design para construção de agentes de codificação autônomos, cobrindo integração de ferramentas e automação de navegador.

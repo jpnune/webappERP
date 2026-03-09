@@ -1,0 +1,1 @@
+SDK de identidade para Rust, permitindo autenticação baseada em tokens e integração segura com a nuvem Azure.

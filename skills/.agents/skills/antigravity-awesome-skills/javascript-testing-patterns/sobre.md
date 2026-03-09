@@ -1,0 +1,1 @@
+Estratégias de teste em JS: Jest, Vitest e Testing Library para testes unitários, de integração e TDD rigoroso.

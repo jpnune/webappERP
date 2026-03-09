@@ -1,0 +1,1 @@
+Visão técnica profunda de Yann LeCun: foco em CNNs, JEPA (Advanced Machinery of Intelligence) e Self-Supervised Learning.

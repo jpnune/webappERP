@@ -1,0 +1,1 @@
+Automação no TikTok via MCP: publicação de vídeos, gestão de conteúdo e análise de estatísticas de perfil via Composio.

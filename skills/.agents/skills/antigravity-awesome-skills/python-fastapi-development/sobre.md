@@ -1,0 +1,1 @@
+Desenvolvimento de backend com FastAPI: padrões assíncronos, uso de SQLAlchemy, Pydantic e autenticação robusta.

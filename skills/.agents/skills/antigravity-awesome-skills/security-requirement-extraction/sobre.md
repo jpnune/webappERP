@@ -1,0 +1,1 @@
+Extração de requisitos de segurança baseada em modelos de ameaça: criação de histórias de usuário focadas em segurança e casos de teste.

@@ -1,0 +1,1 @@
+Correção e otimização de metadados para melhoria de SEO e organização de informações estruturadas.

@@ -1,0 +1,1 @@
+Planejamento conciso: gera checklists claros, acionáveis e atômicos para tarefas de programação complexas.

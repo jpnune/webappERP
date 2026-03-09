@@ -1,0 +1,1 @@
+Testes de intrusão em nuvem: avaliação de segurança em Azure/AWS/GCP e exploração de configurações incorretas.

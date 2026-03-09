@@ -1,0 +1,1 @@
+Padrões de orquestração de workflow com Temporal: gestão de determinismo, padrões Saga e separação entre atividades e fluxos.

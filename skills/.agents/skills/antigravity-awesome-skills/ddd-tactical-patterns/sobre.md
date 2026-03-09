@@ -1,0 +1,1 @@
+Aplicação de padrões táticos DDD: entidades, objetos de valor (value objects), agregados e repositórios com invariantes explícitas.

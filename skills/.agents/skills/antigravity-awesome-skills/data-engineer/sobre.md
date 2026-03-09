@@ -1,0 +1,1 @@
+Construção de pipelines de dados em larga escala e warehouses modernos usando Spark, Airflow e tecnologias cloud-native.

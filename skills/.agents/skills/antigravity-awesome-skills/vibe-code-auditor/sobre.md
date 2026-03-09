@@ -1,0 +1,1 @@
+Auditoria de código gerado por IA: identificação de falhas estruturais, fragilidades e riscos em códigos produzidos rapidamente.

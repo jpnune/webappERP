@@ -1,0 +1,1 @@
+SDK de Eventos de Autenticação do Microsoft Entra para .NET: triggers de Azure Functions para extensões de autenticação customizadas.

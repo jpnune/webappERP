@@ -1,0 +1,1 @@
+Processamento inteligente de faturas, recibos e forms usando o SDK de TypeScript do Azure Document Intelligence.

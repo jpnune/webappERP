@@ -1,0 +1,1 @@
+Integração para busca de banco de imagens Unsplash: obtenção de fotografias profissionais de alta qualidade para uso livre em projetos.

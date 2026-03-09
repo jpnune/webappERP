@@ -1,0 +1,1 @@
+Desenvolvimento de interfaces React, layouts responsivos e gestão de estado no cliente (React 19 e Next.js 15).

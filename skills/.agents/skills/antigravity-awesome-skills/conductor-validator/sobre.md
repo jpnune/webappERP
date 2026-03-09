@@ -1,0 +1,1 @@
+Validação de artefatos de projeto para garantir completude e correção antes da implementação.

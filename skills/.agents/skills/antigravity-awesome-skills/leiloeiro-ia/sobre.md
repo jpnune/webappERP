@@ -1,0 +1,1 @@
+Especialista integrado em leilões de imóveis: inteligência analítica jurídica e de mercado em uma única ferramenta técnica.

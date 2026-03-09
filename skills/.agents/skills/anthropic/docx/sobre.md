@@ -1,0 +1,1 @@
+Manipulação de arquivos Word (.docx). Criação, edição, formatação profissional, tabelas de conteúdo e extração de dados de documentos Word.

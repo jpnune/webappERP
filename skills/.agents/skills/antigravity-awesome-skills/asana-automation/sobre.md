@@ -1,0 +1,1 @@
+Automação de tarefas no Asana através de MCP: gestão de projetos, tarefas, seções e equipes.

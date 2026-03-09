@@ -1,0 +1,19 @@
+{
+  "skill_name": "project-blueprint",
+  "evals": [
+    {
+      "id": 1,
+      "name": "full-project-planning",
+      "prompt": "Plan the initial structure for a doctor appointment scheduling SaaS. Follow strictly Test-First rigor and create the PRD, Roadmap, Logs, and Risks. Use project-blueprint skill.",
+      "expected_output": "PRD.md, Roadmap.md, Risk_Analysis.md, implementation_log.md and directory structure filled with quality content.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "test-first-python-script",
+      "prompt": "Create a Python script to calculate a person's BMI. Use project-blueprint skill to plan and document progress in the log, ensuring the test is created first and validated before implementation.",
+      "expected_output": "Test file (Red/Fail), function code, and immutable log entry.",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Integração da API Google Gemini: seleção de modelos, multimodalidade, streaming e chamadas de função (function calling).

@@ -1,0 +1,1 @@
+Pesquisa web avançada utilizando a API Tavily: extração de conteúdo, rastreamento de links e inteligência de pesquisa profunda.

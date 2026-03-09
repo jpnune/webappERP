@@ -1,0 +1,1 @@
+Automação de e-mails via SendGrid: gestão de listas de contatos, identidades de remetente e análise de campanhas via MCP.

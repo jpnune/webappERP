@@ -1,0 +1,1 @@
+Biblioteca de módulos Terraform para AWS, Azure e GCP: padronização de provisionamento seguindo as melhores práticas de IaC.

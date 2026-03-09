@@ -1,0 +1,1 @@
+Guia de migração do Godot 3.x para Godot 4: mudanças de sintaxe em GDScript 2.0, Tweens e exportação.

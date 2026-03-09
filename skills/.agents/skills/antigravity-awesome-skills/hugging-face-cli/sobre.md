@@ -1,0 +1,1 @@
+Operações no Hugging Face Hub via CLI: download/upload de modelos e gestão de caches locais.

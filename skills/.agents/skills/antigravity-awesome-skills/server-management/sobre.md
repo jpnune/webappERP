@@ -1,0 +1,1 @@
+Princípios de gestão de servidores: estratégias de monitoramento, gestão de processos e decisões de escalabilidade de infraestrutura.

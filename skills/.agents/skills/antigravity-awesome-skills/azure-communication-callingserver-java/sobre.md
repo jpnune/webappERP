@@ -1,0 +1,1 @@
+SDK Java legada para serviços de chamadas do Azure (ACS). Recomendado migrar para o Call Automation em novos projetos.

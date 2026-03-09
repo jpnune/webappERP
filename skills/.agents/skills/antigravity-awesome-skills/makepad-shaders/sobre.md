@@ -1,0 +1,1 @@
+Sistema de shaders do Makepad: desenhos avançados no GPU via gramática SDF e pixel shaders customizados.

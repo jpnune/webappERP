@@ -1,0 +1,1 @@
+Escrita técnica refinada e direta, sem vícios de IA, focada em clareza, concisão e tom profissional para prosa e documentação.

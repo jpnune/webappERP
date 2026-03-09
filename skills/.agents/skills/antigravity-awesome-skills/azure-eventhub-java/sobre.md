@@ -1,0 +1,1 @@
+Streaming de dados em tempo real e arquiteturas orientadas a eventos com o SDK Java para Azure Event Hubs.

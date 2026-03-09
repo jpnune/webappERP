@@ -1,0 +1,1 @@
+Gestão de projetos e tarefas no Linear diretamente através da interface do Claude.

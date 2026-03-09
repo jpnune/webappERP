@@ -1,0 +1,1 @@
+Automação de operações no CRM HubSpot: contatos, negócios e tickets via ferramentas Composio.

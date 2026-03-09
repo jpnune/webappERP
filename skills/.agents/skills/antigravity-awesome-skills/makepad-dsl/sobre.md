@@ -1,0 +1,1 @@
+Sintaxe DSL do Makepad: herança de componentes, definição de propriedades visuais e prototipagem rápida de UI.

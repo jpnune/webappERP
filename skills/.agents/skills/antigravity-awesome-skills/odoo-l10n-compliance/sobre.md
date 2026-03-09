@@ -1,0 +1,1 @@
+Localização e conformidade fiscal no Odoo: configuração de impostos, faturamento eletrônico e relatórios fiscais por país.

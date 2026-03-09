@@ -1,0 +1,1 @@
+Workflow de geração de documentação: APIs, arquitetura, arquivos README e escrita técnica automatizada.

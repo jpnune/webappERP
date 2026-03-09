@@ -1,0 +1,1 @@
+Engenheiro de Machine Learning: construção de sistemas com PyTorch/TensorFlow, servindo modelos e implementando testes A/B.

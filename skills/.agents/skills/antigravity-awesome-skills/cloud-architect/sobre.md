@@ -1,0 +1,1 @@
+Arquiteto de nuvem especialista em infraestrutura multi-cloud (AWS/Azure/GCP), IaC avançado (Terraform) e FinOps.

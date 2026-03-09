@@ -1,0 +1,1 @@
+Arquiteto de ReactFlow: construção de aplicações de grafos interativos com sistemas hierárquicos de nós e arestas.

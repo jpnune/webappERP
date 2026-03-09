@@ -1,0 +1,1 @@
+Melhores práticas para Remotion: criação eficiente de vídeos dinâmicos utilizando o ecossistema React.

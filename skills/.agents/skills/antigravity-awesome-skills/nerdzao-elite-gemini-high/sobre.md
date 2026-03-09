@@ -1,0 +1,1 @@
+Modo Coder Elite otimizado para o modelo Gemini 3.1 Pro High: foco em qualidade máxima e eficiência de tokens.

@@ -1,0 +1,1 @@
+Estrategista de palavras-chave: análise de densidade, sugestão de variações semânticas e termos LSI para evitar a super-otimização (keyword stuffing).

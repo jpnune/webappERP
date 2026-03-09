@@ -1,0 +1,1 @@
+Otimização de performance de animações: correção de 'layout thrashing' e melhoria de fluidez em transições CSS/JS.

@@ -1,0 +1,1 @@
+Gestão de trilhas ('tracks') de trabalho: organização lógica de unidades de tarefas para funcionalidades, bugs e refatorações no ciclo de vida do projeto.

@@ -1,0 +1,1 @@
+Integração de tecnologias Apple: Siri, Apple Pay, HealthKit, ARKit e iCloud de acordo com o HIG.

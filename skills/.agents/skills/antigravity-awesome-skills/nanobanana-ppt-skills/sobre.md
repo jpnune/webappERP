@@ -1,0 +1,1 @@
+Geração de apresentações PPT via IA: análise de documentos e criação de imagens estilizadas para slides.

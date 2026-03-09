@@ -1,0 +1,1 @@
+Geração de relatórios diários de notícias técnicas: extração de fontes selecionadas e formatação em Markdown.

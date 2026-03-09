@@ -1,0 +1,1 @@
+Padrões comuns do AWS CDK para construção de infraestrutura como código (IaC) usando TypeScript, Python ou Java.

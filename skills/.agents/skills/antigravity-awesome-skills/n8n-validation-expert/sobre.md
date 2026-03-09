@@ -1,0 +1,1 @@
+Validação de fluxos n8n: interpretação de erros, avisos e correção de estruturas de operadores em automações.

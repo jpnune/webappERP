@@ -1,0 +1,1 @@
+Criação de projeções financeiras detalhadas (3-5 anos): fluxo de caixa, custos, receitas e modelos de cenários para startups.

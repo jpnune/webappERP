@@ -1,0 +1,1 @@
+Gateway de API para servidores ComfyUI: gestão de fluxos, filas de processamento e entrega de imagens geradas.

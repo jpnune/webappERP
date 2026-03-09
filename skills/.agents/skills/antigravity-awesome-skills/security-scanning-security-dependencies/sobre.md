@@ -1,0 +1,1 @@
+Análise de vulnerabilidades em dependências: geração de SBOM e monitoramento da segurança da cadeia de suprimentos de software.

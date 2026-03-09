@@ -1,0 +1,1 @@
+Biblioteca de modelos estatísticos para Python: diagnósticos detalhados, modelos OLS/GLM e inferência rigorosa para econometria.

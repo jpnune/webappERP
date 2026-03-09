@@ -1,0 +1,1 @@
+Escrita automatizada de Pull Requests (PR): geração de títulos e descrições técnicas seguindo as convenções de Sentry e referências de issues.

@@ -1,0 +1,1 @@
+Desenvolvimento do projeto EarLLM One (Android): app Kotlin/Compose para conexão de fones Bluetooth via pipeline de voz com LLM.

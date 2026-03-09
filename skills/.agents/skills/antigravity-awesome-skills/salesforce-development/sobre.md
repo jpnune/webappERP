@@ -1,0 +1,1 @@
+Padrões especialistas em desenvolvimento Salesforce: Lightning Web Components (LWC), Apex triggers e APIs de dados em lote.

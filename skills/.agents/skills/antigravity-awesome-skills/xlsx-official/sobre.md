@@ -1,0 +1,1 @@
+Gestão profissional de planilhas (.xlsx, .csv): criação, edição avançada de fórmulas, visualização técnica e análise de dados complexos.

@@ -1,0 +1,1 @@
+Planejamento e sequenciamento de produção industrial: otimização de linhas de montagem e resolução de gargalos em manufatura.

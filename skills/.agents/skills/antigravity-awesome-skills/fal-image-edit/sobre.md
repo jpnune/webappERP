@@ -1,0 +1,1 @@
+Edição de imagens via IA: transferência de estilo, remoção de objetos e manipulação visual assistida.

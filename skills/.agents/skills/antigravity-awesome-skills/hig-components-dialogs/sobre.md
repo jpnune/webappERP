@@ -1,0 +1,1 @@
+Padrões Apple HIG para componentes de apresentação: alertas, action sheets e popovers.

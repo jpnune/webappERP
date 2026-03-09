@@ -1,0 +1,1 @@
+Execução de planos de implementação seguindo o workflow TDD (Desenvolvimento Orientado por Testes).

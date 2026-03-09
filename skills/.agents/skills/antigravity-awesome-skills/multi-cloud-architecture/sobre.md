@@ -1,0 +1,1 @@
+Arquitetura multi-nuvem: integração de serviços entre AWS, Azure e GCP para evitar 'vendor lock-in' e otimizar custos.

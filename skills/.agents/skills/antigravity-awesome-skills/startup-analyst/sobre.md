@@ -1,0 +1,1 @@
+Analista de startups especialista: dimensionamento de mercado (TAM/SAM/SOM), modelagem financeira e planejamento estratégico inicial.

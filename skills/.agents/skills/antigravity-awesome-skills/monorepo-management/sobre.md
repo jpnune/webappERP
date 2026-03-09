@@ -1,0 +1,1 @@
+Gestão de monorepos: configuração de workspaces pnpm e otimização de build para repositórios escaláveis multi-pacote.

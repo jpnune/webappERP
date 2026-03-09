@@ -1,0 +1,1 @@
+Táticas de Red Team baseadas no MITRE ATT&CK: fases de ataque, evasão de detecção e geração de relatórios de intrusão.

@@ -1,0 +1,1 @@
+Pesquisa de mercado: analisa condições de mercado, oportunidades geográficas, preços e comportamento do consumidor via Apify.

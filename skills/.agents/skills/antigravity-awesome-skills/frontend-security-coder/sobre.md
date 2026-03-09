@@ -1,0 +1,1 @@
+Práticas de codificação segura no frontend: prevenção de XSS, sanitização de saída e padrões de segurança no cliente.

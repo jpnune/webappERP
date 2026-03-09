@@ -1,0 +1,1 @@
+Desenvolvimento multi-plataforma (React Native/Flutter) ou nativo: arquiteturas modernas, sincronização offline e otimização de lojas.

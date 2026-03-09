@@ -1,0 +1,1 @@
+Análise de dados em tempo real e telemetria IoT com o SDK de JavaScript para Azure Event Hubs.

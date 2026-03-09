@@ -1,0 +1,1 @@
+Extração de texto, tabelas e dados estruturados de documentos usando o SDK .NET do Azure AI Document Intelligence.

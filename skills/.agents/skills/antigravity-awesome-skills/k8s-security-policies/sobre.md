@@ -1,0 +1,1 @@
+Implementação de políticas de segurança Kubernetes: NetworkPolicy, RBAC e PodSecurity para ambientes de produção.

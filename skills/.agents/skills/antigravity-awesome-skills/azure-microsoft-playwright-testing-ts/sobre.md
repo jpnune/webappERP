@@ -1,0 +1,1 @@
+Execução de testes Playwright em larga escala usando a infraestrutura em nuvem do Azure (Workspaces de teste).

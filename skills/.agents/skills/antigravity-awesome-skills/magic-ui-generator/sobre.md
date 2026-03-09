@@ -1,0 +1,1 @@
+Geração e integração de variações de componentes de interface prontos para produção utilizando a ferramenta Magic da 21st.dev.

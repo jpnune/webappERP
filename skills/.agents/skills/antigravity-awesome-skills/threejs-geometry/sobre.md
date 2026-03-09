@@ -1,0 +1,1 @@
+Criação de geometrias em Three.js: formas prontas, geometrias customizadas (BufferGeometry) e instanciamento para performance.

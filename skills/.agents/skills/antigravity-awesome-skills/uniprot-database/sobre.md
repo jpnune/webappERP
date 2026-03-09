@@ -1,0 +1,1 @@
+Acesso à API UniProt: busca de proteínas, recuperação de FASTA e mapeamento de IDs de sequências biológicas via REST.

@@ -1,0 +1,1 @@
+Criação de lojas Zustand com TypeScript: separação rigorosa de estado e ações e uso de seletores para performance reativa em React.

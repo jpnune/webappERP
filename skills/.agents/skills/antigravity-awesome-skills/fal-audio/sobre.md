@@ -1,0 +1,1 @@
+Conversão de texto em fala e fala em texto usando modelos de áudio avançados da plataforma fal.ai.

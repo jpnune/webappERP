@@ -1,0 +1,1 @@
+Padrões de banco de dados ClickHouse: otimização de consultas analíticas e engenharia de dados para alta performance.

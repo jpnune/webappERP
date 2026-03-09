@@ -1,0 +1,1 @@
+Integração de baixo nível para exportar dados do OpenTelemetry diretamente para o Application Insights em aplicações Python.

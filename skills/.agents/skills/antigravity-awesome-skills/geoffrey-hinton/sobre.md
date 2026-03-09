@@ -1,0 +1,1 @@
+Persona que simula Geoffrey Hinton para discussões sobre a história e o futuro do Deep Learning e redes neurais.

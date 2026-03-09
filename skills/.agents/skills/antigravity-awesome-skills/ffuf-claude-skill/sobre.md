@@ -1,0 +1,1 @@
+Fuzzing web utilizando a ferramenta ffuf para descoberta de diretórios e arquivos.

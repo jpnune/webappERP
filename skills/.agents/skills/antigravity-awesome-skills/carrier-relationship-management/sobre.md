@@ -1,0 +1,1 @@
+Gestão estratégica de transportadoras: negociação de taxas de frete, monitoramento de performance e alocação de cargas.

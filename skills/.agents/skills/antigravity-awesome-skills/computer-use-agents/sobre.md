@@ -1,0 +1,1 @@
+Construção de agentes de IA que interagem com o computador como humanos: visualização de tela, cliques e digitação.

@@ -1,0 +1,1 @@
+Teste de vulnerabilidades de autenticação, avaliação de gestão de sessões e testes de 'credential stuffing'.

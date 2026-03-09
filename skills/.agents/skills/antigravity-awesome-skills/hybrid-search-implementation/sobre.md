@@ -1,0 +1,1 @@
+Implementação de busca híbrida: combinação de busca vetorial e por palavras-chave para melhorar a recuperação de informações (RAG).

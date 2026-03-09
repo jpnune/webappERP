@@ -1,0 +1,1 @@
+Princípios de design de banco de dados: estratégia de indexação, seleção de ORM e modelagem de esquemas eficientes.

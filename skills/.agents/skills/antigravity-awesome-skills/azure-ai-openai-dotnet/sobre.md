@@ -1,0 +1,1 @@
+Biblioteca cliente .NET para serviços Azure OpenAI e OpenAI: chat, embeddings, geração de imagem e assistentes.

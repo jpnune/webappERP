@@ -1,0 +1,1 @@
+Padrões assíncronos funcionais usando TaskEither: criação de pipelines limpos evitando o uso excessivo de blocos try/catch.

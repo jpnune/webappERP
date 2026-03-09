@@ -1,0 +1,1 @@
+Workflows de GitHub Actions prontos para produção: testes automáticos, build e deploy de aplicações.

@@ -1,0 +1,1 @@
+Padrões de arquitetura backend: design de APIs, otimização de banco de dados e melhores práticas de servidor para Node.js/Next.js.

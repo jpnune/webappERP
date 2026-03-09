@@ -1,0 +1,1 @@
+Converte projetos existentes em 'Actors' da Apify (serverless). Suporta JavaScript/TypeScript, Python ou qualquer linguagem via CLI wrapper.

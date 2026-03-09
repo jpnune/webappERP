@@ -1,0 +1,1 @@
+Especialista em jobs de backend serverless e workflows baseados em eventos com execução durável através da plataforma Inngest.

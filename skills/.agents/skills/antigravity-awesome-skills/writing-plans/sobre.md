@@ -1,0 +1,1 @@
+Escrita de planos de ação técnicos: criação de guias antes de iniciar a codificação de tarefas com múltiplos passos.

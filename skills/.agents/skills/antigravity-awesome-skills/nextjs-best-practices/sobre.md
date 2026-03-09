@@ -1,0 +1,1 @@
+Princípios e boas práticas de Next.js: otimização de componentes de servidor, roteamento e renderização híbrida.

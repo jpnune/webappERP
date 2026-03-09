@@ -1,0 +1,1 @@
+Protocolo de Inteligência Pré-Tarefa: ativação coordenada de agentes especializados para enriquecer o contexto antes da execução da tarefa.

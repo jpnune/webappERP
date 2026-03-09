@@ -1,0 +1,1 @@
+Serviços de localização no Azure: geocodificação, roteamento, clima e busca de endereços via SDK .NET.

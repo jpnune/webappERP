@@ -1,0 +1,1 @@
+Referência técnica e diagnóstico para Makepad: resolução de erros de parse e problemas de atualização de interface.

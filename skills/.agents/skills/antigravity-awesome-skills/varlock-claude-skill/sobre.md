@@ -1,0 +1,1 @@
+Gestão segura de variáveis de ambiente: proteção contra exposição de segredos em sessões do Claude, terminais e logs.

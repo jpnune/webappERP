@@ -1,0 +1,1 @@
+Implementação de filas de mensagens confiáveis para distribuição de tarefas e processamento assíncrono em Python.

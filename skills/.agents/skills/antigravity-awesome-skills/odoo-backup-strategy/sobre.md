@@ -1,0 +1,1 @@
+Estratégia completa de backup e restauração Odoo: dumps de banco, armazenamento de arquivos e agendamento em nuvem.

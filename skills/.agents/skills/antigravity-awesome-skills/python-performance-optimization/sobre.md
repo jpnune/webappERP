@@ -1,0 +1,1 @@
+Otimização de performance em Python: uso de profilers de memória e cProfile para identificar e corrigir gargalos de execução.

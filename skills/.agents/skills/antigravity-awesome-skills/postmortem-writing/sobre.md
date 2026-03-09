@@ -1,0 +1,1 @@
+Redação de postmortems eficazes e sem culpabilização (blameless): análise de causa raiz, linha do tempo e planos de ação corretiva.

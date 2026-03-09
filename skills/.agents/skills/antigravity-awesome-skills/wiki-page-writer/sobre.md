@@ -1,0 +1,1 @@
+Escritor de documentação técnica rica: criação de diagramas Mermaid em modo escuro e citações de código-fonte de alta precisão.

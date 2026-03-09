@@ -1,0 +1,1 @@
+Análise de tendências de saúde: correlação de sintomas, sinais vitais e exames com relatórios visuais (ECharts).

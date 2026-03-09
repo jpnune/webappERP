@@ -1,0 +1,1 @@
+Construção de agentes baseados em containers no Azure AI com suporte a imagens customizadas e definições hospedadas.

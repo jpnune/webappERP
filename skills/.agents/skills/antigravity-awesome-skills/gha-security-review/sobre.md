@@ -1,0 +1,1 @@
+Revisão de segurança de fluxos do GitHub Actions: detecção de injeção de expressões e vulnerabilidades CI/CD.

@@ -1,0 +1,1 @@
+Especialista em Vercel AI SDK: geração e streaming de texto, chamadas de ferramentas e hooks de interface (useChat) em React.

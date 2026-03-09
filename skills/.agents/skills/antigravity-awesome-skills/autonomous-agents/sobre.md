@@ -1,0 +1,1 @@
+Sistemas de IA que decompõem objetivos e executam ações de forma independente e autocrítica, sem necessidade de orientação humana constante.

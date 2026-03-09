@@ -1,0 +1,1 @@
+Rastreamento de erros e monitoramento de observabilidade: configuração de alertas e logging estruturado para diagnóstico rápido.

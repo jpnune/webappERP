@@ -1,0 +1,1 @@
+Construção de sistemas de chat de suporte em tempo real, incluindo widget flutuante e dashboard administrativo.

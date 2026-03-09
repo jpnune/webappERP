@@ -1,0 +1,1 @@
+Padrões de testes com Jest: uso de factories, estratégias de dublês de teste (mocks) e ciclos de refatoração TDD.

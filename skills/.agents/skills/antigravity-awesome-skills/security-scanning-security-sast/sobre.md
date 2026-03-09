@@ -1,0 +1,1 @@
+Testes estáticos de segurança (SAST): análise profunda de código-fonte para detecção precoce de vulnerabilidades.

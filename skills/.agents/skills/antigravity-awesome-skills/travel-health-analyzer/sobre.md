@@ -1,0 +1,1 @@
+Analisador de saúde em viagens: avaliação de riscos de destino, vacinação e geração de informações médicas de emergência multilingue.

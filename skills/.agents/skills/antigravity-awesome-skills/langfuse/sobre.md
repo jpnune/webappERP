@@ -1,0 +1,1 @@
+Integração com Langfuse: plataforma de observabilidade para LLMs, com rastreamento de custos, prompts e avaliação de qualidade.

@@ -1,0 +1,1 @@
+Workflow de diagnóstico e resolução de problemas em sistemas Linux: análise de performance e falhas de serviços.

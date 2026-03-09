@@ -1,0 +1,1 @@
+Gestão de uploads e armazenamento em nuvem: S3, Cloudflare R2, URLs pré-assinadas e otimização de grandes arquivos.

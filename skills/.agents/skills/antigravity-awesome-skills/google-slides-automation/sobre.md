@@ -1,0 +1,1 @@
+Geração e edição automatizada de apresentações do Google Slides.

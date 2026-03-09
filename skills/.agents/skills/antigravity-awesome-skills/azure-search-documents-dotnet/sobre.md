@@ -1,0 +1,1 @@
+Implementação de busca inteligente (vetorial, semântica e híbrida) usando o SDK .NET do Azure AI Search.

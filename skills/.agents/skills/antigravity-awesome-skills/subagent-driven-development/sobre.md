@@ -1,0 +1,1 @@
+Desenvolvimento impulsionado por subagentes: execução coordenada de planos de implementação com tarefas independentes.

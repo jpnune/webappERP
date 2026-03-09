@@ -1,0 +1,1 @@
+Estratégias de avaliação de LLMs: métricas automatizadas e benchmarking de qualidade para aplicações de IA.

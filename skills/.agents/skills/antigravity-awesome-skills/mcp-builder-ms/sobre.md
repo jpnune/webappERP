@@ -1,0 +1,1 @@
+Guia para criação de servidores MCP (Model Context Protocol) de alta qualidade para integração de serviços externos com LLMs.

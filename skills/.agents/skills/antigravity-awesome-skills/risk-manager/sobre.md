@@ -1,0 +1,1 @@
+Gestão de risco de portfólio financeiro: monitoramento de múltiplos R, limites de posição e implementação de stop-loss e hedging.

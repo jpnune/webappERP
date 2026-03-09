@@ -1,0 +1,1 @@
+Arquiteto especialista em backend, focado em design de APIs escaláveis, microsserviços e sistemas distribuídos.

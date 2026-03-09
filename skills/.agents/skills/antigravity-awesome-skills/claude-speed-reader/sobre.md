@@ -1,0 +1,1 @@
+Leitor de velocidade para respostas do Claude usando RSVP com destaque visual para leitura acelerada.

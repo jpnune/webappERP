@@ -1,0 +1,1 @@
+Guia prático de programação funcional: abordagem 80/20 para obter resultados reais sem a complexidade acadêmica teórica.

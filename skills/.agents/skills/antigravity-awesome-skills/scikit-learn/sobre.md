@@ -1,0 +1,1 @@
+Machine Learning em Python com scikit-learn: classificação, regressão, agrupamento e avaliação de modelos preditivos.

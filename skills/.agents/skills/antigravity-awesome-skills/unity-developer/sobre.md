@@ -1,0 +1,1 @@
+Desenvolvimento de jogos em Unity: scripts C# otimizados, gestão de ativos e uso dos pipelines URP/HDRP para alta performance.

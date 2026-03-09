@@ -1,0 +1,1 @@
+Engenheiro de performance: especialista em observabilidade moderna para sistemas de alta escala.

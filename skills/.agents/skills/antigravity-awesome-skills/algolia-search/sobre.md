@@ -1,0 +1,1 @@
+Padrões especialistas para implementação de busca com Algolia, estratégias de indexação, React InstantSearch e ajuste de relevância.

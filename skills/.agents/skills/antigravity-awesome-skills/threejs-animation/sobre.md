@@ -1,0 +1,1 @@
+Animação em Three.js: esqueletais, keyframes, morph targets e mistura de animações para movimentos procedurais em 3D.

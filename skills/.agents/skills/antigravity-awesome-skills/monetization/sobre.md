@@ -1,0 +1,1 @@
+Estratégia de monetização de produtos: implementação de Stripe, assinaturas, experimentos de preço e otimização de churn.

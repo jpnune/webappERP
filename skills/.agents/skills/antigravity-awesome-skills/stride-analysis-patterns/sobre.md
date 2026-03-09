@@ -1,0 +1,1 @@
+Aplicação da metodologia STRIDE para identificação sistemática de ameaças: modelagem de segurança e documentação de riscos.

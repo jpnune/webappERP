@@ -1,0 +1,1 @@
+Toolkit de chat via IA MolyKit: integração com OpenAI, streaming SSE e componentes de chat assíncronos multi-plataforma.

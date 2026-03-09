@@ -1,0 +1,1 @@
+Integração de dados de saúde digital (Apple Health, Fitbit, Oura) com a base de conhecimento WellAlly.tech para recomendações de bem-estar.

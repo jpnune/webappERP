@@ -1,0 +1,1 @@
+Construção de views XML no Odoo: Form, List, Kanban e Calendar com sintaxe correta para as versões 14 a 17.

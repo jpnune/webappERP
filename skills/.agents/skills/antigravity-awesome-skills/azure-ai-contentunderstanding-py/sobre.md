@@ -1,0 +1,1 @@
+Extração de conteúdo multimodal de documentos, imagens, áudio e vídeo usando o SDK Python do Azure AI.

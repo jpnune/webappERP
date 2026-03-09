@@ -1,0 +1,1 @@
+Especialista em Drizzle ORM para TypeScript: design de esquemas 'type-safe' e integração com bancos de dados serverless.

@@ -1,0 +1,1 @@
+Métodos de escalonamento de privilégios: técnicas para obter acesso de root ou administrador através de exploração de falhas de sistema.

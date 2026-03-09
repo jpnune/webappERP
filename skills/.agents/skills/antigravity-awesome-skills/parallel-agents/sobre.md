@@ -1,0 +1,1 @@
+Padrões de orquestração de agentes paralelos: execução de tarefas independentes com diferentes especialidades de domínio.

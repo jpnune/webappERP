@@ -1,0 +1,1 @@
+Automação no Linear via MCP: gestão programática de issues, ciclos (sprints) e times via ferramenta Composio.

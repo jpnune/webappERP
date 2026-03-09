@@ -1,0 +1,1 @@
+Tuning de performance no Odoo: diagnóstico de consultas lentas, configuração de workers, limites de memória e otimização de PostgreSQL.

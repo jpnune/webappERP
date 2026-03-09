@@ -1,0 +1,1 @@
+Padrões de UI em React: estados de carregamento, tratamento elegante de erros e estratégias de busca de dados assíncronos.

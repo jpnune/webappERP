@@ -1,0 +1,1 @@
+Uso do BusyBox para rodar ferramentas padrão UNIX/Linux diretamente no Windows via binários Win32.

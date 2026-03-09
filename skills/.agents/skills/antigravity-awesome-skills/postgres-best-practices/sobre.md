@@ -1,0 +1,1 @@
+Melhores práticas e otimização de performance para Postgres (via Supabase): design de esquemas eficientes e tunagem de consultas.

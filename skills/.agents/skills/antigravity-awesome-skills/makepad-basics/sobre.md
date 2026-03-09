@@ -1,0 +1,1 @@
+Guia inicial do framework Makepad: estrutura de aplicativos, configuração de projetos e conceitos base como live_design!.

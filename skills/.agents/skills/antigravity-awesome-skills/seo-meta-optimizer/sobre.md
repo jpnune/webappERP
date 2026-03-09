@@ -1,0 +1,1 @@
+Otimizador de Meta Tags: geração de títulos, descrições e URLs otimizadas dentro dos limites de caracteres e melhores práticas de conversão (CTR).

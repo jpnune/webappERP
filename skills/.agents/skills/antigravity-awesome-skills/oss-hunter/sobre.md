@@ -1,0 +1,1 @@
+Busca automática por oportunidades de contribuição em projetos de código aberto (OSS) de alto impacto e tendência.

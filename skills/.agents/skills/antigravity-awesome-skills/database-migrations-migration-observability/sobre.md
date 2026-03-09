@@ -1,0 +1,1 @@
+Infraestrutura para observabilidade de migrações, incluindo monitoramento CDC (Change Data Capture).

@@ -1,0 +1,1 @@
+Consultoria em conformidade regulatória: auditorias de LGPD/GDPR, HIPAA, SOC2 e padrões industriais específicos.

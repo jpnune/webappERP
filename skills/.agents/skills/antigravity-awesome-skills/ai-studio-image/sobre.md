@@ -1,0 +1,1 @@
+Geração de imagens realistas via Google AI Studio (Gemini), com foco em estilos humanizados para uso educacional ou influenciadores digitais.

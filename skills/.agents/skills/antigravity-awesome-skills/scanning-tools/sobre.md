@@ -1,0 +1,1 @@
+Uso de ferramentas de scan: análise de vulnerabilidades de rede, portas abertas e segurança de redes sem fio e web.

@@ -1,0 +1,1 @@
+Automação de assinaturas digitais no DocuSign: gestão de templates, envelopes e fluxo de documentos via MCP.

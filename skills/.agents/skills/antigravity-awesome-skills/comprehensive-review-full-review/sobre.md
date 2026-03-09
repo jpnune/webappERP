@@ -1,0 +1,1 @@
+Habilidade para revisões completas e profundas de todos os aspectos de um projeto ou componente.

@@ -1,0 +1,1 @@
+Configuração de projetos Rails para integração com agentes de codificação paralelos do Conductor.

@@ -1,0 +1,1 @@
+Leitor de velocidade RSVP para processamento rápido de textos.

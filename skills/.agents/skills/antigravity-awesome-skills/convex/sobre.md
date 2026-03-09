@@ -1,0 +1,1 @@
+Especialista em backend reativo Convex: design de esquemas, funções TypeScript e assinaturas em tempo real.

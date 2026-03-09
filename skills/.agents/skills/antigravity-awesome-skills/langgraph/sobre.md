@@ -1,0 +1,1 @@
+Desenvolvimento de aplicações de IA multi-agente e cíclicas com LangGraph: gestão de estado persistente e orquestração complexa.

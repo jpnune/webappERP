@@ -1,0 +1,1 @@
+Gestão segura de segredos em pipelines CI/CD: uso de Vault, AWS Secrets Manager e estratégias de rotação de credenciais.

@@ -1,0 +1,1 @@
+Criação e gestão de skills para Claude Code: melhores práticas da Anthropic para padrões de ativação (trigger) e depuração de comportamentos.

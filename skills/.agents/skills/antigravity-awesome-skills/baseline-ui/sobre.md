@@ -1,0 +1,1 @@
+Validação de interfaces: verifica durações de animação, escala tipográfica e acessibilidade em projetos Tailwind CSS.

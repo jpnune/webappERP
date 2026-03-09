@@ -1,0 +1,1 @@
+Análise abrangente de oportunidade de mercado: cálculos rigorosos de TAM, SAM e SOM para apresentação de viabilidade.

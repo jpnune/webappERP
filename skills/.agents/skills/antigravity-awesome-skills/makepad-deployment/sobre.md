@@ -1,0 +1,1 @@
+Empacotamento e deploy de apps Makepad (Android/iOS/WASM): automação de CI e distribuição profissional de binários.

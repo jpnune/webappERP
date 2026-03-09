@@ -1,0 +1,1 @@
+Geração de testes unitários abrangentes: foco em cobertura rigorosa e detecção de casos de borda em múltiplas linguagens.

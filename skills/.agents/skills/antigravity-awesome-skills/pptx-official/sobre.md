@@ -1,0 +1,1 @@
+Gestão completa de apresentações PowerPoint (.pptx): criação, edição programática de conteúdo e análise de layouts de slides.

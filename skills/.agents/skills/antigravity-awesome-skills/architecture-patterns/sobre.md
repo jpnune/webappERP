@@ -1,0 +1,1 @@
+Implementação de padrões de arquitetura backend: Clean Architecture, Arquitetura Hexagonal e Domain-Driven Design (DDD).

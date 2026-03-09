@@ -1,0 +1,1 @@
+Fundamentos de redes: configuração de servidores web, HTTP/HTTPS, SMB e testes de conectividade de serviços.

@@ -1,0 +1,1 @@
+Validação e teste de configurações de aplicação para garantir a correção e segurança dos ambientes de deploy.

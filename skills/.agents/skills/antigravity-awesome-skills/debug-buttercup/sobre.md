@@ -1,0 +1,1 @@
+Depuração do sistema de raciocínio cibernético (Cyber Reasoning System) Buttercup rodando em Kubernetes.

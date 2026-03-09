@@ -1,0 +1,1 @@
+Integração de gateways de pagamento do Paquistão (JazzCash, Easypaisa) em sistemas SaaS para faturamento local.

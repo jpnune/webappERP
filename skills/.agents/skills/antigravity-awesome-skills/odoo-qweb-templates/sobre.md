@@ -1,0 +1,1 @@
+Templates QWeb no Odoo: criação de relatórios PDF, templates de e-mail e páginas de website com lógica dinâmica.

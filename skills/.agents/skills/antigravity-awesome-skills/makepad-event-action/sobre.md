@@ -1,0 +1,1 @@
+Gestão de eventos e ações no Makepad: tratamento de cliques, toques e fluxos de estado em código Rust.

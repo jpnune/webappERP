@@ -1,0 +1,1 @@
+Ingestão de logs personalizados no Azure Monitor usando Python e as APIs de Ingestão de Logs.

@@ -1,0 +1,1 @@
+Reconhecimento via Shodan: busca por dispositivos expostos na internet e identificação de serviços vulneráveis através de varreduras de IP.

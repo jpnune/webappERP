@@ -1,0 +1,1 @@
+Fluxo canônico de escrita de Pull Requests para garantir descrições completas e revisões ágeis.

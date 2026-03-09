@@ -1,0 +1,1 @@
+Implantação de Odoo via Docker: configurações prontas para produção com PostgreSQL, Nginx e volumes persistentes.

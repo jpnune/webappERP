@@ -1,0 +1,1 @@
+SDK do Azure Batch para Java. Execução de tarefas em lote e computação de alta performance (HPC) em larga escala.

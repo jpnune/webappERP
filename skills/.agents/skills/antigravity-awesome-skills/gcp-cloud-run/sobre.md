@@ -1,0 +1,1 @@
+Aplicações serverless no Google Cloud: Cloud Run (containers) e Cloud Run Functions (eventos) com foco em otimização de 'cold start'.

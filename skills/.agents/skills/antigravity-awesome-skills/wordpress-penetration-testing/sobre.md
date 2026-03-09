@@ -1,0 +1,1 @@
+Testes de intrusão em sites WordPress: varredura de temas/plugins e enumeração de usuários para auditoria de segurança técnica.

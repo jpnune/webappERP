@@ -1,0 +1,1 @@
+Guia para melhoria contínua e padronização (Kaizen): foco em refatoração de código e eliminação de desperdícios no processo.

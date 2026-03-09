@@ -1,0 +1,1 @@
+Ferramenta para criar, modificar e otimizar novas skills para o ecossistema Antigravity, incluindo testes de performance.

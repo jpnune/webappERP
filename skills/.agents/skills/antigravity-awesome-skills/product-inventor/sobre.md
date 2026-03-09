@@ -1,0 +1,1 @@
+Inventor de Produtos e Alquimista de Design: combinação de Product Thinking e engenharia de interface com execução impecável.

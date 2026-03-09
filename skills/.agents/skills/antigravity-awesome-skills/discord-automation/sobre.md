@@ -1,0 +1,1 @@
+Automação de servidores Discord via MCP: gestão de mensagens, canais, cargos e webhooks via ferramenta Composio.

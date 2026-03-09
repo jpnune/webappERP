@@ -1,0 +1,1 @@
+Transforma gravações de áudio em documentação profissional em Markdown com resumos inteligentes via integração de LLM.

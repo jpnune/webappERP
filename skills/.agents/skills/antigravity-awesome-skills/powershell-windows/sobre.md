@@ -1,0 +1,1 @@
+Padrões profissionais de PowerShell para Windows: sintaxe de operadores, tratamento de erros e automação de tarefas administrativas.

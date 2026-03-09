@@ -1,0 +1,1 @@
+Geração automática de favicons profissionais a partir de imagens de fonte.

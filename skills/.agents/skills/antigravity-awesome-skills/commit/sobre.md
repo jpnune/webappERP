@@ -1,0 +1,1 @@
+Padronização de commits seguindo convenções profissionais: formatação automática e referências a issues de forma obrigatória.

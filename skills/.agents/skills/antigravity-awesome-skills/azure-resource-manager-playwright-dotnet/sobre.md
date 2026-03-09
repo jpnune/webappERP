@@ -1,0 +1,1 @@
+Gestão de recursos e workspaces de teste Playwright no Azure usando o SDK .NET.

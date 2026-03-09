@@ -1,0 +1,1 @@
+Princípios de design de API e tomada de decisão: seleção entre REST, GraphQL ou tRPC, formatos de resposta, versionamento e paginação.

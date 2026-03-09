@@ -1,0 +1,1 @@
+Especialista em modelagem de ameaças: maestria nos métodos STRIDE e PASTA para revisão de arquitetura e avaliação de riscos de segurança.

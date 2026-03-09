@@ -1,0 +1,1 @@
+Arquitetura de aplicações com LangChain: design de agentes, gestão de memória e encadeamento complexo de prompts.

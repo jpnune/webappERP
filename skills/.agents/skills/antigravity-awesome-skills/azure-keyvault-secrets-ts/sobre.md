@@ -1,0 +1,1 @@
+Gestão de segredos e valores de configuração sensíveis em aplicações TypeScript usando o Azure Key Vault.

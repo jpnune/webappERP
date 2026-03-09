@@ -1,0 +1,1 @@
+Especialista de elite em revisão de código com foco em padrões modernos de engenharia e IA.

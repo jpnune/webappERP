@@ -1,0 +1,1 @@
+Arquitetura de componentes React: geração de scaffolds prontos para produção, acessíveis e de alta performance.

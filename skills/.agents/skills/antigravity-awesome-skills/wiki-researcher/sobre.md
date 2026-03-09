@@ -1,0 +1,1 @@
+Pesquisador técnico profundo: investigação iterativa sobre tópicos específicos da base de código com tolerância zero para análises superficiais.

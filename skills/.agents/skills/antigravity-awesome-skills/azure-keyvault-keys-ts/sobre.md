@@ -1,0 +1,1 @@
+Gestão de chaves criptográficas em JavaScript/TypeScript, incluindo rotação de chaves e operações de segurança no Key Vault.

@@ -1,0 +1,1 @@
+Especialista em documentação C4 de nível de contexto: diagramas de alto nível, jornadas de usuário e dependências externas do sistema.

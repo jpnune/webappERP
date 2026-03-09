@@ -1,0 +1,1 @@
+Diretrizes Apple para menus e botões: menus de contexto, barras de ferramentas e botões de ação.

@@ -1,0 +1,1 @@
+Modernização de sistemas legados: refatoração de bases antigas e migração de frameworks com foco em compatibilidade reversa.

@@ -1,0 +1,1 @@
+Padrões de busca por similaridade: implementação eficiente de consultas de 'vizinhos mais próximos' utilizando bancos de dados vetoriais.

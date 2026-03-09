@@ -1,0 +1,1 @@
+Criação de aplicações de streaming bidirecional em tempo real (áudio/vídeo/texto) usando a API Gemini Live.

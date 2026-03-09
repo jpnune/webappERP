@@ -1,0 +1,1 @@
+Integração específica com PayPal: suporte para checkout express, faturamento recorrente e gestão de reembolsos.

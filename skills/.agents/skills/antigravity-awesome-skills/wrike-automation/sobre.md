@@ -1,0 +1,1 @@
+Automação no Wrike via MCP: gestão de pastas, atribuição de tarefas e monitoramento de progresso de projetos via Composio.

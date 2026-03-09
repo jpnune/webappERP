@@ -1,0 +1,1 @@
+Domínio de SQL moderno: otimização OLTP/OLAP em bancos de dados nativos na nuvem e técnicas avançadas de modelagem analítica.

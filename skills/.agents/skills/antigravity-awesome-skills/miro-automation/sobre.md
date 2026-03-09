@@ -1,0 +1,1 @@
+Automação no Miro via MCP: gestão de quadros, post-its, frames e conectores de forma programática via Composio.

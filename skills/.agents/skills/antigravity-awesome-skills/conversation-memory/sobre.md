@@ -1,0 +1,1 @@
+Sistemas de memória persistente para LLMs: gestão de memória a curto e longo prazo baseada em entidades.

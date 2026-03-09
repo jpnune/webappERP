@@ -1,0 +1,1 @@
+Integração de programação funcional em aplicações React modernas, focando em robustez e previsibilidade de estado.

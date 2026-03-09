@@ -1,0 +1,1 @@
+Design e construção de ferramentas para agentes de IA, focando em evitar alucinações e otimizar o custo de tokens.

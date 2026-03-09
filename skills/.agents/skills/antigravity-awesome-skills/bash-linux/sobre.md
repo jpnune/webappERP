@@ -1,0 +1,1 @@
+Comandos e padrões de terminal Linux/Bash: manipulação de pipes, tratamento de erros e scripting essencial para macOS/Linux.

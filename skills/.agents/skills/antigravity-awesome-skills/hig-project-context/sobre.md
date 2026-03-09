@@ -1,0 +1,1 @@
+Gestão de documentos de contexto de design Apple para personalização de diretrizes HIG.

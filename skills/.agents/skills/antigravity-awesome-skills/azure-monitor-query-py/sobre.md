@@ -1,0 +1,1 @@
+Consulta de métricas e logs do Azure Monitor via Python, facilitando a automação de auditorias e monitoramento.

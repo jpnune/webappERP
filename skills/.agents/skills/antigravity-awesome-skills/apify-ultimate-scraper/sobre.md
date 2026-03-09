@@ -1,0 +1,1 @@
+Scraper universal baseado em IA para qualquer plataforma. Extrai dados complexos para geração de leads e pesquisa competitiva.

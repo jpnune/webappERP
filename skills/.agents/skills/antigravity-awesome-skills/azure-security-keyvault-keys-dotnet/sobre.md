@@ -1,0 +1,1 @@
+Gestão e operações criptográficas de chaves no Azure Key Vault/HSM usando a linguagem C# (.NET).

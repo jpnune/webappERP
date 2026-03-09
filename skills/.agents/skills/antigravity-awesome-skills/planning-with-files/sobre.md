@@ -1,0 +1,1 @@
+Planejamento baseado em arquivos: criação sistemática de planos de tarefas, descobertas e trilha de progresso em arquivos .md específicos.

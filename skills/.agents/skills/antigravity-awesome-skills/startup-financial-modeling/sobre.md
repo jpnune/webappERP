@@ -1,0 +1,1 @@
+Modelagem financeira para startups: projeções de receita, taxa de queima (burn rate), runway e fluxo de caixa projetado.

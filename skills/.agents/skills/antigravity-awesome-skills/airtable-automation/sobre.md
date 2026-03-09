@@ -1,0 +1,1 @@
+Automação de tarefas no Airtable através de MCP: gestão de registros, bases, tabelas e visualizações.

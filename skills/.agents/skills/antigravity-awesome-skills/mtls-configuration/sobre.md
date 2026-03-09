@@ -1,0 +1,1 @@
+Configuração de TLS mútuo (mTLS): segurança de rede 'zero-trust' para comunicação protegida entre serviços internos.

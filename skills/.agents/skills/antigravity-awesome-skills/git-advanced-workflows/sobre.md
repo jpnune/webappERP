@@ -1,0 +1,1 @@
+Domínio de workflows Git avançados: rebase, cherry-pick, bisect e recuperação de histórico via reflog.

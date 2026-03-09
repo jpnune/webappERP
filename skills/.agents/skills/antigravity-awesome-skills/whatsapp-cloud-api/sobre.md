@@ -1,0 +1,1 @@
+Integração profissional com WhatsApp Cloud API (Meta): uso de webhooks HMAC-SHA256 e fluxos de atendimento automatizados.

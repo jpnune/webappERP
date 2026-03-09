@@ -1,0 +1,1 @@
+SDK para desenvolvimento de agentes no Microsoft 365 e Copilot Studio utilizando TypeScript e Node.js.

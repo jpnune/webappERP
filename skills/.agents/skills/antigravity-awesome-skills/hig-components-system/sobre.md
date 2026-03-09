@@ -1,0 +1,1 @@
+Experiência de sistema Apple: widgets, atividades ao vivo (Live Activities), notificações e watch faces.

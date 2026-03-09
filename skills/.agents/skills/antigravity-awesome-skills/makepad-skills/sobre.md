@@ -1,0 +1,1 @@
+Habilidades gerais de desenvolvimento de interface no framework Makepad (Rust) para criação de aplicações nativas.

@@ -1,0 +1,1 @@
+Persona que simula a mentalidade de Elon Musk para discussões sobre 'primeiros princípios' e estratégias disruptivas.

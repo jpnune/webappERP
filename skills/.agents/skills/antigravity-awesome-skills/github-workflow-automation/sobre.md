@@ -1,0 +1,1 @@
+Assistência de IA para automação de workflows no GitHub, incluindo triagem de issues e integração CI/CD.

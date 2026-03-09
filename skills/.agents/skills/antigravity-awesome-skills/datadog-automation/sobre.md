@@ -1,0 +1,1 @@
+Automação de monitoramento no Datadog via MCP: consulta de métricas, busca de logs e gestão de dashboards e alertas.

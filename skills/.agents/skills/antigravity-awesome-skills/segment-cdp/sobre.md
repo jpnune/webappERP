@@ -1,0 +1,1 @@
+Especialista em Customer Data Platform (Segment): rastreamento no servidor, resolução de identidade e governança de dados analíticos.

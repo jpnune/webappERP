@@ -1,0 +1,1 @@
+Padrões de internacionalização (i18n) e localização (l10n): detecção de strings fixas, gestão de traduções e suporte a idiomas RTL.

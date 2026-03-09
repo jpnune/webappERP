@@ -1,0 +1,1 @@
+Especialista em pesquisas na web: uso de técnicas avançadas de busca e coleta de inteligência de código aberto (OSINT).

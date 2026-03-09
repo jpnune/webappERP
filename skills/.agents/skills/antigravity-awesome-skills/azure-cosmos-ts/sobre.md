@@ -1,0 +1,1 @@
+Operações com Azure Cosmos DB em JavaScript/TypeScript: consultas complexas, CRUD de documentos e gestão de containers.

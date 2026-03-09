@@ -1,0 +1,1 @@
+Implementação de detecção de anomalias usando o SDK Java do Azure AI para análise de séries temporais e monitoramento inteligente.

@@ -1,0 +1,1 @@
+Edição e revisão técnica de textos de marketing para polir a linguagem e garantir correção gramatical.

@@ -1,0 +1,1 @@
+Configuração de cache no Turborepo: otimização de builds de monorepo através de cache local e remoto para maior eficiência.

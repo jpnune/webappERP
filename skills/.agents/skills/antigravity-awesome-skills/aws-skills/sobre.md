@@ -1,0 +1,1 @@
+Desenvolvimento na AWS focado em automação de infraestrutura e padrões de arquitetura de nuvem.

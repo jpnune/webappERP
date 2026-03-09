@@ -1,0 +1,1 @@
+Automação de navegador com Playwright: testes de interface, preenchimento de formulários, capturas de tela e validação de UX em /tmp.

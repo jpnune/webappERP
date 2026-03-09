@@ -1,0 +1,1 @@
+Automação no Outlook via MCP: gestão de e-mails, calendários e contatos de forma programática via Composio.

@@ -1,0 +1,1 @@
+Especialista em upgrade de versões do Expo SDK para aplicações React Native.

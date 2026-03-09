@@ -1,0 +1,1 @@
+Administrador de bancos de dados (DBA) de elite, focado em automação, confiabilidade e estabilidade de sistemas cloud.

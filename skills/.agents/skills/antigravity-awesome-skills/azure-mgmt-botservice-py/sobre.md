@@ -1,0 +1,1 @@
+Administração e configuração de recursos de serviços de Bot do Azure através do SDK de gerenciamento para Python.

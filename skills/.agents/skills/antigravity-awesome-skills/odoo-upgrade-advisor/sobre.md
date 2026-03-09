@@ -1,0 +1,1 @@
+Consultoria passo a passo para upgrade de versão do Odoo: checklist pré-upgrade, caminhos de migração e validação pós-upgrade.

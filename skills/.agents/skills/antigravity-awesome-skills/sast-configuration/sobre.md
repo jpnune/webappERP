@@ -1,0 +1,1 @@
+Configuração de ferramentas SAST: automação da detecção de vulnerabilidades no código-fonte em ambientes DevSecOps.

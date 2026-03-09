@@ -1,0 +1,1 @@
+Suporte para matemática simbólica em Python utilizando a biblioteca SymPy.

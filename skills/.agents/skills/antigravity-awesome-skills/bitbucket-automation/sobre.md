@@ -1,0 +1,1 @@
+Automação de repositórios Bitbucket via MCP: gestão de pull requests, branches, issues e workspaces.

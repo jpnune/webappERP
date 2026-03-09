@@ -1,0 +1,1 @@
+Interação em Three.js: raycasting para detecção de cliques, controles de câmera e manipulação tátil de objetos 3D.

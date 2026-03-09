@@ -1,0 +1,1 @@
+Biblioteca de componentes (Widgets) do Makepad: botões, visualizadores de Markdown e elementos de entrada de texto.

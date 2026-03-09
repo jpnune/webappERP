@@ -1,0 +1,1 @@
+Configuração de monitoramento e observabilidade: coleta de métricas, rastreamento distribuído e dashboards informativos.

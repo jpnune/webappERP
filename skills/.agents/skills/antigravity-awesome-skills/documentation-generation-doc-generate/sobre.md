@@ -1,0 +1,1 @@
+Especialista na criação de documentação técnica mantível e diagramas de arquitetura a partir do código-fonte.

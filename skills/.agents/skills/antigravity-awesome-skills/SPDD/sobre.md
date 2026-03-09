@@ -1,0 +1,1 @@
+Desenvolvimento Dirigido por Especificações (Spec-Driven Development): foco na criação de código a partir de definições rigorosas.

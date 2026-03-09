@@ -1,0 +1,1 @@
+Engenheiro de Prompts especialista: otimização de instruções utilizando frameworks estruturados como Chain of Thought e RTF.

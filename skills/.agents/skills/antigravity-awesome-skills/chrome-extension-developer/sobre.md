@@ -1,0 +1,1 @@
+Especialista em extensões para Chrome (Manifest V3), focando em service workers e comunicação entre contextos.

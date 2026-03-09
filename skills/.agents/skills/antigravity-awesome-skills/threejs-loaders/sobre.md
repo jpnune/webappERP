@@ -1,0 +1,1 @@
+Carregamento de ativos em Three.js: importação de modelos GLTF, texturas HDR e gestão de progresso de carregamento assíncrono.

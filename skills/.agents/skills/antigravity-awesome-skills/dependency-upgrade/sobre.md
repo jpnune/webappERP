@@ -1,0 +1,1 @@
+Gestão de atualizações de grandes dependências: análise de compatibilidade e testes abrangentes para evitar 'breaking changes'.

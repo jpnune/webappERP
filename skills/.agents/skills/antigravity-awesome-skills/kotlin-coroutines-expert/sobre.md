@@ -1,0 +1,1 @@
+Padrões especialistas para Coroutines e Flow em Kotlin: concorrência estruturada, tratamento de erros e testes assíncronos.

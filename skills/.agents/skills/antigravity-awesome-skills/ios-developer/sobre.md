@@ -1,0 +1,1 @@
+Desenvolvimento nativo para iOS com Swift/SwiftUI: foco em iOS 18, otimização da App Store e integração com Core Data.

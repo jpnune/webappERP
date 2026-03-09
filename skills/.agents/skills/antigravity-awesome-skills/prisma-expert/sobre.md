@@ -1,0 +1,1 @@
+Especialista em Prisma ORM: design de esquemas, migrações seguras, modelagem de relações e otimização de consultas ao banco de dados.

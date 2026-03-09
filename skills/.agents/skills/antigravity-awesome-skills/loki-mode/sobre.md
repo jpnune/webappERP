@@ -1,0 +1,1 @@
+Sistema autônomo multi-agente 'Loki Mode': orquestração massiva de centenas de agentes para automação total de startups técnicos.

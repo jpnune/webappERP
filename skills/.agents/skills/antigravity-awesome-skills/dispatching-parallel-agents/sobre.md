@@ -1,0 +1,1 @@
+Estratégia para despacho de múltiplos agentes paralelos em tarefas independentes para acelerar o desenvolvimento.

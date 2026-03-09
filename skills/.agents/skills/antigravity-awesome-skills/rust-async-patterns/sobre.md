@@ -1,0 +1,1 @@
+Padrões assíncronos em Rust: uso avançado de Tokio, traits assíncronos e tratamento de erros em sistemas concorrentes.

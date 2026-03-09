@@ -1,0 +1,1 @@
+Automação de agendamentos e gestão de eventos do Google Agenda de forma programática.

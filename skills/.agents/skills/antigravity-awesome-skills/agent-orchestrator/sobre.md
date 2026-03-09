@@ -1,0 +1,1 @@
+Meta-skill que orquestra todos os agentes do ecossistema. Faz scan de competências e coordena workflows entre múltiplas habilidades.

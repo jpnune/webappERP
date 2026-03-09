@@ -1,0 +1,1 @@
+Otimização de mecanismos generativos (GEO) para motores de busca de IA (ChatGPT, Claude, Perplexity).

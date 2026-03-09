@@ -1,0 +1,1 @@
+Consulta de dados de leiloeiros das Juntas Comerciais: scraper multi-estado com exportação estruturada de dados oficiais.

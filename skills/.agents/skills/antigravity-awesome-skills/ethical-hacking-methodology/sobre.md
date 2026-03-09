@@ -1,0 +1,1 @@
+Metodologia de hacking ético: ciclo de vida de testes de intrusão, reconhecimento e exploração de vulnerabilidades documentada.

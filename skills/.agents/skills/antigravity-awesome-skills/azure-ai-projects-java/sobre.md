@@ -1,0 +1,1 @@
+Gestão de projetos no Azure AI Foundry através do SDK Java, incluindo conexões e avaliações de modelos de IA.

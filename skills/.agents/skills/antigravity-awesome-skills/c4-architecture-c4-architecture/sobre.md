@@ -1,0 +1,1 @@
+Geração de documentação de arquitetura C4 para bases de código existentes usando análise 'bottom-up'.

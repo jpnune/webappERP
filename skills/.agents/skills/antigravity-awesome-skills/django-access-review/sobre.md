@@ -1,0 +1,1 @@
+Revisão de padrões de acesso e segurança em aplicações desenvolvidas com o framework Django.

@@ -1,0 +1,1 @@
+Especialista em automação de workflows: criação de pipelines CI/CD eficientes com GitHub Actions.

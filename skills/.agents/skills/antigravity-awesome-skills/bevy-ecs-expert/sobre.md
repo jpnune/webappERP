@@ -1,0 +1,1 @@
+Especialista em Bevy ECS (Entity Component System) em Rust, cobrindo sistemas, consultas, recursos e agendamento paralelo.

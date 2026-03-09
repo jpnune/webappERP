@@ -1,0 +1,1 @@
+Otimização de Onboarding (CRO): foco na ativação do usuário após o cadastro, reduzindo o tempo para o primeiro valor percebido (time-to-value).

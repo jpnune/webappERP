@@ -1,0 +1,1 @@
+Desenvolvimento de projetos baseados em IA: design de pipelines de batch, avaliação de fit tarefa-modelo e estruturação de projetos de agentes.

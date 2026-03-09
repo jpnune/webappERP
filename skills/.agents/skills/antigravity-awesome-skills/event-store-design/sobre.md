@@ -1,0 +1,1 @@
+Design e implementação de lojas de eventos (Event Stores) para sistemas baseados em Event Sourcing e persistência de eventos.

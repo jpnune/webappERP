@@ -1,0 +1,1 @@
+Implementação de observabilidade em Service Mesh: rastreamento distribuído, métricas e visualização de latência em arquiteturas de microsserviços.

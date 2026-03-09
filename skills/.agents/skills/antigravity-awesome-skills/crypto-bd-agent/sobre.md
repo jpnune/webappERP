@@ -1,0 +1,1 @@
+Padrões automáticos de desenvolvimento de negócios em cripto: descoberta de tokens multi-chain e auditoria de carteiras.

@@ -1,0 +1,1 @@
+Administração de governança e metadados de APIs em Python através do plano de gerenciamento do Azure API Center.

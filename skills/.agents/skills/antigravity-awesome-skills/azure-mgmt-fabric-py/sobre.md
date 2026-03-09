@@ -1,0 +1,1 @@
+Gestão de infraestrutura da plataforma Microsoft Fabric usando o SDK de gerenciamento para Python.

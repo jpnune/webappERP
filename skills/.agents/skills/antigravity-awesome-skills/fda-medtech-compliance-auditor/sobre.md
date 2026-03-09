@@ -1,0 +1,1 @@
+Auditoria de conformidade para dispositivos médicos (SaMD): foco em IEC 62304 e validação técnica de software médico.

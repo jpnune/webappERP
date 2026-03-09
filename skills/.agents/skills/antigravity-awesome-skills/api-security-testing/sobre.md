@@ -1,0 +1,1 @@
+Workflow de testes de segurança para APIs REST/GraphQL, cobrindo autenticação, rate limiting e melhores práticas de proteção de dados.

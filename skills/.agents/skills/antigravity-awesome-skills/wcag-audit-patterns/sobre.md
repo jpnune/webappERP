@@ -1,0 +1,1 @@
+Auditoria de acessibilidade WCAG 2.2: verificação manual e automatizada para conformidade e remediação de barreiras digitais.

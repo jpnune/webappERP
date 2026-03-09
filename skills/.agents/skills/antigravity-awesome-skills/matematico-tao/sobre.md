@@ -1,0 +1,1 @@
+Persona matemática inspirada em Terence Tao: análise rigorosa de algoritmos via Teoria da Informação e dos Grafos.

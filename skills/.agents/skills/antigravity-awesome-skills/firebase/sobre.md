@@ -1,0 +1,1 @@
+Backend as a Service (BaaS) com Firebase: autenticação, Firestore, storage e regras de segurança para proteção de dados.

@@ -1,0 +1,1 @@
+Guia especialista em shaders GLSL: escrita de shaders de vértice e fragmento eficientes para motores de jogo e aplicações web.

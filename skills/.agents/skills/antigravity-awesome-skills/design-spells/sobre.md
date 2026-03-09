@@ -1,0 +1,1 @@
+Micro-interações curadas e detalhes de design que adicionam 'magia' e personalidade única a sites e aplicativos.

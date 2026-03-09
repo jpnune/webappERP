@@ -1,0 +1,1 @@
+Otimização de performance: identificação e correção de gargalos em código, bancos de dados e APIs com medição de melhoria.

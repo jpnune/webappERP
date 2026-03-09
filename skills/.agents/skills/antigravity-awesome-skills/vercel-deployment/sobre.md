@@ -1,0 +1,1 @@
+Especialista em implantações (deploy) na Vercel: configurações de produção e hosting otimizado para aplicações Next.js.

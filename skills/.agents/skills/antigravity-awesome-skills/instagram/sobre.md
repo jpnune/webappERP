@@ -1,0 +1,1 @@
+Integração completa com Instagram Graph API: automação de publicações, analytics, DMs e gestão de contas profissionais.

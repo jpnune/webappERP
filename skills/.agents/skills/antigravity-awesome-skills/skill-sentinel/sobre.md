@@ -1,0 +1,1 @@
+Sentinela de ecossistema de skills: auditoria de qualidade, gaps de funcionalidade, duplicidades e relatórios de saúde técnica.

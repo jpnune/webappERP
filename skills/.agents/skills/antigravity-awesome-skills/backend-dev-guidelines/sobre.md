@@ -1,0 +1,1 @@
+Diretrizes recomendadas para desenvolvimento backend com Node.js + Express + TypeScript, cobrindo arquitetura em camadas e injeção de dependências.

@@ -1,0 +1,1 @@
+Gestão de Projetos e Planilhas de Horas no Odoo: rastreamento de tempo faturável, aprovação de horas e faturamento automático.

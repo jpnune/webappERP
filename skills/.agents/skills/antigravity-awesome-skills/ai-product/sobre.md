@@ -1,0 +1,1 @@
+Desenvolvimento de produtos baseados em IA: foco em integração de LLM, arquitetura RAG e entrega de software robusto em produção.

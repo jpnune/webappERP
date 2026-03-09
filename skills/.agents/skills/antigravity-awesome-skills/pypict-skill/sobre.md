@@ -1,0 +1,1 @@
+Geração de casos de teste em pares (Pairwise) para cobertura eficiente de combinações de parâmetros.

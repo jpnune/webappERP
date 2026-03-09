@@ -1,0 +1,1 @@
+Automação no Segment via MCP: rastreamento de eventos e gestão de perfis de usuários em massa via Composio.

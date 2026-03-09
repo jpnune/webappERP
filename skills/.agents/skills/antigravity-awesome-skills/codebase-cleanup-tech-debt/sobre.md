@@ -1,0 +1,1 @@
+Quantificação de dívida técnica em toda a base de código, com foco em priorizar os itens mais críticos para o negócio.

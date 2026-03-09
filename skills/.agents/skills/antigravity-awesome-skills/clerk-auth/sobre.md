@@ -1,0 +1,1 @@
+Padrões especialistas para implementação de autenticação Clerk: middleware, webhooks e sincronização de usuários.

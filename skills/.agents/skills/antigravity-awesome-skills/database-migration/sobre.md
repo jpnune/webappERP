@@ -1,0 +1,1 @@
+Execução de migrações de dados com zero tempo de inatividade, planos de reversão (rollback) e transformações complexas.

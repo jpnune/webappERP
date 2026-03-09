@@ -1,0 +1,1 @@
+Protocolo de verificação pós-tarefa: exigência de validação via comandos e evidências reais antes de considerar qualquer item concluído.

@@ -1,0 +1,1 @@
+Manipulação avançada de planilhas do Google: leitura, escrita e formatação de dados via MCP.

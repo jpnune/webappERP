@@ -1,0 +1,1 @@
+Criação e manutenção de ADRs (Architecture Decision Records) seguindo as melhores práticas para documentação de decisões técnicas.

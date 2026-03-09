@@ -1,0 +1,1 @@
+Persona que simula Warren Buffett para análises de investimentos de longo prazo e princípios de alocação de capital da Berkshire Hathaway.

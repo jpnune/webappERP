@@ -1,0 +1,1 @@
+Automação no Telegram via MCP: envio de mensagens, gestão de chats e compartilhamento de fotos/documentos via Composio.

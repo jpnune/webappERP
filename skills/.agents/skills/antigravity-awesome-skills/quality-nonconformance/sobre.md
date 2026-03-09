@@ -1,0 +1,1 @@
+Gestão de não conformidades de qualidade: análise de causa raiz e ações corretivas em ambientes industriais regulados.

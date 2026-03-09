@@ -1,0 +1,1 @@
+Construção de agentes de codificação em ambientes 'sandbox' isolados e VMs remotas sob demanda.

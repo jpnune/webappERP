@@ -1,0 +1,1 @@
+Toolkit completo para Gerentes de Produto: priorização RICE, análise de entrevistas com clientes e templates de PRD.

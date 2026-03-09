@@ -1,0 +1,1 @@
+Arquitetura de aplicações React Native com Expo: navegação, módulos nativos, sincronização offline e padrões multi-plataforma.

@@ -1,0 +1,1 @@
+Planejamento e execução de projetos baseados em DDD: do mapeamento estratégico à implementação tática.

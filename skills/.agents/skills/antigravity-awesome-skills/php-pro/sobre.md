@@ -1,0 +1,1 @@
+Escrita de PHP idiomático e moderno: uso de generators, estruturas SPL e recursos avançados de OOP para alta performance.

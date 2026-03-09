@@ -1,0 +1,1 @@
+Refinamento de prompts: transforma ideias vagas de UI em instruções otimizadas para o Stitch, com palavras-chave de design system.

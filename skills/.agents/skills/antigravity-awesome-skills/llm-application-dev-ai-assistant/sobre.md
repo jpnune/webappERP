@@ -1,0 +1,1 @@
+Desenvolvimento de assistentes inteligentes: design de interfaces conversacionais e aplicações potenciadas por modelos de linguagem.

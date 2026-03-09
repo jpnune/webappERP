@@ -1,0 +1,1 @@
+Otimização de performance web: melhoria de Core Web Vitals, velocidade de carregamento e redução de tamanho de pacotes (bundle size).

@@ -1,0 +1,1 @@
+Desenvolvimento moderno em JavaScript/TypeScript usando o runtime Bun, focado em alta velocidade de execução e ferramentas integradas.

@@ -1,0 +1,1 @@
+Automação no ecossistema Square via MCP: gestão de pagamentos, pedidos, faturas e localizações comerciais via Composio.

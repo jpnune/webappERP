@@ -1,0 +1,1 @@
+Desfazer alterações por unidade lógica (trilha ou fase) com consciência do histórico do Git.

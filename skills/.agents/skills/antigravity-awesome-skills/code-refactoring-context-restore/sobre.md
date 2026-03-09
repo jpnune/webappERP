@@ -1,0 +1,1 @@
+Restauração de contexto durante refatoração de código para garantir integridade funcional.

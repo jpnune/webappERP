@@ -1,0 +1,1 @@
+Workflow de testes de ponta a ponta (E2E) com Playwright: automação de navegador, regressão visual e integração CI/CD.

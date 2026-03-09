@@ -1,0 +1,1 @@
+Especialista em bancos NoSQL distribuídos (Cassandra/DynamoDB): modelagem query-first e design de tabela única (single-table design).

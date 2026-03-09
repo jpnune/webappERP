@@ -1,0 +1,1 @@
+Automação de CRM Close via MCP: criação de leads, gestão de chamadas/SMS e rastreio de notas comerciais.

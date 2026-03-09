@@ -1,0 +1,1 @@
+Regras de segurança no Odoo: controle de acesso via CSV, regras de registro (ir.rule) e padrões para multi-empresa.

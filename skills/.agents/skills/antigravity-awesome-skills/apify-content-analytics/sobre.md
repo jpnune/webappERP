@@ -1,0 +1,1 @@
+Análise de performance de conteúdo: rastreia métricas de engajamento e mede o ROI de campanhas no Instagram, Facebook, YouTube e TikTok.

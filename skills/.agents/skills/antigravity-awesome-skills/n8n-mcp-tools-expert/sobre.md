@@ -1,0 +1,1 @@
+Guia especialista para ferramentas n8n-mcp: busca de nós, validação de configurações e gestão de templates de automação.

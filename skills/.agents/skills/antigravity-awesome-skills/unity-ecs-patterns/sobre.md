@@ -1,0 +1,1 @@
+Padrões de Unity ECS (DOTS): desenvolvimento de jogos orientados a dados com Jobs e Burst para altíssima performance.

@@ -1,0 +1,1 @@
+Auditor de conteúdo para SEO: análise de qualidade, sinais E-E-A-T e conformidade com as diretrizes do Google para melhor posicionamento.

@@ -1,0 +1,1 @@
+Automação de análise de dados no Amplitude através de MCP: eventos, atividade de usuários e identificação de coortes.

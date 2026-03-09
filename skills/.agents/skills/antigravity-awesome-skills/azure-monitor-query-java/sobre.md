@@ -1,0 +1,1 @@
+Execução de consultas Kusto em Java contra workspaces de Log Analytics e dashboards de métricas do Azure.

@@ -1,0 +1,1 @@
+Ferramenta CLI para automação de buscas e conexões no LinkedIn e Sales Navigator.

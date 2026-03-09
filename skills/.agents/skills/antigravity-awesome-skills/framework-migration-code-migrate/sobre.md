@@ -1,0 +1,1 @@
+Especialista em migração de código entre frameworks e versões: geração de planos e scripts de migração automatizados.

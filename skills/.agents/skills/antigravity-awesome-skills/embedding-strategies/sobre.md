@@ -1,0 +1,1 @@
+Seleção e otimização de modelos de 'embedding' para busca semântica e aplicações RAG, incluindo estratégias de particionamento (chunking).

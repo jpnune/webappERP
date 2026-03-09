@@ -1,0 +1,1 @@
+Operacionalização de LLMs: RAG, bancos vetoriais, fine-tuning e arquiteturas de IA prontas para produção escalável.

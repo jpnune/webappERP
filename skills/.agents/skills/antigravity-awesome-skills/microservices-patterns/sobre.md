@@ -1,0 +1,1 @@
+Arquitetura de microsserviços: design de limites de serviço, comunicação baseada em eventos e padrões de resiliência distribuída.

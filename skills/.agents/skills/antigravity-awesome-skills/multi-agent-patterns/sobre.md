@@ -1,0 +1,1 @@
+Design de sistemas multi-agente: padrões de supervisão, arquiteturas swarm, coordenação de tarefas e transferência de contexto (handoff).

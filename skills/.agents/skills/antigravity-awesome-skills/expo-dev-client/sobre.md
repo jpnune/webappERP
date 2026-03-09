@@ -1,0 +1,1 @@
+Criação e distribuição de clientes de desenvolvimento Expo localmente ou via TestFlight para testes mobile.

@@ -1,0 +1,1 @@
+Materiais em Three.js: suporte para PBR (Physically Based Rendering), materiais básicos e customização de propriedades visuais para malhas 3D.

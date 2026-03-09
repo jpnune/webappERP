@@ -1,0 +1,1 @@
+Gestão técnica de exceções logísticas: resolução de atrasos, danos e disputas com transportadoras baseado em experiência operacional.

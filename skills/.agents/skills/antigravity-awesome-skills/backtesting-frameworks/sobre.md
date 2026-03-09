@@ -1,0 +1,1 @@
+Construção de sistemas de 'backtesting' robustos para estratégias de trading, tratando vieses técnicos e custos de transação.

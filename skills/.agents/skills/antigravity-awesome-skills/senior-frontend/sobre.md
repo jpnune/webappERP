@@ -1,0 +1,1 @@
+Engenheiro Frontend Sênior: foco em React/Next.js e TypeScript, otimização de performance e acessibilidade de interface de usuário.

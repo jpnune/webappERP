@@ -1,0 +1,1 @@
+Estrategista de lançamento de Micro-SaaS: validação rápida de ideias e desenvolvimento de MVPs lucrativos para desenvolvedores solo.

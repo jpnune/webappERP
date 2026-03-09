@@ -1,0 +1,1 @@
+Busca sistemática e correção de bugs usando técnicas de depuração comprovadas, do sintoma até a causa raiz.

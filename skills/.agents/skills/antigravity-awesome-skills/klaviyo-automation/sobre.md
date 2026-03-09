@@ -1,0 +1,1 @@
+Automação de marketing Klaviyo via MCP: gestão de campanhas de e-mail/SMS e monitoramento de jobs de envio.

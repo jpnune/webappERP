@@ -1,0 +1,1 @@
+Gestão de imagens de container, artefatos e repositórios no Azure Container Registry via SDK Python.

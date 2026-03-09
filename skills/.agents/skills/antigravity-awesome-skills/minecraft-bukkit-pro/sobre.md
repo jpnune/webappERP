@@ -1,0 +1,1 @@
+Desenvolvimento avançado de plugins para servidores Minecraft utilizando as APIs Bukkit, Spigot e Paper.

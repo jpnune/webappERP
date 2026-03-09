@@ -1,0 +1,1 @@
+Fase de refatoração do TDD: melhoria da estrutura do código mantendo todos os testes em verde (sucesso.

@@ -1,0 +1,1 @@
+Atualizador de conteúdo antigo para SEO: identificação de estatísticas, das e exemplos obsoletos para manter a relevância perante os buscadores.

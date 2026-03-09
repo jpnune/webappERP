@@ -1,0 +1,1 @@
+Automação no Zendesk via MCP: gestão de tickets, usuários e organizações de suporte ao cliente via ferramenta Composio.

@@ -1,0 +1,1 @@
+Especialista em comunicação de time: geração de notas de standup diário baseadas em históricos de commits e coordenação remota.

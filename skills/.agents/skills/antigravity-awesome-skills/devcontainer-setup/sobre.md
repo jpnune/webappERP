@@ -1,0 +1,1 @@
+Criação de ambientes de desenvolvimento isolados (Dev Containers) com ferramentas específicas e volumes persistentes.

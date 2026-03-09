@@ -1,0 +1,1 @@
+Planejamento estruturado de tarefas: decomposição clara de etapas, dependências e critérios de verificação técnica.

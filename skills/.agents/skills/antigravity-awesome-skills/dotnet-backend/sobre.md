@@ -1,0 +1,1 @@
+Construção de serviços web robustos com ASP.NET Core 8+, Entity Framework e padrões modernos de API.

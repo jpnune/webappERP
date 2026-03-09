@@ -1,0 +1,1 @@
+Programação funcional no backend com Node.js/Deno: uso de fp-ts, ReaderTaskEither e injeção de dependência funcional.

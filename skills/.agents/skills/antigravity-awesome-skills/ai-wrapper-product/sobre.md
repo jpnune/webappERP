@@ -1,0 +1,1 @@
+Especialista em criar produtos 'wrapper' em cima de APIs de IA (OpenAI, Anthropic), transformando modelos em ferramentas pagas focadas em problemas específicos.

@@ -1,0 +1,1 @@
+Design estratégico DDD: criação de subdomínios, contextos delimitados e linguagem ubíqua para domínios de negócio complexos.

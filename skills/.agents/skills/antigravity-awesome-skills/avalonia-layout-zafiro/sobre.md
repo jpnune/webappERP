@@ -1,0 +1,1 @@
+Guia para layouts modernos em Avalonia UI usando o toolkit Zafiro, focando em componentes genéricos e evitando redundância de XAML.

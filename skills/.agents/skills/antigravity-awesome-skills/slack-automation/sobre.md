@@ -1,0 +1,1 @@
+Automação no Slack via MCP: gestão de threads, canais e mensagens programáticas com reações e buscas avançadas via Composio.

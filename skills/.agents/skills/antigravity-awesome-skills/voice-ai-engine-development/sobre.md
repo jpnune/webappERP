@@ -1,0 +1,1 @@
+Construção de motores de voz em tempo real: pipelines de workers assíncronos e tratamento inteligente de interrupções de fala.

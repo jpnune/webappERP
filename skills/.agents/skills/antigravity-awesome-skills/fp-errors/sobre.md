@@ -1,0 +1,1 @@
+Tratamento de erros como valores: uso de Either e TaskEither para um código mais limpo, previsível e sem exceções globais.

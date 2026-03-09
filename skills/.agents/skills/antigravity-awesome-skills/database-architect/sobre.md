@@ -1,0 +1,1 @@
+Arquiteto de banco de dados: design de camadas de dados do zero, seleção de tecnologias e modelagem de esquemas escaláveis.

@@ -1,0 +1,1 @@
+Fundamentos de Three.js: configuração de cenas, câmeras, renderizadores e gestão de hierarquias Object3D.

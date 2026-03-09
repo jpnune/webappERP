@@ -1,0 +1,1 @@
+Revisão profissional de código com geração automática de CHANGELOG protegida por IA Codex.

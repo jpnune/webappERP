@@ -1,0 +1,1 @@
+Especialista em visão computacional de última geração (SOTA): YOLO, Segment Anything 3 (SAM) e análise espacial em tempo real.

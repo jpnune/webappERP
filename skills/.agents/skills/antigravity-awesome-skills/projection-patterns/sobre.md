@@ -1,0 +1,1 @@
+Padrões de projeção e 'read models': implementação de CQRS e visualizações materializadas a partir de streams de eventos.

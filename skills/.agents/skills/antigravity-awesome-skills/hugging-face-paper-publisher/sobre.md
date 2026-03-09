@@ -1,0 +1,1 @@
+Publicação de artigos de pesquisa no Hugging Face Hub: vinculação de modelos e datasets para geração de artigos profissionais.

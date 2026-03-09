@@ -1,0 +1,1 @@
+Automação de gestão de arquivos no Dropbox: compartilhamento, busca e sincronização de diretórios via MCP.

@@ -1,0 +1,1 @@
+Criação de páginas de comparação de concorrentes e alternativas para SEO e habilitação de vendas.

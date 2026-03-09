@@ -1,0 +1,1 @@
+Criação de variantes de regras Semgrep: portabilidade de detecções de segurança entre diferentes linguagens de programação.

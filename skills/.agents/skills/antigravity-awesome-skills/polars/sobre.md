@@ -1,0 +1,1 @@
+Processamento ultra-rápido de dados com Polars: substituto eficiente do pandas para grandes volumes de dados que cabem na RAM.

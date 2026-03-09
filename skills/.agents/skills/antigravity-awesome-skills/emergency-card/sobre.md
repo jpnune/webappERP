@@ -1,0 +1,1 @@
+Geração de cartões de informações médicas de emergência para acesso rápido em viagens ou situações críticas (suporta JSON e QR Code).

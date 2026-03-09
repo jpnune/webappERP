@@ -1,0 +1,1 @@
+Automação no Jira via MCP: gestão de issues, sprints, backlogs e projetos de forma programática via Composio.

@@ -1,0 +1,1 @@
+Automação de hooks Git com Husky e lint-staged: garantia de qualidade e linting antes do código chegar ao CI.

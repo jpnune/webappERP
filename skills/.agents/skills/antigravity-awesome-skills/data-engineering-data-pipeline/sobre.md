@@ -1,0 +1,1 @@
+Arquiteto de pipelines de dados: foco em confiabilidade, escalabilidade e processamento de dados (batch/streaming) de baixo custo.

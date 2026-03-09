@@ -1,0 +1,1 @@
+Estratégia de precificação e embalagem (packaging): definições baseadas em valor percebido e objetivos de crescimento de mercado.

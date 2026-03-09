@@ -1,0 +1,1 @@
+Tratamento de eventos e arquiteturas pub/sub com Python e Azure Event Grid, facilitando a integração entre microsserviços.

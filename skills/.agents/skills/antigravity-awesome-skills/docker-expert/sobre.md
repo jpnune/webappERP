@@ -1,0 +1,1 @@
+Especialista em conteinerização: builds multi-estágio, otimização de imagens, segurança de containers e orquestração com Docker Compose.

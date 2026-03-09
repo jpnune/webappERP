@@ -1,0 +1,1 @@
+Implementação de EDI (Intercâmbio Eletrônico de Dados) no Odoo: mapeamento de documentos X12/EDIFACT e automação de pedidos.

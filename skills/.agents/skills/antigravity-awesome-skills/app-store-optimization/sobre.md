@@ -1,0 +1,1 @@
+Kit completo de ASO (App Store Optimization) para pesquisa, otimização e monitoramento de apps na Apple App Store e Google Play Store.

@@ -1,0 +1,1 @@
+Design e gestão de Helm Charts para pacotes Kubernetes com configurações reutilizáveis.

@@ -1,0 +1,1 @@
+Ferramenta para descoberta e pesquisa de agentes autônomos, ferramentas e ecossistemas de IA usando o diretório AgentFolio.

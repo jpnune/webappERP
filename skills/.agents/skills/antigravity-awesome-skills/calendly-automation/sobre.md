@@ -1,0 +1,1 @@
+Gestão automatizada de calendários e convites no Calendly através de ferramentas de integração Composio.

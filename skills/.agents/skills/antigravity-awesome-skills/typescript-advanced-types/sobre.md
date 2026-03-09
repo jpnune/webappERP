@@ -1,0 +1,1 @@
+Domínio de tipos avançados em TypeScript: uso de genéricos, tipos condicionais e literais de template para máxima segurança de tipos.

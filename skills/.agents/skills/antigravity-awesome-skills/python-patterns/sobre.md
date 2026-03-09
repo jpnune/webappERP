@@ -1,0 +1,1 @@
+Princípios de desenvolvimento e padrões Python: seleção de frameworks e arquiteturas orientadas a decisões técnicas fundamentadas.

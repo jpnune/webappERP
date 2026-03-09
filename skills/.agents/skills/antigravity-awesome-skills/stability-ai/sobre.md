@@ -1,0 +1,1 @@
+Geração e edição de imagens via Stability AI: suporte a SD3.5, Inpainting, upscale e remoção de fundo com múltiplos estilos artísticos.

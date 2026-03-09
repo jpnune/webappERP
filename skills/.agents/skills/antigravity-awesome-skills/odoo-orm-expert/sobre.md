@@ -1,0 +1,1 @@
+Domínio do ORM do Odoo: métodos de busca, filtros de domínio, campos computados e técnicas de consulta de alta performance.

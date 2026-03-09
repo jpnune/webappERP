@@ -1,0 +1,1 @@
+Suporte técnico para computação quântica utilizando o framework Qiskit da IBM.

@@ -1,0 +1,1 @@
+Otimização de jobs Apache Spark: estratégias de particionamento, cache, otimização de 'shuffle' e ajuste fino de memória.

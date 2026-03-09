@@ -1,0 +1,1 @@
+Guia para Neon Serverless Postgres: melhores práticas para conexões, branching de banco de dados e ambiente de desenvolvimento local.

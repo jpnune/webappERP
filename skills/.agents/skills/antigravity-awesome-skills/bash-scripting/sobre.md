@@ -1,0 +1,1 @@
+Workflow para criação de scripts Bash prontos para produção, com foco em testes, tratamento de erros e boas práticas.

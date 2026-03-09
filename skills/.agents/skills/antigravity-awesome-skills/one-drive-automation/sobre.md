@@ -1,0 +1,1 @@
+Automação no OneDrive via MCP: gestão de arquivos, buscas, uploads, downloads e permissões via ferramenta Composio.

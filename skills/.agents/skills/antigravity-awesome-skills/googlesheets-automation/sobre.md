@@ -1,0 +1,1 @@
+Ferramenta de automação para Google Sheets: gestão de abas, filtros e busca de linhas via ferramenta Composio.

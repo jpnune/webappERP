@@ -1,0 +1,1 @@
+Automação de tarefas em Linux: escrita de scripts shell (bash) profissionais para gestão de sistemas e backups.

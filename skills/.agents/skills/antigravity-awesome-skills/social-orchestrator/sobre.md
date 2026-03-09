@@ -1,0 +1,1 @@
+Orquestrador unificado de canais sociais: coordenação de fluxos de trabalho entre Instagram, Telegram e WhatsApp em um único lugar.

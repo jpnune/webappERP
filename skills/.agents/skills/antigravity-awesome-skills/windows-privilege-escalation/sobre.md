@@ -1,0 +1,1 @@
+Escalonamento de privilégios em Windows: identificação de vetores de privilégios elevados e exploração de configurações incorretas de OS.

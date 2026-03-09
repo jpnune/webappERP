@@ -1,0 +1,1 @@
+Automação de marketing por e-mail no Mailchimp via MCP: gestão de audiências, segmentos e campanhas estruturadas.

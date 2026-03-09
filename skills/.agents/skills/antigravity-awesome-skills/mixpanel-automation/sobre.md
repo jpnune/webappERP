@@ -1,0 +1,1 @@
+Automação no Mixpanel via MCP: análise de eventos, funis, cortes (cohorts) e consultas JQL via Composio.

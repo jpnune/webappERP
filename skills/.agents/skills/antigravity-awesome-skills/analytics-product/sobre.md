@@ -1,0 +1,1 @@
+Análise de produto focada em métricas, eventos, funis e retenção usando ferramentas como PostHog e Mixpanel para dashboards de produto.

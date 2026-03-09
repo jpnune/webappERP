@@ -1,0 +1,1 @@
+Gestão de bancos de dados Azure SQL e servidores através do SDK do Azure Resource Manager para .NET.

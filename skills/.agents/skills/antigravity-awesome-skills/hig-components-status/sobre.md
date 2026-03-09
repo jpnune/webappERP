@@ -1,0 +1,1 @@
+Padrões Apple HIG para componentes de status e progresso (barras de progresso e anéis de atividade).

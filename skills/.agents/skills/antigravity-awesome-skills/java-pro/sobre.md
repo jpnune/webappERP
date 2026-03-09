@@ -1,0 +1,1 @@
+Domínio de Java 21+ e Spring Boot 3.x: uso de threads virtuais (Project Loom), pattern matching e GraalVM.

@@ -1,0 +1,1 @@
+Guia para criação de servidores MCP (Model Context Protocol), integrando ferramentas externas aos modelos de IA em Python ou TypeScript.

@@ -1,0 +1,1 @@
+Guia estruturado para configuração de testes A/B, garantindo hipóteses claras, métricas corretas e prontidão para execução.

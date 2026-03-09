@@ -1,0 +1,1 @@
+SDK de gerenciamento de recursos para instâncias de API Management (APIM) do Azure em ambiente .NET.

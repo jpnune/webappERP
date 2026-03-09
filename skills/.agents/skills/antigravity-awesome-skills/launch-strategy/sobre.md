@@ -1,0 +1,1 @@
+Estratégia de lançamento de produtos: planejamento de lançamentos no Product Hunt e estratégias de entrada no mercado (GTM).

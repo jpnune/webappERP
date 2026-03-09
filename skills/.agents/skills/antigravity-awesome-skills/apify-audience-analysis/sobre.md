@@ -1,0 +1,1 @@
+Análise demográfica de audiência, preferências, padrões de comportamento e engajamento no Facebook, Instagram, YouTube e TikTok.

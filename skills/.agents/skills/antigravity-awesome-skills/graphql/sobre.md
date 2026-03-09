@@ -1,0 +1,1 @@
+Integração e boas práticas de GraphQL: esquemas tipados, introspecção e controle de complexidade de consultas.

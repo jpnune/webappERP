@@ -1,0 +1,1 @@
+Especialidade na construção de aplicações serverless na AWS: Lambda, API Gateway, DynamoDB e padrões orientados a eventos com SQS/SNS.

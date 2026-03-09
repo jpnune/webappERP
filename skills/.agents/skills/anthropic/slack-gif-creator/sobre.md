@@ -1,0 +1,1 @@
+Criação de GIFs animados otimizados especificamente para uso no Slack, com ferramentas de validação integradas.

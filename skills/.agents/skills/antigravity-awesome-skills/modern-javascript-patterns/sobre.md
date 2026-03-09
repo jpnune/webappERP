@@ -1,0 +1,1 @@
+Domínio de JavaScript moderno (ES6+): desestruturação, async/await, generators e padrões funcionais para código limpo e eficiente.

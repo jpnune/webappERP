@@ -1,0 +1,1 @@
+Templates de runbooks de incidente: procedimentos passo a passo, caminhos de escalonamento e ações de recuperação estruturadas.

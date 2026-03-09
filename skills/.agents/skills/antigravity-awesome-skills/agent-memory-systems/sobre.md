@@ -1,0 +1,1 @@
+Arquitetura de sistemas de memória para agentes: curto prazo (janela de contexto) e longo prazo (armazenamento vetorial) para interações inteligentes.

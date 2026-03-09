@@ -1,0 +1,1 @@
+Padrões de programação defensiva em Bash para criação de scripts de automação e pipelines CI/CD seguros e resilientes.

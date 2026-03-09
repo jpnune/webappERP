@@ -1,0 +1,1 @@
+Padrões para solicitação de Code Review: documentação de grandes funcionalidades implementadas para verificação de requisitos.

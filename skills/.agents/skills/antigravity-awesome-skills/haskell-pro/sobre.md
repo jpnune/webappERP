@@ -1,0 +1,1 @@
+Engenheiro especialista em Haskell: foco em sistemas de tipos avançados e programação funcional pura.

@@ -1,0 +1,1 @@
+Configuração de E-commerce e Website no Odoo: catálogo de produtos, pagamentos, frete e fluxo de pedidos.

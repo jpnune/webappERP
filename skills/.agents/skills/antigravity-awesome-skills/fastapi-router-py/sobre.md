@@ -1,0 +1,1 @@
+Criação de rotas FastAPI com operações CRUD, dependências de autenticação e modelos de resposta adequados.

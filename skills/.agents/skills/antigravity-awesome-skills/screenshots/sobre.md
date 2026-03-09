@@ -1,0 +1,1 @@
+Geração de capturas de tela comerciais (screenshots) via Playwright: ativos visuais para marketing, redes sociais e documentação.

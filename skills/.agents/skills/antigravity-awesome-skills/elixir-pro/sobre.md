@@ -1,0 +1,1 @@
+Escrita de código Elixir idiomático com padrões OTP, supervisão de processos e Phoenix LiveView para tolerância a falhas.

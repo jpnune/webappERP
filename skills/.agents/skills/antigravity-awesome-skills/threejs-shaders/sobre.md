@@ -1,0 +1,1 @@
+Shaders em Three.js: criação de efeitos visuais customizados utilizando linguagem GLSL para modificar vértices e fragmentos.

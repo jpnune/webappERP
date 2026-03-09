@@ -1,0 +1,1 @@
+Gestão centralizada de inventário e governança de APIs corporativas via SDK .NET do Azure API Center.

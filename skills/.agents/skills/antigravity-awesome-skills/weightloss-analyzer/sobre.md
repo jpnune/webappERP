@@ -1,0 +1,1 @@
+Analisador de perda de peso: cálculo de taxas metabólicas, monitoramento de déficit calórico e gestão de fases de emagrecimento.

@@ -1,0 +1,1 @@
+Design de arquiteturas de memória para sistemas inteligentes: gestão de memória a curto, longo prazo e grafos de conhecimento.

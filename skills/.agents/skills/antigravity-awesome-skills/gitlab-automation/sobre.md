@@ -1,0 +1,1 @@
+Gestão automatizada de projetos GitLab: issues, merge requests e pipelines via ferramenta Composio.

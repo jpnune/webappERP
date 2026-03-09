@@ -1,0 +1,1 @@
+Guia para desenvolvedores na configuração de ambientes de desenvolvimento com ferramentas, dependências e versões corretas.

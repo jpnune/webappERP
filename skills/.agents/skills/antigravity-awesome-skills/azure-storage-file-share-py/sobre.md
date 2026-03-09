@@ -1,0 +1,1 @@
+Gestão de compartilhamentos de arquivos SMB, diretórios e operações de arquivos na nuvem via Python.

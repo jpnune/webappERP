@@ -1,0 +1,1 @@
+Padrões Apple HIG para métodos de entrada: gestos, Apple Pencil, teclado, rastreamento ocular e Digital Crown.

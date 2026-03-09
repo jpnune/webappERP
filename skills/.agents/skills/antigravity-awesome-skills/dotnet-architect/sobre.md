@@ -1,0 +1,1 @@
+Arquiteto backend especialista em ecossistema .NET: C#, ASP.NET Core, EF Core e padrões corporativos avançados.

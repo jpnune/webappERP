@@ -1,0 +1,1 @@
+Otimização de custos em nuvem: redimensionamento de recursos (rightsizing), estratégias de tagging e análise de gastos.

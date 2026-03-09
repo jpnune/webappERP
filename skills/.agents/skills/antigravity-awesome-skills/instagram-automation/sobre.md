@@ -1,0 +1,1 @@
+Automação de tarefas no Instagram via MCP: criação de posts/carrosséis e monitoramento de métricas e limites via Composio.

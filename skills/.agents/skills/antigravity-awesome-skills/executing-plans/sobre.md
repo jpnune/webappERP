@@ -1,0 +1,1 @@
+Execução estruturada de planos de implementação com pontos de verificação e revisão de checkpoints de qualidade.

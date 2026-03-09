@@ -1,0 +1,1 @@
+Foco pragmático em fp-ts: como escrever código funcional eficiente em TypeScript sem burocracia desnecessária.

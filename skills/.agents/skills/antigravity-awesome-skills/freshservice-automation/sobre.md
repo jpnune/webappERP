@@ -1,0 +1,1 @@
+Gestão de serviços de TI (ITSM) no Freshservice: automação de tickets e requisições de serviço via MCP.

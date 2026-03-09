@@ -1,0 +1,1 @@
+Design de ferramentas para agentes de IA: criação de padrões de redução arquitetural para uso eficaz por assistentes de codificação.

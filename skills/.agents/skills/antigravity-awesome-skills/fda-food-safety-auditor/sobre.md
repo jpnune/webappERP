@@ -1,0 +1,1 @@
+Auditor de segurança alimentar assistido por IA: revisão de conformidade FDA (FSMA), HACCP e controles preventivos.

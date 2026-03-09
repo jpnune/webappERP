@@ -1,0 +1,1 @@
+Gestão de erros previsível em TypeScript utilizando as estruturas Either e TaskEither da biblioteca fp-ts.

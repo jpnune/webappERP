@@ -1,0 +1,1 @@
+Revisão de arquitetura da rede Lightning (Bitcoin): análise de canais, modelos de confiança e escalabilidade de segunda camada.

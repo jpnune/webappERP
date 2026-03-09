@@ -1,0 +1,1 @@
+Infraestrutura de automação de workflow: foco em execução durável e confiabilidade de processos críticos em sistemas distribuídos.

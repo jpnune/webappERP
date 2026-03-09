@@ -1,0 +1,1 @@
+Escritor de skills especializado: criação e atualização de especificações de agentes seguindo as normas oficiais de desenvolvimento de skills.

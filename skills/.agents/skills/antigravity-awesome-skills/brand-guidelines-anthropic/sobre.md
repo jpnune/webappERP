@@ -1,0 +1,1 @@
+Aplicação das cores e tipografia oficiais da Anthropic em artefatos visuais para garantir consistência de marca.

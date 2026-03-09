@@ -1,0 +1,1 @@
+SDK .NET para gerenciamento de recursos e infraestrutura do Azure Cosmos DB.

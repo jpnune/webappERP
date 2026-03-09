@@ -1,0 +1,1 @@
+Mapeamento de relacionamentos entre contextos delimitados (bounded contexts) e definição de contratos de integração usando padrões DDD.

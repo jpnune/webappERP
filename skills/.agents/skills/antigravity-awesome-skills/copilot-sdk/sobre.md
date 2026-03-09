@@ -1,0 +1,1 @@
+Construção de integrações programáticas com o GitHub Copilot usando seu SDK oficial em múltiplas linguagens.

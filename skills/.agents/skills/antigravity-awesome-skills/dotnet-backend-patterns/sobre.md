@@ -1,0 +1,1 @@
+Padrões de desenvolvimento C#/.NET para APIs corporativas, arquitetura voltada a agentes e servidores MCP.

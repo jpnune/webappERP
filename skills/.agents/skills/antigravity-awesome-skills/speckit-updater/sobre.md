@@ -1,0 +1,1 @@
+Atualizador seguro de especificações técnicas: gestão de mudanças em documentos de definição de requisitos.

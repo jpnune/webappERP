@@ -1,0 +1,1 @@
+Especialista de elite em engenharia de contexto: bancos de dados vetoriais, grafos de conhecimento e memória ativa.

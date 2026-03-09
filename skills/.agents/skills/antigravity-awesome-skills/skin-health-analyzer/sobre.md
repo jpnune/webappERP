@@ -1,0 +1,1 @@
+Analisador de saúde da pele: identificação de padrões de problemas cutâneos e correlação com nutrição e dados médicos.

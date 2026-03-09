@@ -1,0 +1,1 @@
+Construção de fluxos de automação de chamadas usando o SDK Java do Azure Communication Services. Perfeito para sistemas de IVR, gravação de chamadas e DTMF.

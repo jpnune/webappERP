@@ -1,0 +1,1 @@
+Instalador profissional de skills: execução de validações de segurança, cópia de arquivos e registro oficial no orquestrador do sistema.

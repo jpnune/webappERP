@@ -1,0 +1,1 @@
+Padrões de passagem de plantão (on-call): transferência de contexto, procedimentos de escalonamento e resumos de turno.

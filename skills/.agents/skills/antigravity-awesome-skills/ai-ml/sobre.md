@@ -1,0 +1,1 @@
+Fluxo de trabalho focado em IA e Machine Learning, cobrindo RAG, arquitetura de modelos, pipelines de dados e recursos inteligentes.

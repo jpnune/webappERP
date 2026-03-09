@@ -1,0 +1,1 @@
+Domínio de Python 3.12+: programação assíncrona avançada e uso de ecossistema moderno (uv, ruff, FastAPI) em produção.

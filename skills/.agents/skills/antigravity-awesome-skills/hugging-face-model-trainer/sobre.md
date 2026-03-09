@@ -1,0 +1,1 @@
+Treinamento de modelos no Hugging Face: ajuste fino (fine-tuning) usando TRL, SFT, DPO e modelagem de recompensa, com conversão para GGUF.

@@ -1,0 +1,1 @@
+Diretrizes Apple HIG para componentes relacionados a busca e controles de caminho (path).

@@ -1,0 +1,1 @@
+Desenvolvimento de serviços NoSQL com Azure Cosmos DB e Python/FastAPI, seguindo padrões de alta disponibilidade e segurança com DefaultAzureCredential.

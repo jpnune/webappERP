@@ -1,0 +1,1 @@
+Administração e configuração de recursos do Azure Cache for Redis via plano de gerenciamento do Azure (.NET).

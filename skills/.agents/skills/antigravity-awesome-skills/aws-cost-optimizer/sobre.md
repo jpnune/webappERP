@@ -1,0 +1,1 @@
+Análise abrangente de custos AWS e recomendações de otimização usando CLI e o Cost Explorer.

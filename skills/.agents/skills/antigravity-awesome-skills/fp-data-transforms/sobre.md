@@ -1,0 +1,1 @@
+Transformações de dados diárias usando padrões funcionais: agrupamento, agregação e acesso seguro a nulos em arrays e objetos.

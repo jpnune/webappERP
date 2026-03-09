@@ -1,0 +1,1 @@
+Automação de testes impulsionada por IA: construção de testes que se corrigem sozinhos (self-healing) e integração avançada em CI/CD.

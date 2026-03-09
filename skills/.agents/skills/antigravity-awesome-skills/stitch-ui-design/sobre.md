@@ -1,0 +1,1 @@
+Guia especialista para design de interface no Google Stitch: criação de prompts eficazes para UI/UX e prototipagem de telas web/mobile.

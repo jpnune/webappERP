@@ -1,0 +1,1 @@
+Referência para funções pipe e flow: encadeamento de funções e composição de operações para pipelines de dados em fp-ts.

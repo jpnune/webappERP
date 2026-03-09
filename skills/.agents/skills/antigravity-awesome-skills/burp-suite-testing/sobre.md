@@ -1,0 +1,1 @@
+Testes de segurança web usando Burp Suite: interceptação de tráfego HTTP, modificação de requisições e varredura de vulnerabilidades.

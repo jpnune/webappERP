@@ -1,0 +1,1 @@
+Automação no Salesforce via MCP: gestão de leads, contas, oportunidades e consultas SOQL via Composio.

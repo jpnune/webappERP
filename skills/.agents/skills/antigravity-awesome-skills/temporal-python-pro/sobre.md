@@ -1,0 +1,1 @@
+Orquestração de workflows duráveis com Temporal Python SDK: implementação de padrões Saga e transações distribuídas robustas.

@@ -1,0 +1,1 @@
+Automação de vendas: redação de e-mails de prospecção, acompanhamentos e criação de páginas de preços e estudos de caso.

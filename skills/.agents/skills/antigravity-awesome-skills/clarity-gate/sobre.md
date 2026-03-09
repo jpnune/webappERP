@@ -1,0 +1,1 @@
+Verificação de qualidade para sistemas RAG: garante que documentos sejam qualificados antes de entrar em bases de conhecimento.

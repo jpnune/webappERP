@@ -1,0 +1,1 @@
+Análise de liquidez do mercado imobiliário para leilões: cálculo de ROI, ROI anualizado e estratégias de saída.

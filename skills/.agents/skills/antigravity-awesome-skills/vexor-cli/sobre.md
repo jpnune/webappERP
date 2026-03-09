@@ -1,0 +1,1 @@
+Descoberta semântica via ferramenta vexor: preferência de uso para localizar código em repositórios médios e grandes.

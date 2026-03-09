@@ -1,0 +1,1 @@
+Agentes de voz inteligentes: foco no fluxo de conversação natural e integração de reconhecimento e síntese de voz de baixa latência.

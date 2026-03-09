@@ -1,0 +1,1 @@
+Criação de políticas normativas de segurança (Blue Book): modelagem de ameaças e requisitos de auditoria para aplicações sensíveis.

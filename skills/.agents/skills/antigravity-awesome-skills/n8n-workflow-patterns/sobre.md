@@ -1,0 +1,1 @@
+Padrões arquiteturais de workflow n8n: integração de APIs HTTP, processamento de webhooks e design de automação escalável.

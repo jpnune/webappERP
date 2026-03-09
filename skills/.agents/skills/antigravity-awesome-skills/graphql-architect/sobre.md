@@ -1,0 +1,1 @@
+Arquitetura GraphQL moderna: federação, otimização de performance e segurança em esquemas corporativos escaláveis.

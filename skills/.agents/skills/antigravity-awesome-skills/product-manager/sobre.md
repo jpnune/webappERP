@@ -1,0 +1,1 @@
+Agente de Product Management Sênior: domínio de frameworks de gestão, métricas SaaS e templates estruturados para tomada de decisão.

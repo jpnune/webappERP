@@ -1,0 +1,1 @@
+Automação no PostHog via MCP: gestão de eventos, feature flags e perfis de usuário para análise de produto via Composio.

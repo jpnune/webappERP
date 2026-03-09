@@ -1,0 +1,1 @@
+Focada em testes de segurança de API, 'fuzzing', busca por vulnerabilidades IDOR e testes de penetração em REST/GraphQL para Bug Bounty.

@@ -1,0 +1,1 @@
+Consulta estruturada em bancos de dados de alimentos para análise nutricional e dados de ingredientes.

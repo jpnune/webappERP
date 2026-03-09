@@ -1,0 +1,1 @@
+Especialista em análise de arquivos de depuração DWARF (v3-v5) para compreensão técnica detalhada de binários compilados.

@@ -1,0 +1,1 @@
+Referência de documentação e capacidades operacionais para a plataforma Daily.

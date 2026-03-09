@@ -1,0 +1,1 @@
+Detecção de vulnerabilidades de canal lateral (timing side-channel) em código criptográfico de diversas linguagens.

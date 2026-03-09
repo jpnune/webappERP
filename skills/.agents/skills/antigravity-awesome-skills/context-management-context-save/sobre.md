@@ -1,0 +1,1 @@
+Persistência de estados de contexto para garantir que decisões passadas não sejam perdidas entre sessões.

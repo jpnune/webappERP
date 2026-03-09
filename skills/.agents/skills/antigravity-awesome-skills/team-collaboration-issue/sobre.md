@@ -1,0 +1,1 @@
+Especialista em resolução de issues no GitHub: investigação sistemática de bugs e fluxos de implementação colaborativa.

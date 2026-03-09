@@ -1,0 +1,1 @@
+Geração de documentação técnica abrangente a partir de código, incluindo guias de API e diagramas de arquitetura.

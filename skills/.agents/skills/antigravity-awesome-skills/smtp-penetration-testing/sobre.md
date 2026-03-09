@@ -1,0 +1,1 @@
+Testes de intrusão em SMTP: enumeração de usuários de e-mail e testes de relay aberto para auditoria de segurança de servidores de e-mail.

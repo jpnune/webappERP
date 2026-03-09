@@ -1,0 +1,1 @@
+Fase verde do TDD: implementação do código mínimo necessário para fazer os testes que falharam passarem.

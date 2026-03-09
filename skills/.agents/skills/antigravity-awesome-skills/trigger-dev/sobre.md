@@ -1,0 +1,1 @@
+Especialista em Trigger.dev: workflows de IA e execução assíncrona robusta de tarefas de segundo plano com foco em TypeScript.

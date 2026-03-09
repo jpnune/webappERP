@@ -1,0 +1,1 @@
+Automação de tarefas no Canva: exportação de designs, preenchimento automático e gestão de templates de marca via MCP.

@@ -1,0 +1,1 @@
+Uso da biblioteca Astropy para cálculos e manipulação de dados astronômicos em Python.

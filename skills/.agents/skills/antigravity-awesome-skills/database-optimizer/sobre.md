@@ -1,0 +1,1 @@
+Especialista em ajuste fino (tuning) e otimização de consultas de banco de dados para sistemas de alta carga.

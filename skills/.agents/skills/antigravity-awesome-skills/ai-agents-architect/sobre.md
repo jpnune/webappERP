@@ -1,0 +1,1 @@
+Especialista em design de sistemas de agentes autônomos: gestão de memória, estratégias de planejamento e orquestração de ferramentas.

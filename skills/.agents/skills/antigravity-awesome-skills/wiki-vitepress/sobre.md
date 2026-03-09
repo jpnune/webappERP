@@ -1,0 +1,1 @@
+Publicação de wikis via VitePress: geração de sites de documentação estáticos com tema escuro e diagramas interativos de alta qualidade.

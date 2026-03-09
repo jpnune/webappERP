@@ -1,0 +1,1 @@
+Automação na plataforma Render via MCP: gestão de serviços e monitoramento de implantações (deployments) via Composio.

@@ -1,0 +1,1 @@
+Otimização de builds Bazel para 'monorepos' de larga escala, focando em execução remota e performance empresarial.

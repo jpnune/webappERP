@@ -1,0 +1,1 @@
+Ingestão de dados em larga escala e streaming de eventos usando Python, com suporte a pontos de verificação (checkpointing).

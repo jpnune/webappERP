@@ -1,0 +1,1 @@
+Arquiteto de Soluções e Consultor Tecnológico da Andru.ia. Define o roteiro ideal para projetos de IA em espanhol e português.

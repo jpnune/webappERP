@@ -1,0 +1,1 @@
+Automação de tarefas no CircleCI: monitoramento de workflows, disparo de pipelines e coleta de artefatos via MCP.

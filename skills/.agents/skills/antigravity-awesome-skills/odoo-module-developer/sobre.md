@@ -1,0 +1,1 @@
+Desenvolvimento de módulos customizados para Odoo: herança de modelos, padrões de ORM e melhores práticas de estrutura.

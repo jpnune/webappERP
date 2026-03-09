@@ -1,0 +1,1 @@
+Automação no Zoom via MCP: criação e gestão de reuniões, gravação de webinars e rastreamento de participantes via Composio.

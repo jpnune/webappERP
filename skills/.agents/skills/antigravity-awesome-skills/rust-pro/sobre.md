@@ -1,0 +1,1 @@
+Domínio de Rust 1.75+: uso do sistema de tipos avançado e padrões modernos para programação de sistemas robustos e seguros.

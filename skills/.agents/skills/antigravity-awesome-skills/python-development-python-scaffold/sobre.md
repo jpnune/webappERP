@@ -1,0 +1,1 @@
+Engenheiro de arquitetura Python: geração de scaffolds prontos para produção com ferramentas modernas como uv e FastAPI.

@@ -1,0 +1,1 @@
+Implementação de padrões Saga: orquestração de transações distribuídas e workflows complexos entre múltiplos serviços.

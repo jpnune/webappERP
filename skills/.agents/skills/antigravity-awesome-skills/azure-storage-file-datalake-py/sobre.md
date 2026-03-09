@@ -1,0 +1,1 @@
+Uso do Azure Data Lake Storage Gen2 com Python para sistemas de arquivos hierárquicos e análise de Big Data.

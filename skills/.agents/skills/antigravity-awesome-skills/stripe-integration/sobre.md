@@ -1,0 +1,1 @@
+Implementação de pagamentos Stripe: fluxos em conformidade com PCI, gestão de assinaturas recorrentes e tratamento de webhooks.

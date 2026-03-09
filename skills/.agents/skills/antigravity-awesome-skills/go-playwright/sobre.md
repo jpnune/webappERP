@@ -1,0 +1,1 @@
+Automação de navegador robusta, camuflada e eficiente utilizando Playwright para a linguagem Go.

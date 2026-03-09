@@ -1,0 +1,1 @@
+Aplica as cores e tipografia oficiais da Anthropic em qualquer artefato para garantir a identidade visual da empresa.

@@ -1,0 +1,1 @@
+Guardião de contexto: preserva dados críticos antes de compactações automáticas, garantindo zero perda de informação essencial.

@@ -1,0 +1,1 @@
+Testes de intrusão em AWS: enumeração de IAM, exploração de infraestrutura em nuvem, escalada de privilégios e testes em buckets S3.

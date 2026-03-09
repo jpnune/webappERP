@@ -1,0 +1,1 @@
+Processo de recepção de Code Review: rigor técnico na análise de feedbacks e implementação de sugestões verificadas.

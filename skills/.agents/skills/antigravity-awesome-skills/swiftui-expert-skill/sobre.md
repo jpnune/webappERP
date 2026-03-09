@@ -1,0 +1,1 @@
+Escrita e revisão de código SwiftUI: gestão de estado avançada, composição de views de alta performance e adoção de padrões modernos iOS.

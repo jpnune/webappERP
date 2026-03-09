@@ -1,0 +1,1 @@
+Especialista em documentação C4 de nível de código: assinaturas de funções, dependências e estrutura interna de arquivos.

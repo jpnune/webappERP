@@ -1,0 +1,1 @@
+Análise de variantes: detecção de padrões de bugs e vulnerabilidades similares em diferentes partes do código através de scans sistemáticos.

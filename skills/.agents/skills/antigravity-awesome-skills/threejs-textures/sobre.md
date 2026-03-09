@@ -1,0 +1,1 @@
+Texturas em Three.js: mapeamento UV, mapas de ambiente HDR e otimização de imagens para superfícies tridimensionais.

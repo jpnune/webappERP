@@ -1,0 +1,1 @@
+Especialista em CrewAI: framework de orquestração de múltiplos agentes baseados em cargos e objetivos.

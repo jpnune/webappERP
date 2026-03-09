@@ -1,0 +1,1 @@
+Configuração contábil no Odoo: plano de contas, diários, posições fiscais, termos de pagamento e conciliação bancária.

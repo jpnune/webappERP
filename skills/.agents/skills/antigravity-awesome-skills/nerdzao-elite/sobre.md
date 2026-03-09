@@ -1,0 +1,1 @@
+Engenheiro de Software Elite: fluxo completo de planejamento, arquitetura, TDD e validação de UX pixel-perfect.

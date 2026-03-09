@@ -1,0 +1,1 @@
+Auditoria profunda antes do push: remove arquivos desnecessários, código morto e falhas de segurança para preparar o código para produção.

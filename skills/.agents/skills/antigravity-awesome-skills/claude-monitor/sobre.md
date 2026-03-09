@@ -1,0 +1,1 @@
+Monitor de performance para o Claude Code: mede latência de API e consumo de recursos do sistema local.

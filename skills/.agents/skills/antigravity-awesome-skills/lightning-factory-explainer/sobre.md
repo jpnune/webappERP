@@ -1,0 +1,1 @@
+Explicação técnica sobre o protocolo SuperScalar e fábricas de canais Lightning para integração eficiente de novos usuários.

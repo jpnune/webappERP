@@ -1,0 +1,1 @@
+Automação de entrega de e-mails via Postmark: envio de e-mails transacionais via templates e monitoramento de taxas de entrega.

@@ -1,0 +1,1 @@
+Automação de perfil e posts no LinkedIn via MCP: gestão de comentários e imagens para presença institucional.

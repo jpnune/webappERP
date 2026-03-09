@@ -1,0 +1,1 @@
+Padrões para Neon Serverless Postgres: branching de banco de dados, pooling de conexão e integração com Prisma/Drizzle.

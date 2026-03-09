@@ -1,0 +1,1 @@
+Desenvolvimento em C# moderno: records, pattern matching e otimização de aplicações .NET com foco em testes.

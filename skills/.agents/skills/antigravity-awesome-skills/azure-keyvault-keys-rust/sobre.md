@@ -1,0 +1,1 @@
+Criação e gestão de chaves criptográficas (RSA/EC) no Azure Key Vault com suporte a operações de assinatura e cifragem em Rust.

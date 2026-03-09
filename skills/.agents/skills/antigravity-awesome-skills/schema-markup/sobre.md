@@ -1,0 +1,1 @@
+Design e otimização de dados estruturados Schema.org: garantia de corretude técnica para impacto mensurável em SEO.

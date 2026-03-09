@@ -1,0 +1,1 @@
+Compactação de contexto: reduz uso de tokens e resume histórico de conversas para eficiência em sessões longas.

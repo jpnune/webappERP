@@ -1,0 +1,1 @@
+Especialista em diagramas Mermaid: criação de fluxogramas, sequências e ERDs com sintaxe avançada e estilização customizada.

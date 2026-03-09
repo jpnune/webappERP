@@ -1,0 +1,1 @@
+Padrões de malha de serviço (service mesh) com Linkerd: foco em segurança, mTLS automático e rede 'zero-trust'.

@@ -1,0 +1,1 @@
+Estúdio de geração de imagens inteligente: roteamento automático entre estilos fotográficos realistas e arte/ilustração.

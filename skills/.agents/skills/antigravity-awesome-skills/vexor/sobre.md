@@ -1,0 +1,1 @@
+CLI de busca semântica em arquivos: localização rápida de definições e implementações em grandes bases de código.

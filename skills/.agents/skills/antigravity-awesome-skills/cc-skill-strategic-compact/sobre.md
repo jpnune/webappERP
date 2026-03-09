@@ -1,0 +1,1 @@
+Habilidade de pensamento estratégico compacto para otimização de fluxos de trabalho no desenvolvimento de software.

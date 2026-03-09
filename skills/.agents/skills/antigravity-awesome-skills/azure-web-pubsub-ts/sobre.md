@@ -1,0 +1,1 @@
+Criação de apps com mensagens em tempo real (WebSockets) usando o SDK Azure Web PubSub para JavaScript.

@@ -1,0 +1,1 @@
+Auditoria de segurança para limpeza de dados (zeroização): detecção de falhas na remoção de dados sensíveis na memória RAM em C/C++/Rust.

@@ -1,0 +1,1 @@
+Habilitação de capacidades externas (geração de imagens, dados em tempo real do X) através do uso de modelos Blockrun.

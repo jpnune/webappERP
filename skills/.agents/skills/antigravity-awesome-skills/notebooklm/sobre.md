@@ -1,0 +1,1 @@
+Consulta a notebooks do Google NotebookLM: respostas baseadas em fontes e citações através do modelo Gemini via Claude Code.

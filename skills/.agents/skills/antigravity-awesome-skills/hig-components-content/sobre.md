@@ -1,0 +1,1 @@
+Diretrizes de interface humana (HIG) da Apple para componentes de exibição de conteúdo.

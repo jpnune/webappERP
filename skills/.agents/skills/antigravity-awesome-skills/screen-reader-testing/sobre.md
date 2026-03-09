@@ -1,0 +1,1 @@
+Testes de acessibilidade com leitores de tela (VoiceOver/NVDA/JAWS): validação de compatibilidade e correção de barreiras de navegação.

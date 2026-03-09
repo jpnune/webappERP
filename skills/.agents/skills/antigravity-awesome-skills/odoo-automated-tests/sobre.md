@@ -1,0 +1,1 @@
+Escrita e execução de testes automatizados no Odoo: TransactionCase, HttpCase e tours de navegador para CI.

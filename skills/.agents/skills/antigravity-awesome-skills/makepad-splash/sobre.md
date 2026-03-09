@@ -1,0 +1,1 @@
+Linguagem de script Splash para Makepad: scripting dinâmico para comportamentos interativos e lógica fluida.

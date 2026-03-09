@@ -1,0 +1,1 @@
+Engenheiro de MLOps: gestão de experimentos, rastreamento e registros de modelos com MLflow, Kubeflow e ferramentas modernas de infraestrutura.

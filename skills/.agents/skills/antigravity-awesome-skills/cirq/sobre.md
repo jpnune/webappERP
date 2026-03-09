@@ -1,0 +1,1 @@
+Uso da biblioteca Cirq para simulação e programação de computação quântica.

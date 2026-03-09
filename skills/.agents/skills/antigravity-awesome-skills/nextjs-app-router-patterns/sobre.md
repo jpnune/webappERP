@@ -1,0 +1,1 @@
+Padrões de App Router no Next.js 14+: Server Components, streaming, rotas paralelas e fetching de dados avançado.

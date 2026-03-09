@@ -1,0 +1,1 @@
+Princípios de desenvolvimento em Node.js: seleção de frameworks, padrões assíncronos e arquitetura orientada a decisões técnicas.

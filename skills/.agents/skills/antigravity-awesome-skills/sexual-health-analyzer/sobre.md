@@ -1,0 +1,1 @@
+Analisador de saúde sexual: avaliação de dados e padrões para recomendações preventivas e informativas.

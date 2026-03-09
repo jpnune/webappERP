@@ -1,0 +1,1 @@
+Domínio de concorrência em Go: goroutines, canais, primitivas de sincronização e gestão de contexto.

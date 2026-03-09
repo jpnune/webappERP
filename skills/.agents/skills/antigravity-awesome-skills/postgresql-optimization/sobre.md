@@ -1,0 +1,1 @@
+Workflow de otimização de bancos de dados PostgreSQL: análise de planos de execução (EXPLAIN) e gestão de bases em produção.

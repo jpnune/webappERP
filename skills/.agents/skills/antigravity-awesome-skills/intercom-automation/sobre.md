@@ -1,0 +1,1 @@
+Automação no Intercom via MCP: gestão de conversas, contatos e segmentos de usuários para suporte e CRM.

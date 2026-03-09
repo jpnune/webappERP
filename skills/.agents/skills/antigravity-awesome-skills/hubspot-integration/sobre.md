@@ -1,0 +1,1 @@
+Especialista em integração HubSpot: OAuth, webhooks e operações em lote em Node.js e Python.

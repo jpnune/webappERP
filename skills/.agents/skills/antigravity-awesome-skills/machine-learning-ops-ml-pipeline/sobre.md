@@ -1,0 +1,1 @@
+Design e implementação de pipelines completos de Machine Learning: do treinamento à implantação em produção.

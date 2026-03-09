@@ -1,0 +1,1 @@
+Criação e otimização de sequências de e-mail, campanhas de nutrição (drip) e réguas de relacionamento automatizadas.

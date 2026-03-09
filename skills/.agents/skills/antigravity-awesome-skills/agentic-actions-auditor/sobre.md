@@ -1,0 +1,1 @@
+Auditoria de segurança em workflows do GitHub Actions para integrações de agentes de IA, detectando vetores de ataque em pipelines CI/CD.

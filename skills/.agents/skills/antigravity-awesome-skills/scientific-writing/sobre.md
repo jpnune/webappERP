@@ -1,0 +1,1 @@
+Redação científica estruturada: criação de manuscritos no formato IMRAD com fluxo de prosa técnica baseada em evidências de pesquisa.

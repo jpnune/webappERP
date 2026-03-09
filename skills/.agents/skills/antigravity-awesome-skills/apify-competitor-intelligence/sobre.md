@@ -1,0 +1,1 @@
+Inteligência competitiva: analisa estratégias, preços, anúncios e posicionamento de mercado de concorrentes em diversas plataformas digitais.

@@ -1,0 +1,1 @@
+Gestão de arquivos e permissões no Google Drive através de automação estruturada.

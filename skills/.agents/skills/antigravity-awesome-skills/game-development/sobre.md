@@ -1,0 +1,1 @@
+Orquestrador de desenvolvimento de jogos: roteamento para habilidades específicas de plataforma (Godot, Unity, etc.).

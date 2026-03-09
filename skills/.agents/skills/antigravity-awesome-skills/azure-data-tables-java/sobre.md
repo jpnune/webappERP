@@ -1,0 +1,1 @@
+Desenvolvimento com Azure Table Storage e API de tabelas do Cosmos DB para armazenamento NoSQL de pares chave-valor em Java.

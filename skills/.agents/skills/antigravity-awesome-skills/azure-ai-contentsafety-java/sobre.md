@@ -1,0 +1,1 @@
+Moderação de conteúdo (texto/imagem) usando o SDK Java do Azure AI para detecção de violência, ódio e conteúdo sensível.

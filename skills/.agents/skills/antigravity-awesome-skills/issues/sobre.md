@@ -1,0 +1,1 @@
+Interação estruturada com issues do GitHub: criação, listagem e visualização detalhada de tarefas e bugs.

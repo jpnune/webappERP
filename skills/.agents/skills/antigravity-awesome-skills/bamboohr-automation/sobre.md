@@ -1,0 +1,1 @@
+Automação de tarefas de RH no BambooHR: gestão de funcionários, benefícios e atualizações de dados via MCP.

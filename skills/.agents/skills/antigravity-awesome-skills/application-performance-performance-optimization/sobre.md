@@ -1,0 +1,1 @@
+Otimização de performance de ponta a ponta: análise de perfil (profiling), observabilidade e ajuste fino de backend e frontend.

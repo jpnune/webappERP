@@ -1,0 +1,1 @@
+Criação de apresentações HTML ricas em animações a partir do zero ou convertendo arquivos PowerPoint.

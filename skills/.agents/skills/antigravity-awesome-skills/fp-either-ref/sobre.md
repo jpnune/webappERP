@@ -1,0 +1,1 @@
+Referência rápida para o tipo Either (fp-ts): tratamento de erros tipados e validações de fluxo de dados que podem falhar.

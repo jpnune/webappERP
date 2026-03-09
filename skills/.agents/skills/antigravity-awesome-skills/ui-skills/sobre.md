@@ -1,0 +1,1 @@
+Restrições evolutivas de UI: guia focado para agentes na construção de interfaces de usuário consistentes e intuitivas.

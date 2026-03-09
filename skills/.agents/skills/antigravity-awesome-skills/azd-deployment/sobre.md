@@ -1,0 +1,1 @@
+Implantação de aplicações em container no Azure Container Apps usando o Azure Developer CLI (azd) e infraestrutura Bicep.

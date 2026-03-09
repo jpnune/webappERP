@@ -1,0 +1,1 @@
+Consultoria jurídica em Direito Penal brasileiro, com foco em especialidades como Lei Maria da Penha, violência doméstica e ações penais.

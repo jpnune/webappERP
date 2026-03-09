@@ -1,0 +1,1 @@
+Validador visual rigoroso: especialista em testes de conformidade de design system e verificação de acessibilidade em interfaces.

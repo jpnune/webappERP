@@ -1,0 +1,1 @@
+Criação de aplicações orientadas a eventos em Java: publicação e gestão de eventos integrados aos serviços Azure via Event Grid.

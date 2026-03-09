@@ -1,0 +1,1 @@
+Práticas de excelência em code review: feedback construtivo, detecção antecipada de bugs e disseminação de conhecimento na equipe.

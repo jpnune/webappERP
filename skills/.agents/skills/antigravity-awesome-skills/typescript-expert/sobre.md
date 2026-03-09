@@ -1,0 +1,1 @@
+Especialista em TypeScript e JavaScript: programação em nível de tipo, otimização de performance e gestão de grandes monorepos.

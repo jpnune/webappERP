@@ -1,0 +1,1 @@
+Análise de tamanho de mercado: cálculo de TAM (Total Addressable Market), SAM e SOM para estimativa de oportunidade de negócio.

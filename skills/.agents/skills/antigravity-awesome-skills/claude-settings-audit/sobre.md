@@ -1,0 +1,1 @@
+Auditoria de configurações (settings.json) do Claude Code para garantir permissões adequadas ao stack tecnológico do projeto.

@@ -1,0 +1,1 @@
+Fluxo de Compras no Odoo: da cotação (RFQ) à fatura do fornecedor, incluindo compras em lote e listas de preços.

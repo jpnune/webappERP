@@ -1,0 +1,1 @@
+Configuração avançada de nós do n8n: dependências de propriedades e padrões de configuração por tipo de nó.

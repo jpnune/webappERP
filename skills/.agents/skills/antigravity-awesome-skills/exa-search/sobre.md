@@ -1,0 +1,1 @@
+Busca semântica avançada e descoberta de conteúdo similar usando a API Exa para pesquisas estruturadas de alta qualidade.

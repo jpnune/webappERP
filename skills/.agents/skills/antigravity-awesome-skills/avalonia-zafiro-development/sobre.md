@@ -1,0 +1,1 @@
+Conjunto de regras comportamentais e convenções obrigatórias para o desenvolvimento de interfaces com Avalonia e Zafiro.

@@ -1,0 +1,1 @@
+Implementação de rastreamento distribuído com Jaeger e Tempo para identificar gargalos de performance em microsserviços.

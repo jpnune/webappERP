@@ -1,0 +1,1 @@
+Especialista em análise de erros em sistemas distribuídos e investigação de incidentes de produção complexos.

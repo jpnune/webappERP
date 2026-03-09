@@ -1,0 +1,1 @@
+Padrões e princípios modernos de React: composição de componentes, hooks e melhores práticas com TypeScript.

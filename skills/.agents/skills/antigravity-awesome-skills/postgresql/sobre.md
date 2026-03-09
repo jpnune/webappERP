@@ -1,0 +1,1 @@
+Design de esquemas específicos para PostgreSQL: tipos de dados, indexação avançada, restrições e padrões de alta performance.

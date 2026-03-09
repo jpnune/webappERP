@@ -1,0 +1,1 @@
+Gestão de estado moderna em React: domínio de Redux Toolkit, Zustand, Jotai e sincronização de estado de servidor com React Query.

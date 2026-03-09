@@ -1,0 +1,1 @@
+Infraestrutura de e-mail para agentes de IA. Criação de contas, envio/recebimento de mensagens e gestão de webhooks via API.

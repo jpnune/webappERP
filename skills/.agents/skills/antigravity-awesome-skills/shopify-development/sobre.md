@@ -1,0 +1,1 @@
+Desenvolvimento para Shopify: criação de temas, extensões e apps utilizando Liquid, Shopify CLI e APIs administrativas.

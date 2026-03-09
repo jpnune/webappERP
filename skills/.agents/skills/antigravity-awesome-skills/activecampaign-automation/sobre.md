@@ -1,0 +1,1 @@
+Automação de tarefas no ActiveCampaign através de MCP: gestão de contatos, tags, automações de e-mail e tarefas.

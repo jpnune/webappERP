@@ -1,0 +1,1 @@
+Implementação rigorosa de TDD: escrita obrigatória de testes antes de qualquer código de funcionalidade ou correção.

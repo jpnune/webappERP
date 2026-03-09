@@ -1,0 +1,1 @@
+Padrões práticos para usar fp-ts com React: hooks, formulários e busca de dados em versões modernas do React e Next.js.

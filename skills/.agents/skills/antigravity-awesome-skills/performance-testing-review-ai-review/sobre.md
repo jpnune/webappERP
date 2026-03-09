@@ -1,0 +1,1 @@
+Revisão de código via IA para performance: combinação de análise estática e reconhecimento de padrões inteligentes para melhoria técnica.

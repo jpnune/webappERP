@@ -1,0 +1,1 @@
+Domínio do BATS (Bash Automated Testing System) para testes automatizados de scripts shell e utilitários de sistema.

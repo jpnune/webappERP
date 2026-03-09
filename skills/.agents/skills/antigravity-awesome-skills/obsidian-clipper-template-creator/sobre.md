@@ -1,0 +1,1 @@
+Criação de templates para o Obsidian Web Clipper: formatação de capturas de web com variáveis customizadas.

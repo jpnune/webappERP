@@ -1,0 +1,1 @@
+Construção de pipelines GitLab CI/CD escaláveis: workflows multi-estágio, cache e runners distribuídos.

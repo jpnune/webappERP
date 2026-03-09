@@ -1,0 +1,1 @@
+Arquiteto de software sênior especializado em revisão de arquiteturas modernas e padrões de design avançados.

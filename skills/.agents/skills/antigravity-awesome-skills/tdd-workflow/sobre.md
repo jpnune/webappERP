@@ -1,0 +1,1 @@
+Fluxo de trabalho de Desenvolvimento Orientado por Testes (TDD): disciplina rigorosa nos ciclos de falha, sucesso e refatoração.

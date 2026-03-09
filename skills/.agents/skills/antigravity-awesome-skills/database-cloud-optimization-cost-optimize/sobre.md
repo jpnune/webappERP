@@ -1,0 +1,1 @@
+Otimização de custos de infraestrutura de dados na nuvem, mantendo performance e resiliência.

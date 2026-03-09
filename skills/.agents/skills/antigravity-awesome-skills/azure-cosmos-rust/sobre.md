@@ -1,0 +1,1 @@
+SDK para Rust do Azure Cosmos DB, permitindo operações de dados distribuídos em aplicações de alta performance.

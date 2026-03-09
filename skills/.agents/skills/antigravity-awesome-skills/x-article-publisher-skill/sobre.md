@@ -1,0 +1,1 @@
+Publicador de artigos longos na plataforma X (antigo Twitter).

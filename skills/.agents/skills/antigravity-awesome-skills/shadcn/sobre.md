@@ -1,0 +1,1 @@
+Gestão de componentes shadcn/ui: implementação de sistemas de design modernos com documentação e padrões de uso recomendados.

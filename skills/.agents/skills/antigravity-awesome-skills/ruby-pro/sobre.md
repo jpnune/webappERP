@@ -1,0 +1,1 @@
+Escrita de Ruby idiomático: metaprogramação, padrões Rails e otimização de performance em frameworks de teste.

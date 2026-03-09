@@ -1,0 +1,1 @@
+Domínio de TypeScript corporativo: padrões de segurança estrita, decoradores e arquiteturas de larga escala para sistemas orientados a objetos.

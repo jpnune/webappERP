@@ -1,0 +1,1 @@
+Desenvolvimento de agentes no Azure AI Foundry usando o SDK Python do Framework de Agentes da Microsoft.

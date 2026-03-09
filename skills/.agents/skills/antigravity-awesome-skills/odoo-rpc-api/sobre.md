@@ -1,0 +1,1 @@
+Integração via APIs RPC externa do Odoo: autenticação, chamadas de modelos e operações CRUD via Python, JS ou cURL.

@@ -1,0 +1,1 @@
+Desenvolvimento de aplicações com React e Next.js 14+: App Router, TypeScript, Tailwind CSS e padrões modernos de frontend.

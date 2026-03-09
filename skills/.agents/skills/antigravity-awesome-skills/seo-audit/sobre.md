@@ -1,0 +1,1 @@
+Diagnóstico e auditoria de SEO: identificação de problemas de rastreabilidade, indexação e performance orgânica.

@@ -1,0 +1,1 @@
+Diretrizes específicas de design da Apple para cada plataforma (iOS, macOS, watchOS, visionOS).

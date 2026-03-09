@@ -1,0 +1,1 @@
+Revisão de código potencializada por IA, integrando análise estática, reconhecimento de padrões e melhores práticas de DevOps.

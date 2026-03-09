@@ -1,0 +1,1 @@
+Geração de manifestos Kubernetes: Deployments, Services e ConfigMaps seguindo padrões de segurança e melhores práticas industriais.

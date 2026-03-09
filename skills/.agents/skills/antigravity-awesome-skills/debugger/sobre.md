@@ -1,0 +1,1 @@
+Especialista em depuração proativa de erros, falhas em testes e comportamentos inesperados em qualquer base de código.

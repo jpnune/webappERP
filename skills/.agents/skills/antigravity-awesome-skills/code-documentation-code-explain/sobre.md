@@ -1,0 +1,1 @@
+Educação em código: explicação de lógicas complexas através de narrativas claras e diagramas visuais explicativos.

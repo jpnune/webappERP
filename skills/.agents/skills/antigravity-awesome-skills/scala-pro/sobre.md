@@ -1,0 +1,1 @@
+Domínio de desenvolvimento em Scala corporativo: sistemas distribuídos e processamento de Big Data com Spark e ZIO/Cats Effect.

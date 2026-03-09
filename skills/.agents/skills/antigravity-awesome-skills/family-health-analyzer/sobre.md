@@ -1,0 +1,1 @@
+Análise de histórico de saúde familiar: avaliação de riscos hereditários e sugestões personalizadas de prevenção médica.

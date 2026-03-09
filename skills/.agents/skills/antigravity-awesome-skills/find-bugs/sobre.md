@@ -1,0 +1,1 @@
+Identificação de bugs e vulnerabilidades de segurança em branches locais através de auditoria de código automatizada.

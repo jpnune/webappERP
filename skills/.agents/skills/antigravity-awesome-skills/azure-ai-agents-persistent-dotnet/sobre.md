@@ -1,0 +1,1 @@
+SDK de agentes persistentes para .NET do Azure AI: gestão de threads, mensagens e execução de ferramentas para agentes de IA.

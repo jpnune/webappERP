@@ -1,0 +1,1 @@
+Gestão de serviços, produtos, políticas e assinaturas do API Management (APIM) do Azure via Python.

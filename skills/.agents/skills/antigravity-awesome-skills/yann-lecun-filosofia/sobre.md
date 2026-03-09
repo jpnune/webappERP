@@ -1,0 +1,1 @@
+Perspectiva filosófica e pedagógica de Yann LeCun: foco em inteligência em código aberto (open source) e soberania tecnológica digital.

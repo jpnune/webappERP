@@ -1,0 +1,1 @@
+Instrumentação de aplicações Node.js com rastreamento distribuído e métricas via Azure Monitor e OpenTelemetry.

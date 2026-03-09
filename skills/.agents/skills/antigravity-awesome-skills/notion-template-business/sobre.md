@@ -1,0 +1,1 @@
+Empreendedorismo com templates do Notion: do design de produtos digitais sustentáveis a estratégias de preço e marketing.

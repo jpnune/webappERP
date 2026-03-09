@@ -1,0 +1,1 @@
+Base de posições de Yann LeCun em debates técnicos: críticas aos LLMs e visões divergentes sobre IA contra outros especialistas.

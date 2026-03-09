@@ -1,0 +1,1 @@
+Orquestração de funcionalidades full-stack, conectando lógica de banco de dados, API e interface de usuário.

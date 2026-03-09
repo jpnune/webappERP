@@ -1,0 +1,1 @@
+Extração de dados de e-commerce (marketplaces como Amazon, Walmart, eBay) para inteligência de preços e descoberta de vendedores.

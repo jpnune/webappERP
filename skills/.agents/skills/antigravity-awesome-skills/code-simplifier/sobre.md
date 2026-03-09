@@ -1,0 +1,1 @@
+Simplificação de código para maior clareza e consistência sem alterar a funcionalidade, focando em elegância e legibilidade.

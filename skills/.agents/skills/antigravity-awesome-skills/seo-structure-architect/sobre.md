@@ -1,0 +1,1 @@
+Arquiteto de estrutura de conteúdo: otimização da hierarquia de cabeçalhos (H1-H6), dados estruturados e links internos estratégicos.

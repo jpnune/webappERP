@@ -1,0 +1,1 @@
+Criação de módulos Terraform para AWS: gestão de estado, módulos reutilizáveis e melhores práticas de sintaxe HCL.

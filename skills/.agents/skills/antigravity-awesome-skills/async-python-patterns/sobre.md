@@ -1,0 +1,1 @@
+Domínio de asyncio em Python, programação concorrente e padrões async/await para aplicações de alta performance.

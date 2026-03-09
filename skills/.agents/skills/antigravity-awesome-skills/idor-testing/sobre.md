@@ -1,0 +1,1 @@
+Testes de vulnerabilidade IDOR (Insecure Direct Object Reference): detecção de falhas de controle de acesso em objetos e IDs de usuário.

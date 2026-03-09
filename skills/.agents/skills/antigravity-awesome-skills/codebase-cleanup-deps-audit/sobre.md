@@ -1,0 +1,1 @@
+Auditoria de dependências: varredura de vulnerabilidades, conformidade de licenças e segurança da cadeia de suprimentos.

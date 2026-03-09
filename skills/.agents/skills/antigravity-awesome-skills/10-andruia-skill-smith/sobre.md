@@ -1,0 +1,1 @@
+Ingeniero de Sistemas focado na criação e implantação de novas habilidades seguindo o padrão de qualidade 'Diamante'.

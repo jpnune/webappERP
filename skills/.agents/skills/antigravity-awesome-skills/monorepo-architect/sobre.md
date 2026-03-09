@@ -1,0 +1,1 @@
+Arquiteto de monorepos: domínio de Nx, Turborepo e Bazel para gestão eficiente de múltiplos projetos e dependências em escala.

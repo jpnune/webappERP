@@ -1,0 +1,1 @@
+Análise binária avançada: desmontagem (disassembly), descompilação e reconhecimento de padrões em código compilado.

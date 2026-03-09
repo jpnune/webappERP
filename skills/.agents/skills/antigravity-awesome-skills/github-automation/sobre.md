@@ -1,0 +1,1 @@
+Gestão programática do GitHub: automação de issues, branches, PRs e permissões via MCP.

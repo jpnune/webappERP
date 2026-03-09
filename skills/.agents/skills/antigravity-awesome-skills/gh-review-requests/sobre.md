@@ -1,0 +1,1 @@
+Busca de solicitações de revisão pendentes no GitHub para times e membros específicos, agilizando o fluxo de PRs.

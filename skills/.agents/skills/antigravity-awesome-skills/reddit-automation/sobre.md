@@ -1,0 +1,1 @@
+Automação no Reddit via MCP: busca de subreddits, criação de posts e gestão de comentários via ferramenta Composio.

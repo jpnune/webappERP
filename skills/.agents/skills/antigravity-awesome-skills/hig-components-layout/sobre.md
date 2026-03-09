@@ -1,0 +1,1 @@
+Padrões Apple HIG para componentes de navegação e layout de interface.

@@ -1,0 +1,1 @@
+Automação no Notion via MCP: gestão de páginas, bancos de dados, blocos e usuários via Composio.

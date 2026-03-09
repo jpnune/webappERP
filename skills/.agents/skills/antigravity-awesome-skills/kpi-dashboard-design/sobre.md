@@ -1,0 +1,1 @@
+Design de dashboards de KPI: seleção de métricas e visualizações eficazes para monitoramento de negócios em tempo real.

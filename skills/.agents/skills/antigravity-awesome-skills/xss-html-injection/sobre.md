@@ -1,0 +1,1 @@
+Testes de vulnerabilidade XSS e injeção de HTML: exploração de falhas no lado do cliente (client-side) para auditoria de segurança web.

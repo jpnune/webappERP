@@ -1,0 +1,1 @@
+Referência técnica sobre Lightning Network channel factories: escalabilidade sem 'soft forks' e agregação de assinaturas MuSig2.

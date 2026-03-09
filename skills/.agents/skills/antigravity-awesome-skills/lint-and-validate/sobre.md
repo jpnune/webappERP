@@ -1,0 +1,1 @@
+Controle de qualidade automático: linting, formatação e análise estática para garantir conformidade técnica em cada alteração.

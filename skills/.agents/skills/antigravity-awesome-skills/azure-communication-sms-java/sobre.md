@@ -1,0 +1,1 @@
+Envio de SMS através do SDK Java do Azure. Ideal para notificações, alertas, OTP (senhas únicas) e mensagens em massa.

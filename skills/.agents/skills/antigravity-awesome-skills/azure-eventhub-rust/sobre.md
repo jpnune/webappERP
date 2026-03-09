@@ -1,0 +1,1 @@
+SDK para Rust do Azure Event Hubs para envio e recebimento de grandes volumes de eventos em tempo real.

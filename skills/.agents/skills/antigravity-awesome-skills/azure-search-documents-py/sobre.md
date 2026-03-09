@@ -1,0 +1,1 @@
+Uso do Azure AI Search em Python: busca vetorial, ranking semântico e indexação avançada para aplicações de busca.

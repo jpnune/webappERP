@@ -1,0 +1,1 @@
+Construção de APIs assíncronas de alta performance com FastAPI, SQLAlchemy 2.0 e Pydantic v2.

@@ -1,0 +1,1 @@
+Diagnóstico e correção de problemas de conexão na extensão Claude in Chrome MCP.

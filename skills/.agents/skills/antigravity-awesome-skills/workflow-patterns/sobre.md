@@ -1,0 +1,1 @@
+Padrões de workflow Conductor: gestão de checkpoints, protocolos de verificação e disciplina de commits em tarefas complexas.

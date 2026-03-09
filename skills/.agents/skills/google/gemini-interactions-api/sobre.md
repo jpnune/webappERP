@@ -1,0 +1,1 @@
+Uso da API de Interações do Gemini para geração de texto, chat multi-turno e entendimento multimodal avançado.

@@ -1,0 +1,1 @@
+Conselho multi-especialista: consulta paralela de múltiplos agentes especializados para análise multi-perspectiva de tópicos complexos.

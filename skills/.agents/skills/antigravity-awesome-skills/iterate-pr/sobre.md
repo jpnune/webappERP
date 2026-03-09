@@ -1,0 +1,1 @@
+Iteração contínua em Pull Requests: correção automática de falhas de CI e ajustes baseados em feedbacks de revisão de código.

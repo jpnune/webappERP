@@ -1,0 +1,1 @@
+Estratégias de SEO Programático: criação de páginas em escala utilizando templates e dados estruturados para dominação de SERP.

@@ -1,0 +1,1 @@
+Mapeamento de mitigação de ameaças: priorização de controles de segurança e criação de planos de remediação baseados em riscos.

@@ -1,0 +1,1 @@
+Engenheiro de software embarcado especialista em firmware e drivers para microcontroladores ARM Cortex-M (STM32, nRF52, etc.).

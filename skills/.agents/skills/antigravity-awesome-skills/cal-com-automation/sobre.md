@@ -1,0 +1,1 @@
+Automação de agendamentos no Cal.com via MCP: gestão de reservas, disponibilidade e webhooks de equipe.

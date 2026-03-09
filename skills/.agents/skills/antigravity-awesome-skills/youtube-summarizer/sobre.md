@@ -1,0 +1,1 @@
+Resumo inteligente de vídeos do YouTube: extração de transcrições e geração de sumários detalhados através de frameworks de análise.

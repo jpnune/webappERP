@@ -1,0 +1,1 @@
+Especialista em Experiência do Desenvolvedor (DX): melhoria de ferramental e eliminação de fricções no workflow de desenvolvimento.

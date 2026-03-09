@@ -1,0 +1,1 @@
+Especialista mestre em Terraform/OpenTofu: automação avançada de IaC e padrões de infraestrutura corporativa complexa.

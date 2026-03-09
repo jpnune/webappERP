@@ -1,0 +1,1 @@
+Auditoria de segurança completa: hardening, modelagem de ameaças (STRIDE/PASTA), testes Red/Blue Team e conformidade OWASP para qualquer projeto.

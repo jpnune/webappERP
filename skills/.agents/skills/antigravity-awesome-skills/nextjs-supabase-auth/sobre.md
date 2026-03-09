@@ -1,0 +1,1 @@
+Integração especialista de Autenticação Supabase com Next.js App Router: middleware de proteção e gestão de sessão.

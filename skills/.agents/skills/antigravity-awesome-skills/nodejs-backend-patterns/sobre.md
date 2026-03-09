@@ -1,0 +1,1 @@
+Serviços de backend Node.js: padrões com Express/Fastify, tratamento de erros, autenticação e design de APIs robustas.

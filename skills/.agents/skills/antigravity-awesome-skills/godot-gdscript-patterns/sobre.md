@@ -1,0 +1,1 @@
+Padrões de GDScript para Godot 4: sistemas de sinais, máquinas de estado e otimização de cenas.

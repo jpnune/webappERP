@@ -1,0 +1,1 @@
+Especialista em Cloudflare Workers e computação de borda (Edge), incluindo KV, D1 e Durable Objects.

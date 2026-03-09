@@ -1,0 +1,1 @@
+Análise crítica de editais de leilão: identificação de riscos ocultos, dívidas atreladas e cláusulas abusivas.

@@ -1,0 +1,1 @@
+Exemplo de diretrizes e padrões de projeto para manutenção de consistência na base de código.

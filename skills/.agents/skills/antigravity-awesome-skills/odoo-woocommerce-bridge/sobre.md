@@ -1,0 +1,1 @@
+Sincronização entre Odoo e WooCommerce: integração de produtos e pedidos através da API REST do WooCommerce.

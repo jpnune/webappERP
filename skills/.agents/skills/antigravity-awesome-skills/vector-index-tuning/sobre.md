@@ -1,0 +1,1 @@
+Ajuste de índices vetoriais: otimização de latência, precisão (recall) e uso de memória em buscas por similaridade escalar.

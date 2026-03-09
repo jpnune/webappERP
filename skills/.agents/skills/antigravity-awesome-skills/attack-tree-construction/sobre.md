@@ -1,0 +1,1 @@
+Construção de árvores de ataque para visualizar caminhos de ameaças e identificar lacunas de defesa em sistemas de segurança.

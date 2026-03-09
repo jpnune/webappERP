@@ -1,0 +1,1 @@
+Verificador de conformidade especificação-código: auditoria para garantir que a implementação blockchain segue exatamente o whitepaper.

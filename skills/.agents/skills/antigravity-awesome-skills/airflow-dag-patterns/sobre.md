@@ -1,0 +1,1 @@
+Construção de DAGs para o Apache Airflow seguindo boas práticas de sensores, operadores e deploy de pipelines de dados robustos.

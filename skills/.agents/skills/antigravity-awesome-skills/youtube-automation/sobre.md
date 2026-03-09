@@ -1,0 +1,1 @@
+Automação no YouTube via MCP: gestão de playlists, upload de vídeos, análise de dados e moderação de comentários via Composio.

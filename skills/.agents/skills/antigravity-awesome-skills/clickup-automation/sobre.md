@@ -1,0 +1,1 @@
+Automação de gestão de projetos no ClickUp: tarefas, espaços e listas via ferramentas Composio (Rube MCP).

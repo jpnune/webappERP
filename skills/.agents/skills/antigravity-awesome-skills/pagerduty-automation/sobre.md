@@ -1,0 +1,1 @@
+Automação no PagerDuty via MCP: gestão de incidentes, serviços, escalas e rotações de plantão via Composio.

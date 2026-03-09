@@ -1,0 +1,1 @@
+SDK .NET para integração com Azure Event Hubs, focada em ingestão de dados de alta vazão e streaming de eventos.

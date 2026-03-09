@@ -1,0 +1,1 @@
+Gestão de contexto baseada em sistema de arquivos: descoberta dinâmica e redução de inchaço na janela de contexto.

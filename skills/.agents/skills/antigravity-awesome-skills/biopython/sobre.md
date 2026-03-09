@@ -1,0 +1,1 @@
+Uso da biblioteca Biopython para manipulação de dados biológicos e bioinformática.

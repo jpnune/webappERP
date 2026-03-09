@@ -1,0 +1,1 @@
+Execução de cargas de trabalho na infraestrutura do Hugging Face Jobs: scripts UV e containers Docker.

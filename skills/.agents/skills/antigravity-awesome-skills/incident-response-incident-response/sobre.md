@@ -1,0 +1,1 @@
+Habilidade focada em protocolos técnicos e coordenação de resposta a incidentes críticos.

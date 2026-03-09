@@ -1,0 +1,1 @@
+Modos operacionais de IA (brainstorm, implementação, depuração, revisão) adaptados para diferentes tipos de tarefas de codificação.

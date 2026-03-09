@@ -1,0 +1,1 @@
+Testes de injeção de SQL: bypass de autenticação e extração de dados sensíveis para auditoria de segurança de bancos de dados.

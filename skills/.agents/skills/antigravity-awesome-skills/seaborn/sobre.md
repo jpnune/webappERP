@@ -1,0 +1,1 @@
+Visualização de dados estatísticos com Seaborn: criação rápida de gráficos atraentes e informativos baseados em Matplotlib.

@@ -1,0 +1,1 @@
+Testes abrangentes de Web3: uso de Hardhat e Foundry para testes unitários e de integração de contratos inteligentes com forks de rede principal.

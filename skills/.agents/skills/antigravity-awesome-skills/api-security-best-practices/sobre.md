@@ -1,0 +1,1 @@
+Implementação de padrões de design seguros para APIs, incluindo autenticação, autorização, validação de entrada e proteção contra vulnerabilidades comuns.

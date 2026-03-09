@@ -1,0 +1,1 @@
+Configuração e otimização de monorepos Nx: gestão de limites de projeto e cache de build eficiente.

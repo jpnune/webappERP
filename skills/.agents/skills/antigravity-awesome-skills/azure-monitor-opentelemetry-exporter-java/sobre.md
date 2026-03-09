@@ -1,0 +1,1 @@
+Exportação de traços, métricas e logs do OpenTelemetry para o Application Insights em sistemas Java.

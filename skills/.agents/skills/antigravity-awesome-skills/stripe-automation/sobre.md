@@ -1,0 +1,1 @@
+Automação no Stripe via MCP: gestão de clientes, assinaturas, faturas e reembolsos de forma programática via Composio.

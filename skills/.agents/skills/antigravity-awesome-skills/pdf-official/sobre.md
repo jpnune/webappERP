@@ -1,0 +1,1 @@
+Toolkit de manipulação de PDF: extração de texto/tabelas, preenchimento programático de formulários, mesclagem e divisão de documentos.

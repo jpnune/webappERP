@@ -1,0 +1,1 @@
+Gestão de RH e Folha de Pagamento no Odoo: estruturas salariais, regras de holerite, contratos e políticas de folga.

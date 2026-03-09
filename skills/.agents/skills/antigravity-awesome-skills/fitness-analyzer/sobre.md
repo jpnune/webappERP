@@ -1,0 +1,1 @@
+Análise de dados de exercícios: identificação de padrões de treino, progresso físico e correlação com dados de saúde crônica.

@@ -1,0 +1,1 @@
+Resposta a incidentes forenses de SEO: investigação de quedas repentinas de tráfego orgânico com análise de causa raiz e plano de recuperação.

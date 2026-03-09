@@ -1,0 +1,1 @@
+Guia completo de automação e scraping com go-rod (Chrome DevTools Protocol) e padrões anti-detecção.

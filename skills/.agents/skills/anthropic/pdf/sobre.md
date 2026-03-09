@@ -1,0 +1,1 @@
+Ferramenta completa para PDFs: leitura, extração de tabelas, mesclagem, divisão, marcas d'água, OCR e criptografia.
