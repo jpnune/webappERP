@@ -17,10 +17,10 @@ Este documento estabelece as regras invioláveis para qualquer Inteligência Art
 - **Documentação Humana**: Todo código deve conter Docstrings e comentários verbosos para facilitar a leitura humana futura.
 
 ## 4. Auditoria e Rastreabilidade (Commit History)
-- **Registro Obrigatório**: Para toda e qualquer alteração em arquivos existentes ou criação de novos arquivos, a IA deve obrigatoriamente adicionar uma entrada no topo ou na data correspondente do arquivo `historico.md`.
+- **Registro Obrigatório**: Para toda e qualquer alteração em arquivos existentes ou criação de novos arquivos, a IA deve obrigatoriamente adicionar uma entrada no topo ou na data correspondente do arquivo `historico.md` e `implementation_log.md`.
 - **Imutabilidade de Histórico**: É estritamente proibido apagar, sobrescrever ou alterar entradas passadas nos arquivos `implementation_log.md` e `historico.md` de forma que resulte em perda de informação. Qualquer erro deve ser corrigido com uma nova entrada retificadora.
 - **Formato do Registro**: Deve conter o Timestamp, o tipo de ação ([NEW], [MOD], [DELETE]), o nome do arquivo e uma breve descrição da alteração.
-- **Sincronismo**: A atualização do `historico.md` deve ser feita na mesma rodada de ferramentas da alteração principal.
+- **Sincronismo**: A atualização do `historico.md` e `implementation_log.md`deve ser feita na mesma rodada de ferramentas da alteração principal.
 
 ## 5. Prova de Trabalho (Proof of Work)
 - **Demonstração Visual**: Para cada funcionalidade de UI criada, a IA deve gerar um screenshot ou vídeo e disponibilizar para o usuário.

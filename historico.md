@@ -1,6 +1,22 @@
 # Histórico de Desenvolvimento - LolliPop
 
-Este arquivo registra cronologicamente todas as alterações, criações de arquivos e decisões significativas do projeto.
+## Cronologia
+
+### Data: 11 de Março de 2026 - Correções de Infraestrutura
+**Mudanças Principais:**
+- **2026-03-11 07:35**: [FIX] `colors.css` - Correção dos erros `unknown utility class border-border` e `outline-ring/50` através do mapeamento das variáveis `--color-border` e `--color-ring` no bloco `@theme` do Tailwind v4.
+
+### Data: 10 de Março de 2026 - Padronização Visual e Estoque Funcional
+**Mudanças Principais:**
+- **Sistema de Cores**: Criação do arquivo `src/styles/colors.css` extraindo todas as variáveis CSS "hardcoded" do `theme.css`. Mapeamento oficial da paleta "Pastel Professional".
+- **Mock Service Completo (CRUD)**: Ampliação do arquivo `mockProducts.ts` para agira como um banco de dados em memória, adicionando as funções Create, Update, Delete e GetById, todas com latências via Promises/setTimeout. A interface `Product` agora suporta Multi-Tamanhos e Multi-Cores.
+- **Tela de Estoque Reativa e UX (`Inventory.tsx`)**: Substituição dos dados mockados estáticos da tela. A tabela, a busca e os filtros agora consultam dinamicamente a Promise `mockProductsService`. Os "Cards Superiores" (Sem Estoque, Baixo Estoque) foram transformados em botões interativos que filtram a tabela imediatamente. Clique na Tabela agora expande as **Variações de Matriz da Peça** (GradeMatrix View).
+- **Tela de Detalhes (`ProductForm.tsx`)**: Refatoração do formulário para o modo Criação e Edição (puxando ID pela rota React Router `/:id`), carregando pre-loads do Mock e salvando ou atualizando na tabela de forma correta. Matriz de Grade incorporada ao Modo Edição.
+- **Notificação e Testes**: O Sistema Universal de Avisos (Sonner Toaster) agora possui ícone interativo `(X)`. Execução das suítes de teste via Vitest re-validada provando integridade contínua (4 files passed).
+- **2026-03-10 11:10**: [MOD] `Inventory.tsx`, `InventoryActions.test.tsx` - Implementação de DropdownMenu no botão de Filtros (Limpar Filtros e Filtro por Status) e adição de ordenação (Sort) em todas as colunas da tabela. Criação de suíte de testes dedicada para essas ações.
+
+### Data: 10 de Março de 2026 - Ponto de Venda (PDV/Vendas)
+**Mudanças Principais:**
 
 - **2026-03-09 11:20**: [MOD] `roadmap_tecnico.md`, `implementation_plan.md`, `historico.md` - Atualização maciça detalhando os exatos próximos passos do Frontend (Foco na tela PDV/Vendas e Camada Mock API) e fixo do problema de Document Drift através da promessa de uma revisão periódica de governança na transição de tarefas.
 
