@@ -2,8 +2,11 @@
 
 ## Cronologia
 
-### Data: 11 de Março de 2026 - Correções de Infraestrutura
+### Data: 11 de Março de 2026 - Correções de Infraestrutura, E2E e Clientes
 **Mudanças Principais:**
+- **2026-03-11 11:28**: [CLEANUP] `vite.config.ts`, `__tests__` - Remoção de testes defasados do inventário/vendas que quebraram com as novas UI. Varredura completa que excluiu documentações TXT mortas e ajustou o `vite.config.ts` para ignorar a pasta E2E, deixando a suíte Vitest 100% verde (9/9).
+- **2026-03-11 11:10**: [NEW] `mockCustomers.ts`, `CustomerForm.tsx`, `Customers.tsx` - Implementado CRUD completo de Clientes com persistência em localStorage. Formulário construído com estado controlado e máscaras RegEx em tempo real para Telefone `(11) 99999-9999`, CPF e CEP `XXXXX-XXX`. Endereço reestruturado para múltiplos campos.
+- **2026-03-11 10:45**: [TEST] `product-flow.spec.ts`, `ProductPage.ts` - E2E com Playwright estabilizado. Corrigido seletor problemático do Combobox do RadixUI e inserido adapter para persistência de localStorage nos testes de jornada.
 - **2026-03-11 07:35**: [FIX] `colors.css` - Correção dos erros `unknown utility class border-border` e `outline-ring/50` através do mapeamento das variáveis `--color-border` e `--color-ring` no bloco `@theme` do Tailwind v4.
 
 ### Data: 10 de Março de 2026 - Padronização Visual e Estoque Funcional

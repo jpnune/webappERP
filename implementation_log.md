@@ -95,3 +95,23 @@ Este arquivo registra detalhadamente as decisões técnicas, mudanças de arquit
 - **Rationale**: Melhorar a UX permitindo que o usuário limpe filtros rapidamente e organize a visualização por qualquer coluna (SKU, Nome, Preço, etc).
 - **Affected Files**: `Inventory.tsx`, `src/__tests__/inventory/button_test/InventoryActions.test.tsx`.
 - **Status**: Success
+
+## [2026-03-11] - Testes E2E e Gestão de Clientes
+
+### [11/03/2026 10:45] - 028_E2E_PLAYWRIGHT_STABILIZATION
+- **Action**: Configuração completa e estabilização do Playwright para testes End-to-End (E2E).
+- **Rationale**: Garantir que o fluxo crítico (Ex: Cadastro de Produtos) funcione como um usuário real. Correção de seletores complexos do Radix UI (Select/Combobox) e injeção do mock de localStorage.
+- **Affected Files**: `playwright.config.ts`, `e2e/specs/product-flow.spec.ts`, `e2e/pages/ProductPage.ts`.
+- **Status**: Success
+
+### [11/03/2026 11:10] - 029_CUSTOMER_CRUD_AND_MASKS
+- **Action**: Construção completa do módulo de Clientes (`Customers.tsx`, `CustomerForm.tsx`, `mockCustomers.ts`) com persistência em `localStorage`. Injeção de máscaras e formatação.
+- **Rationale**: Replicar a arquitetura bem sucedida de Produtos para os Clientes. O formulário agora exige validações rígidas de UX: Telefone `(11) 99999-9999`, CPF (apenas números), CEP `XXXXX-XXX` e separação completa do endereço (Rua, Número, Bairro, Complemento).
+- **Affected Files**: `Customers.tsx`, `CustomerForm.tsx`, `mockCustomers.ts`, `routes.ts`.
+- **Status**: Success
+
+### [11/03/2026 11:28] - 030_UNIT_TEST_CLEANUP
+- **Action**: Varredura e exclusão de testes unitários defasados da interface, documentações TXT antigas e remoção de imagens mock em base64 (`ImageWithFallback.tsx`). Correção da suíte `vite.config.ts` para ignorar os testes do Playwright.
+- **Rationale**: Manter o repositório limpo e os testes 100% verdes após as refatorações massivas das interfaces de Inventário e Vendas.
+- **Affected Files**: `vite.config.ts`, exclusão de `src/app/features/inventory/__tests__`, entre outros.
+- **Status**: Success
