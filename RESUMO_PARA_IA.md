@@ -1,23 +1,24 @@
 # Resumo de Contexto para a Próxima Sessão da IA (Handover)
 
-**Data da pausa:** 2026-03-10
+**Data da pausa:** 2026-03-11
 **Projeto:** LolliPop (ERP / PDV)
-**Stack Atual:** React, Node (Vite), Tailwind CSS, Vitest, React Testing Library.
+**Stack Atual:** React, Node (Vite), Tailwind CSS, Python (FastAPI), SQLCipher.
 
 ## 📍 Onde Paramos e Qual é o Foco
-Acabamos de finalizar as melhorias na tela de **Inventário (`Inventory.tsx`)**. 
-- O botão de "Filtros" agora é um `DropdownMenu` funcional (Limpar Filtros, Filtros por Status de Estoque).
-- A tabela agora possui **Ordenação (Sort)** em todas as colunas (SKU, Nome, Preço, Categoria, Estoque, Status).
-- Adicionada suíte de testes `InventoryActions.test.tsx` para validar essas novas funcionalidades.
-- Padronização de documentação "Book" bilíngue aplicada ao arquivo de Inventário.
+Finalizamos a Fase 1 (Frontend MVP) e avançamos significativamente na Fase 2 (Infraestrutura Local).
+- **PDV Completo**: Implementação de variações (Cor/Tamanho), leitor de código de barras e baixa de estoque real no backend.
+- **Inventário Premium**: Visualização refinada com zebra-striping, métricas granulares por variação e lista condicional.
+- **Cadastro Inteligente**: Modo "Tamanho Único" no `ProductForm.tsx` com lógica de bloqueio e visual azul premium. Implementado cálculo de **Crédito Sugerido Reativo** (`Volume Gasto * Taxa`) no `CustomerForm.tsx`.
+- **PDV com Fiado**: Novo método de pagamento "Fiado" integrado ao limite de crédito do cliente, com validação de saldo no backend e feedback visual no frontend.
+- **Backend Robusto**: FastAPI + SQLCipher + Migrações manuais para suporte a cores e tamanhos nas vendas.
 
 **Os Exatos Próximos Passos (Conforme Roadmap Técnico):**
-1.  **Criar a Tela de PDV / Frente de Caixa (`Vendas.tsx`):** Construir o layout flexível do carrinho dinâmico de produtos, listagem para busca rápida e informações de totalização. Ela terá que estar visualmente linda em nossa paleta "Pastel Professional".
-2.  **Integração de Mocks Robustos:** Continuar a expansão da camada de serviços para suportar as operações de venda (Mock de Checkout).
+1.  **Sincronização de Estoque (`2.4`):** Finalizar a transição completa de todos os componentes do frontend para chamadas reais de API, eliminando os últimos resquícios de mocks.
+2.  **Relatórios Básicos:** Iniciar a construção da tela de fechamento de caixa e relatórios de vendas por período.
 
 ## ⚠️ Regras Cruciais de Governança
 1.  **`segurancaIA.md`:** Registrar cada passo no `historico.md` **e** `implementation_log.md` simultaneamente.
-2.  **Padrão de Data no Histórico:** Usar EXATAMENTE o padrão de Data/Hora (Exemplo: `- **2026-03-10 11:10**: [MOD] ...`).
+2.  **Padrão de Data no Histórico:** Usar EXATAMENTE o padrão de Data/Hora (Exemplo: `- **2026-03-11 18:15**: [ADD] ...`).
 
 ## 🎯 Instrução Imediata para a IA ao Iniciar
-Diga *“Olá! Eu li o arquivo RESUMO_PARA_IA.md. Finalizamos o Estoque com Filtros e Ordenação. Nosso próximo foco é começar a desenhar a super Tela de PDV (Frente de Caixa) com mock data. Lembre-se que documentarei todos os passos no histórico e no log de implementação simultaneamente.”*
+Diga *“Olá! Eu li o arquivo RESUMO_PARA_IA.md. O PDV e o Inventário estão refinados e o Backend já processa vendas com variações. Nosso próximo foco é consolidar a integração total do Frontend, garantindo que nenhum dado dependa de mocks. Lembre-se que documentarei todos os passos no histórico e no log de implementação simultaneamente.”*

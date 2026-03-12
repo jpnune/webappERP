@@ -2,9 +2,29 @@
 
 ## Cronologia
 
-### Data: 11 de Março de 2026 - Correções de Infraestrutura, E2E e Clientes
+### Data: 12 de Março de 2026 - Gestão Avançada de Crédito e Regras de Status
 **Mudanças Principais:**
-- **2026-03-11 11:28**: [CLEANUP] `vite.config.ts`, `__tests__` - Remoção de testes defasados do inventário/vendas que quebraram com as novas UI. Varredura completa que excluiu documentações TXT mortas e ajustou o `vite.config.ts` para ignorar a pasta E2E, deixando a suíte Vitest 100% verde (9/9).
+- **2026-03-12 16:45**: [UX/UI] `CustomerForm.tsx` - Adicionado feedback visual de **"Segurança Reforçada"** (mensagem verde) quando o usuário opta por um limite manual mais conservador/menor que o sugerido pelo sistema.
+- **2026-03-12 16:40**: [UX/BUGFIX] `CustomerForm.tsx` - Corrigido bug de interação nos campos numéricos (Taxa e Limite Manual). Agora é possível apagar completamente o valor sem que o zero persistente atrapalhe a digitação.
+- **2026-03-12 16:35**: [BUGFIX] `customers.py`, `Vendas.tsx` - Corrigida prioridade de exibição do crédito. Agora, se um **Limite Manual** for definido, ele substitui o valor sugerido em todas as listas e validações do sistema, garantindo consistência entre o cadastro e o PDV.
+- **2026-03-12 16:30**: [FINANCEIRO/PDV] `Vendas.tsx`, `sales.py` - Implementado método de pagamento **Fiado**. O sistema agora valida o limite (Manual ou Sugerido) antes de fechar a venda e exibe o saldo de crédito disponível no carrinho em tempo real.
+- **2026-03-12 16:20**: [UX/UI] `CustomerForm.tsx` - Implementado o cálculo dinâmico de **Crédito Sugerido** (`Volume Gasto * Taxa (%)`). O campo agora reage em tempo real às alterações da taxa inserida pelo usuário.
+- **2026-03-12 12:00**: [BACKEND/FRONTEND] `sales.py`, `customers.py`, `CustomerForm.tsx` - Removida a trava global de vendas para clientes inativos. O bloqueio agora é restrito ao **Crédito Fidelidade**, que é automaticamente zerado e desabilitado se o status do cliente não for "Ativo".
+- **2026-03-12 11:30**: [UX/UI] `CustomerForm.tsx`, `switch.tsx` - Switch de crédito agora possui cor verde (`bg-green-600`) quando ativo e cinza claro (`bg-slate-200`) quando inativo, garantindo visibilidade total.
+- **2026-03-12 11:00**: [NEW] `CustomerForm.tsx` - Implementado campo de **Limite Manual de Crédito** com inicialização em 0. Adicionado banner de **"Atenção: Risco Redobrado"** que exibe a diferença em Reais quando o limite manual excede o sugerido pelo sistema.
+- **2026-03-12 10:30**: [BACKEND] `models.py`, `schemas.py`, `migrate_manual_credit.py` - Adicionada coluna `manual_credit_limit` ao banco de dados SQLite/SQLCipher e sincronizada com os esquemas Pydantic.
+- **2026-03-12 09:15**: [I18N] `index.html` - Alterado idioma base para `pt-BR` e título do sistema para "LolliPop ERP - Gestão de Varejo".
+
+### Data: 11 de Março de 2026 - UX Premium e Refinamentos de Variação
+**Mudanças Principais:**
+- **2026-03-11 18:45**: [FIX] `schemas.py`, `productService.ts` - Resolvido erro ao salvar produto. Flexibilização dos esquemas Pydantic para aceitar campos nulos/opcionais e melhoria no log de erros do frontend.
+- **2026-03-11 18:20**: [UX/UI] `Inventory.tsx` - Refinamento da lista de variações com zebra-striping, fontes ampliadas e remoção de indicadores visuais redundantes para melhor legibilidade.
+- **2026-03-11 18:15**: [NEW] `ProductForm.tsx` - Implementação do Switch "Tamanho Único" azul premium. Adicionada lógica de transição que preserva/restaura tamanhos anteriores ao alternar modos.
+- **2026-03-11 18:10**: [FIX] `ProductForm.tsx` - Correção de erros de sintaxe JSX e restauração de funcionalidades de limpeza da grade (Matriz de Quantidades).
+- **2026-03-11 16:00**: [REFATORAÇÃO] `productService.ts`, `customerService.ts`, `salesService.ts` - Removido prefixo `mock` de todos os arquivos e classes. Atualizados 100% dos componentes front-end (`Inventory.tsx`, `Vendas.tsx`, `ProductForm.tsx`, `CustomerForm.tsx`) para usar os serviços reais.
+- **2026-03-11 15:50**: [BACKEND] `sales.py`, `models.py`, `schemas.py` - Implementado módulo de vendas no FastAPI com suporte a itens de venda e baixa automática de estoque no campo `variants_json` (campo dinâmico para MVP).
+- **2026-03-11 15:15**: [MOD] `roadmap_tecnico.md`, `RESUMO_PARA_IA.md` - Sincronização da documentação de planejamento com o progresso real do projeto. Fase 1 marcada como concluída e Fase 2 (Infraestrutura Local/SQLCipher) iniciada e em andamento.
+- **2026-03-11 11:28**: ... (restante do arquivo)
 - **2026-03-11 11:10**: [NEW] `mockCustomers.ts`, `CustomerForm.tsx`, `Customers.tsx` - Implementado CRUD completo de Clientes com persistência em localStorage. Formulário construído com estado controlado e máscaras RegEx em tempo real para Telefone `(11) 99999-9999`, CPF e CEP `XXXXX-XXX`. Endereço reestruturado para múltiplos campos.
 - **2026-03-11 10:45**: [TEST] `product-flow.spec.ts`, `ProductPage.ts` - E2E com Playwright estabilizado. Corrigido seletor problemático do Combobox do RadixUI e inserido adapter para persistência de localStorage nos testes de jornada.
 - **2026-03-11 07:35**: [FIX] `colors.css` - Correção dos erros `unknown utility class border-border` e `outline-ring/50` através do mapeamento das variáveis `--color-border` e `--color-ring` no bloco `@theme` do Tailwind v4.

@@ -98,6 +98,49 @@ Este arquivo registra detalhadamente as decisões técnicas, mudanças de arquit
 
 ## [2026-03-11] - Testes E2E e Gestão de Clientes
 
+
+### [11/03/2026 18:50] - 039_PRODUCT_SAVE_VALIDATION_FIX
+- **Action**: Tornei os campos secundários do produto (`brand`, `supplier`, `min_stock`, `margin`, `status`) opcionais nos esquemas Pydantic do backend e adicionei tratamento de erro detalhado no `productService.ts`.
+- **Rationale**: Corrigir o erro 422 (Unprocessable Entity) que ocorria ao tentar salvar produtos com dados incompletos ou registros migrados com campos nulos. A API agora é mais resiliente e fornece logs claros caso ocorram falhas.
+- **Affected Files**: `schemas.py`, `productService.ts`, `implementation_log.md`.
+- **Status**: Success
+
+### [11/03/2026 18:15] - 038_INVENTORY_AND_PRODUCT_FORM_UX_POLISH
+- **Action**: Refinamento visual da lista de variações no Inventário (zebrado, exclusão de bullets, fontes maiores) e implementação do Switch "Tamanho Único" azul premium no `ProductForm.tsx`.
+- **Rationale**: Elevando a qualidade visual e simplificando a jornada de cadastro de produtos sem grade complexa, atendendo às exigências estéticas do projeto.
+- **Affected Files**: `Inventory.tsx`, `ProductForm.tsx`, `VariationListView.tsx` (inline), `implementation_log.md`.
+- **Status**: Success
+
+### [11/03/2026 21:00] - 037_PDV_VARIATIONS_AND_BARCODE
+- **Action**: Implementação de suporte a variações de produtos (Tamanho/Cor) e scanner de código de barras no PDV.
+- **Rationale**: Melhorar a precisão das vendas e agilidade no atendimento, permitindo selecionar grades específicas e usar hardware de scanner.
+- **Affected Files**: `backend/models.py`, `backend/schemas.py`, `backend/routers/sales.py`, `productService.ts`, `salesService.ts`, `Vendas.tsx`, `ProductForm.tsx`.
+- **Status**: Success
+
+### [11/03/2026 20:25] - 036_CATEGORY_COMPONENT_FIX
+- **Action**: Refatoração do componente de Categorias no `ProductForm.tsx`.
+- **Rationale**: Corrigir bugs de interatividade no `Select` e falhas na criação de novas categorias causadas por conflitos de eventos e componentes customizados fora do padrão Radix UI.
+- **Affected Files**: `ProductForm.tsx`.
+- **Status**: Success
+
+### [11/03/2026 19:30] - 034_PRODUCT_FORM_UX_AND_CATEGORIES
+- **Action**: Implementação de categorias persistentes e melhoria na calculadora de preços/validação no `ProductForm.tsx`.
+- **Rationale**: Atender à necessidade de categorias definidas pelo usuário e resolver bugs na lógica de precificação e feedback de erro.
+- **Affected Files**: `ProductForm.tsx`, `categoryService.ts`, `backend/routers/categories.py`, `backend/models.py`.
+- **Status**: Success
+
+### [11/03/2026 16:00] - 033_SALES_AND_SERVICE_REFACTOR
+- **Action**: Refatoração global dos nomes dos serviços (mock -> real) e implementação do backend de vendas.
+- **Rationale**: Transição necessária do modelo "Mocked/Demo" para o modelo "Produção Local". A arquitetura agora permite persistência real em SQLite criptografado.
+- **Affected Files**: `productService.ts`, `customerService.ts`, `salesService.ts`, `backend/routers/sales.py`, `backend/models.py`, `backend/schemas.py`, `backend/main.py`.
+- **Status**: Success
+
+### [11/03/2026 15:15] - 032_DOCUMENTATION_SYNC
+- **Action**: Atualização do `roadmap_tecnico.md` e `RESUMO_PARA_IA.md`.
+- **Rationale**: Garantir que o planejamento reflita a conclusão do Frontend MVP e o início da integração com a API FastAPI local e suporte a SQLCipher.
+- **Affected Files**: `roadmap_tecnico.md`, `RESUMO_PARA_IA.md`.
+- **Status**: Success
+
 ### [11/03/2026 10:45] - 028_E2E_PLAYWRIGHT_STABILIZATION
 - **Action**: Configuração completa e estabilização do Playwright para testes End-to-End (E2E).
 - **Rationale**: Garantir que o fluxo crítico (Ex: Cadastro de Produtos) funcione como um usuário real. Correção de seletores complexos do Radix UI (Select/Combobox) e injeção do mock de localStorage.
@@ -114,4 +157,48 @@ Este arquivo registra detalhadamente as decisões técnicas, mudanças de arquit
 - **Action**: Varredura e exclusão de testes unitários defasados da interface, documentações TXT antigas e remoção de imagens mock em base64 (`ImageWithFallback.tsx`). Correção da suíte `vite.config.ts` para ignorar os testes do Playwright.
 - **Rationale**: Manter o repositório limpo e os testes 100% verdes após as refatorações massivas das interfaces de Inventário e Vendas.
 - **Affected Files**: `vite.config.ts`, exclusão de `src/app/features/inventory/__tests__`, entre outros.
+- **Status**: Success
+
+### [11/03/2026 11:40] - 031_PIVOT_LOCAL_FIRST_EXCLUSIVE
+- **Action**: Alteração estrutural do `roadmap_tecnico.md`. Supabase e Cloud atrasados para a Fase 4. Fase 2 e 3 focadas integralmente em SQLite + SQLCipher + Integração Frontend-Backend.
+- **Rationale**: Pedido expresso do usuário para não onerar custos com nuvem (Supabase) prematuramente. Construção e homologação do software deverá ser garantida 100% offline antes da sincronização remota.
+- **Affected Files**: `roadmap_tecnico.md`, `task.md`, `implementation_plan.md`.
+- **Status**: Success
+
+## [2026-03-12] - Gestão de Crédito e Refinamento de Status
+
+### [12/03/2026 09:15] - 040_I18N_AND_BRANDING
+- **Action**: Atualização do `index.html` para `lang="pt-BR"` e novo título.
+- **Rationale**: Padronizar o sistema para o mercado brasileiro de acordo com a solicitação do usuário.
+- **Affected Files**: `index.html`.
+- **Status**: Success
+
+### [12/03/2026 10:30] - 041_MANUAL_CREDIT_BACKEND
+- **Action**: Adição do campo `manual_credit_limit` e execução de script de migração em database criptografada.
+- **Rationale**: Permitir que administradores definam limites de crédito fixos, ignorando a taxa variável se necessário.
+- **Affected Files**: `models.py`, `schemas.py`, `database.py`, `migrate_manual_credit.py`.
+- **Status**: Success
+
+### [12/03/2026 11:00] - 042_CREDIT_RISK_UI
+- **Action**: Implementação do cálculo de risco em tempo real no `CustomerForm.tsx` com banner de aviso Amber.
+- **Rationale**: Transparência financeira. O usuário deve ser alertado visualmente sobre o risco assumido ao liberar crédito acima do sugerido pelo histórico de compras.
+- **Affected Files**: `CustomerForm.tsx`.
+- **Status**: Success
+
+### [12/03/2026 11:30] - 043_SWITCH_VISUAL_POLISH
+- **Action**: Ajuste de cores do Componente Switch (`green-600` para checked, `slate-200` para unchecked).
+- **Rationale**: Melhorar o contraste e a identificação rápida do estado de ativação do crédito.
+- **Affected Files**: `CustomerForm.tsx`, `switch.tsx`.
+- **Status**: Success
+
+### [12/03/2026 12:00] - 044_STATUS_VS_CREDIT_REFACTOR
+- **Action**: Vinculação do crédito ao status Ativo e remoção de trava de venda para inativos.
+- **Rationale**: Flexibilidade comercial (permitir vendas de queima de estoque para inativos) mantendo a segurança financeira (bloqueio de crédito para inativos).
+- **Affected Files**: `backend/routers/sales.py`, `backend/routers/customers.py`, `CustomerForm.tsx`.
+- **Status**: Success
+
+### [12/03/2026 16:30] - 046_FIADO_PAYMENT_METHOD
+- **Action**: Implementação do método de pagamento "Fiado" utilizando o limite de crédito.
+- **Rationale**: Atender à necessidade de vendas a prazo (caderneta) com segurança financeira, garantindo que o cliente não exceda o limite liberado (seja ele manual ou baseado em taxa).
+- **Affected Files**: `sales.py`, `customers.py`, `Vendas.tsx`.
 - **Status**: Success
